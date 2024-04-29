@@ -1,0 +1,167 @@
+"guidedata"
+{
+	"Hero"		"venomancer"
+	"Title"		"Standard Build Position 5 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"386"
+	"AssociatedWorkshopItemID"		"0x0000000007B1DB23"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D3778"
+	"TimePublished"		"0x00000000662D3778"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_mekansm"
+				"item"		"item_guardian_greaves"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_hand_of_midas"
+				"item"		"item_solar_crest"
+				"item"		"item_spirit_vessel"
+				"item"		"item_cyclone"
+				"item"		"item_heavens_halberd"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_force_staff"
+				"item"		"item_pipe"
+				"item"		"item_lotus_orb"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_ethereal_blade"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Blink, Initiate with your Poison Nova, use your Slow to target specific heroes you want to kill as your ultimate does not kill anyone on their own. Follow-through on your damage and poison by spamming Plague Wards as they flee."
+			"item_ward_observer"		"As a support hero, you need few items to achieve the same impact as those who are going to carry or initiate; be sure to pick up both items to put your team on even ground from the get-go."
+			"item_hurricane_pike"		"Blink combined with Hurricane Pike allows you to initiate onto enemies, land some slows and remain constantly at a distance against them so they cannot retaliate.
+
+Additionally, if an enemy is specifically targeting you, feel free to use Hurricane Pike to distance each other."
+			"item_ultimate_scepter"		"Aghanims Scepter is your end-game goal. The extra damage coming from it will nearly kill all enemies the moment you let it loose to initiate and then use your Plague Wards to keep foes slowed, hurt and crippled."
+			"item_veil_of_discord"		"Get this item to help deal even more damage with your ultimate. The extra survivability it offers also offers you more reasons to purchase it.
+
+The way even Poison Sting is improved with Veil makes this a great item; especially with Plague Wards attacks being also magical."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if theyre frail to magic types."
+			"item_spirit_vessel"		"Spirit Vessel capitalizes on your early ganking prowlness to then be able to dish out strong scaling damage to high health heroes.
+
+Combined with your ultimate nearly guarantees a kill on most heroes!"
+			"item_cyclone"		"Euls Scepter of Divinity dissolves your mana problems, improves movement speed to ensure your positioning is ideal for your ultimate to stay in the back to spam Plague Wards."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemys armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_urn_of_shadows"		"An early Urn of Shadows provides you with some mana regen for your abilities but also capitalizes on your strong kill powers to then increase the damage when casting Soul Release on enemies."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain stuns and silences that you will receive, increase your magic output and mana gain to alleviate you of any concern."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero. More importantly, it can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to their teammates more quickly."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes.
+
+Use before your opponents pops their BKB as the Disarm will pursue even after."
+			"item_guardian_greaves"		"For Venomancer, you can buff up your tankiness but also presence in a fight to help keep your teammates alive as you are usually in and around fights - laying down Plague Wards."
+			"item_aghanims_shard"		"Purchase Aghs Shard especially for heroes who rely on BKB or dispels like Juggernaut Blade Fury to rid your teams disables.
+
+This item needs to be casted BEFORE they dispel your disables in order for it to work."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_octarine_core"		"For heroes with a large spell cooldown on their ultimate, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_tranquil_boots"		"After you disassemble your Arcane Boots, you need to build new boots to help with your positioning so you can move in on fights when youre most needed and stay out of fights when big initiations will occur."
+			"item_eternal_shroud"		"This works in two values:
+
+1. The damage you receive is reduced by the spell shield and magic resistance.
+
+2. The spell lifesteal from the damage you deal."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Holy Locket, Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase"
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun.
+
+Glimmer is also great as a way to safely channel your spells while hiding behind the invisibility so you cant be targeted by stuns or silences without the enemy having detection first."
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"venomancer_venomous_gale"
+			"2"		"venomancer_poison_sting"
+			"3"		"venomancer_poison_sting"
+			"4"		"venomancer_plague_ward"
+			"5"		"venomancer_poison_sting"
+			"6"		"venomancer_noxious_plague"
+			"7"		"venomancer_poison_sting"
+			"8"		"venomancer_plague_ward"
+			"9"		"venomancer_plague_ward"
+			"10"		"venomancer_plague_ward"
+			"11"		"special_bonus_unique_venomancer_poisonsting_regen_reduction"
+			"12"		"venomancer_noxious_plague"
+			"13"		"venomancer_venomous_gale"
+			"14"		"venomancer_venomous_gale"
+			"15"		"special_bonus_unique_venomancer_2"
+			"16"		"venomancer_venomous_gale"
+			"18"		"venomancer_noxious_plague"
+			"20"		"special_bonus_unique_venomancer_4"
+			"25"		"special_bonus_unique_venomancer_5"
+		}
+		"AbilityTooltips"
+		{
+			"venomancer_venomous_gale"		"The first level in your Q is so valuable that we get it early as it has decent range and an amazing slow from the first level.
+
+It doesnt scale nearly as well as your other abilities; so its delayed to prioritized the other skills."
+			"venomancer_poison_sting"		"Poison Sting is an incredible harassment tool to keep foes slowed. Works with your Plague Wards as well letting you place the wards far and forcing allies to take damage-over-time effects.
+
+Try to land as much Poison Sting on enemies who are hit by your Poison Nova so they die."
+			"venomancer_plague_ward"		"Plague Wards has an incredible casting range, low cooldown and keeps the lanes pushed. You can also use it as pseudo-wards for fogged areas as its duration is extensive and can give great vision for areas you fear of ganks.
+
+Plague Wards can be used to siege enemy towers on high-ground or as a defensive measure to make their push harder to succeed.
+
+Use this ability to farm, ferry over clarities regularly."
+			"venomancer_poison_nova"		"Poison Nova is a nice follow-through punishment against dispels and effects that seek to get rid of your Venomous Gale.
+
+Once Poison Nova pops, the rest of your abilities will do even more magic damage as the enemies have their resistances reduced."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"venomancer_latent_poison"		"Latent Toxicity is to help you combat enemies who are dispelling your poison. Cast this on heroes that have BKB before they activate it so they end up stunned."
+			"venomancer_noxious_plague"		"Noxious Plague is one of your initiating abilities because of the slow and range of your ability versus Venomous Gale."
+		}
+	}
+}
+ 

@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"history":
+	[
+		{
+			"tip_id": 2,
+			"display_count": 1,
+			"variants_seen": null
+		},
+		{
+			"tip_id": 7,
+			"display_count": 1,
+			"variants_seen":
+			[
+				5040
+			]
+		},
+		{
+			"tip_id": 307,
+			"display_count": 1,
+			"variants_seen": null
+		}
+	]
+}

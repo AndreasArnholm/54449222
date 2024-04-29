@@ -1,0 +1,163 @@
+"guidedata"
+{
+	"Hero"		"void_spirit"
+	"Title"		"Standard Build Position 2 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		""
+	"GuideRevision"		"384"
+	"AssociatedWorkshopItemID"		"0x000000007288854B"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662C0278"
+	"TimePublished"		"0x00000000662C0278"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bottle"
+				"item"		"item_bracer"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_spirit_vessel"
+				"item"		"item_manta"
+				"item"		"item_harpoon"
+				"item"		"item_silver_edge"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_octarine_core"
+				"item"		"item_greater_crit"
+				"item"		"item_sheepstick"
+				"item"		"item_devastator"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_nullifier"
+				"item"		"item_sphere"
+				"item"		"item_shivas_guard"
+				"item"		"item_dagon_5"
+				"item"		"item_wind_waker"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_veil_of_discord"		"Before casting your abilies, initiate with Veil of Discord. The radius means enemies will take extra magic damage which happen to be all your abilities."
+			"item_yasha_and_kaya"		"Void Spirit hits hard and fast. With Kaya and Yasha, it means you maneuver better, hit faster and your spells deal more damage. "
+			"item_cyclone"		"With Euls Scepter, you can comfortably combo an enemy with your Aether Remnant and Dissimilate. Initiate with Euls then cast Aether Remnant and finish them with Dissimilate.
+
+If combod well, theyll take full damage without being able to respond."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_ultimate_scepter"		"Aghanims mass silences all enemies around you, making your initiation incredible. The additional damage you deal from having two Resonant Pulse charges leads you to be an incredible force to be reckon with.
+
+Focus on back-to-back silence durations rather than spamming both for damage unless you can guarantee the kill."
+			"item_black_king_bar"		"BKB is necessary for a hero that relies on not getting stunned or silenced to dish out the necessary damage."
+			"item_shivas_guard"		"Shivas Guard is a great defensive item to increase your armor while also staving off strong physical carries wtih your nuke aura.
+
+The extra mana would be appreciated by Void Spirit"
+			"item_kaya_and_sange"		"Kaya and Sange means increased status resistance to reduce the duration from stuns or silences while the Kaya increases your spell damage allowing you more free to cast spells and burst down enemies as a combined package in one item."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by on your tangos for additional healing."
+			"item_null_talisman"		"Early Null Talismans means increased damage, mana regeneration and helps with wave-clearing for Void Spirit."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"Aghs Shard makes natural sense for a hero that likes to combo enemies into submission. The extra damage from your Dissimilate is especially desirable."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander Duel."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_dagon_5"		"Pick up Dagon if you can get the higher levels very quickly as this is a great item to further burst down enemies and prevent them from being healed back up."
+			"item_kaya"		"Kaya first to ensure you get strong mana regen."
+			"item_bottle"		"Your goal early-on is to snag last hits to get Bottle before the two-minute rune comes up. You rely on Bottle to spam abilities that either harasses your opponent, secures the ranged creep with an ability or to eventually gank when you can activate the rune whenever you want to start roaming to other lanes."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_witch_blade"		"With Void Spirits maneuvrability, extra damage from Astral Step and mid-lane dominance, Witch Blade secures that lane bullying against other mid-laners and helps you secure kills when ganking other lanes."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_harpoon"		"Rely on Harpoon as either your initiating ability to get enemies close or to keep them in-range should they find a way to escape. Heads-up that it pulls both you and the target and you must select the target so no skills required to Harpoon enemies."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_echo_sabre"		"Echo Sabre gives Void Spirit quick and hard damage on top of incredible stats to amplify his physical output, making this items everything Void Spirit loves when initiating."
+			"item_desolator"		"For Void Spirit, as he gets levels, his physical damage increases which is then amplified by the Corruption passive effect Desolator does, allowing you to quickly kill any enemy you gank."
+			"item_greater_crit"		"Daedalus is your follow-through so the few times you do hit your enemy, its massive damage and at a very quick rate, so your ganks are short, sweet and guaranteed."
+			"item_skadi"		"Rely on Eye of Skadi to bulk up your Void Spirit, gain a large amount of damage from your stats and slow foes you catch up with your abilities and high movement."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities)."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls, Glimmer and Satanic to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"void_spirit_resonant_pulse"
+			"2"		"void_spirit_aether_remnant"
+			"3"		"void_spirit_resonant_pulse"
+			"4"		"void_spirit_dissimilate"
+			"5"		"void_spirit_resonant_pulse"
+			"6"		"void_spirit_astral_step"
+			"7"		"void_spirit_resonant_pulse"
+			"8"		"void_spirit_aether_remnant"
+			"9"		"void_spirit_aether_remnant"
+			"10"		"void_spirit_aether_remnant"
+			"11"		"void_spirit_dissimilate"
+			"12"		"void_spirit_astral_step"
+			"13"		"void_spirit_dissimilate"
+			"14"		"void_spirit_dissimilate"
+			"15"		"special_bonus_unique_void_spirit_2"
+			"16"		"special_bonus_unique_void_spirit_4"
+			"18"		"void_spirit_astral_step"
+			"20"		"special_bonus_unique_void_spirit_1"
+			"25"		"special_bonus_unique_void_spirit_8"
+		}
+		"AbilityTooltips"
+		{
+			"void_spirit_aether_remnant"		"Use Aether Remnant to set up an attack. Additionally, you can use the Remnant to scout uphill or force an enemy to be caught out if they retreat on your approach.
+
+With Aether Remnant, youll have enough time to cast Dissimilate right after to be able to burst down your opponent.
+
+Use this ability to guarantee last-hits of the range creeps"
+			"void_spirit_dissimilate"		"Both Astral Step and Dissimilate can be used as escapes if you run into trouble. With Dissimilate, position yourself near a cliff to be able to exit the aether separate by your enemies.
+
+This ability is your main burst damage. 
+Use this ability to farm"
+			"void_spirit_resonant_pulse"		"This Resonant Pulse protects you from physical attack damage. It is especially useful during the early-game when you need last-hits.
+
+When fighting, you generally want to use this when you are near as many enemies as possible and it will increase your absorption."
+			"void_spirit_astral_step"		"Initiate with Astral Step:
+
+1. Initiate on an enemy with Astral Step
+2. Once slowed, cast Aether Remnant to entrap them
+3. Follow-up with Dissimilate to burst them down
+4. Use Resonant Pulse to fight them head-on if still not dead."
+		}
+	}
+}
+ 

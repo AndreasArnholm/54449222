@@ -1,0 +1,169 @@
+"guidedata"
+{
+	"Hero"		"spirit_breaker"
+	"Title"		"Standard Build Position 3 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"410"
+	"AssociatedWorkshopItemID"		"0x0000000007AFF5F0"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D3721"
+	"TimePublished"		"0x00000000662D3721"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bracer"
+				"item"		"item_boots"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_hand_of_midas"
+				"item"		"item_invis_sword"
+				"item"		"item_octarine_core"
+				"item"		"item_black_king_bar"
+			}
+			"utility Items"
+			{
+				"item"		"item_tpscroll"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_soul_ring"
+				"item"		"item_heavens_halberd"
+				"item"		"item_lotus_orb"
+				"item"		"item_sphere"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_pipe"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_silver_edge"
+				"item"		"item_wind_waker"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_dust"		"Keep Dust of Appearance on you if there are invisible heroes on the enemy team. If you spot them, charge them as you won&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t lose your target if they go invisible. Once you hit them, pop Dust and then follow-up with Netherstrike."
+			"item_tpscroll"		"Always carry a Town Portal Scroll especially with Spirit Breaker. It can be great when you need mana and have run out when farming.
+
+Alternatively, you can also use it mid-right, TP home and then immediately charge back in knowing you are fully replenished."
+			"item_urn_of_shadows"		"Urn of Shadows helps keep you on the map, charging and dealing damage. Use it in-between battles to heal up and regenerate mana or against enemies if they manage to escape after your Charge of Darkness."
+			"item_blade_mail"		"Blade Mail forces enemies to either fight you after you chip a chunk of their life with your stuns, or to run away, to which you can easily catch up thanks to Empowering Haste. Blade Mail bolsters Spirit Breakers survivability to make diving towers easier and force fights heavily in his favour."
+			"item_invis_sword"		"While charging, use Shadow Blade to safely gank your opponent. Shadow Blade can be used in a variety of ways with Spirit Breaker who wants the extra damage and to consistently gank foes."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes.
+
+Use before your opponents pops their BKB as the Disarm will pursue even after."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re frail to magic types."
+			"item_aeon_disk"		"Aeon Disk is especially important if you find yourself just completely dying. Typically this is if someone&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s attacks can&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t be reduced, blocked or remove enough for you to run or escape. Aeon Disk can be important if they have a strong team-combo that you want to completely negate."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemy&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_spirit_vessel"		"Spirit Vessel is a great end-game item versus especially tanky heroes or those with a lot of health."
+			"item_ultimate_scepter"		"More damage and more Charge of Darkness interruptions, making your involvement in team-fights even stronger.
+
+The increase damage comes from the increase speed you get as well, leading to higher damage from Greater Bash."
+			"item_phase_boots"		"Activate Phase Boots when charging to deal more damage upon impact.
+
+The extra armor is also helpful for a surviving Ganker like Spirit Breaker"
+			"item_crimson_guard"		"Crimson Guard is recommended against high-input and illusion-base damage heroes to mitigate their physical output against your team that needs, but cannot focus on, sustainability."
+			"item_black_king_bar"		"BKB is necessary for a hero that relies on not getting stunned or silenced to dish out the necessary damage."
+			"item_vladmir"		"Improve team-fights and pushing power with Vladmir&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering. Magnus is a great holder of auras given his ability to maneuver and stay in and out of fights when necessary."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities)."
+			"item_orb_of_corrosion"		"Orb of Corrosion provides a bit more health and combines an early-game slow with minor armor debuff allowing you to force yourself against enemies who have no real escape. Works especially well against enemies who are fragile but hit hard, providing you more survivability and a great slow to keep the enemies within your range."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_echo_sabre"		"Echo Sabre for Spirit Breaker means incredible damage to follow-up with your Charge of Darkness as well as a chance to land another Greater Bash on your enemy for a great stun and damage."
+			"item_yasha_and_kaya"		"Yasha for the movement speed, Kaya because your Charge of Darkness, Greater Bash and Nether Strike are all magic damage, meaning you do more with Kaya."
+			"item_wind_waker"		"Windwaker allows you to charge in, deal damage and get out before anyone is the wiser while being able to return and charge in with ease."
+			"item_soul_ring"		"Soul Ring gives you reliable mana to routinely charge for farming or to have just enough to escape or charge an enemy. The extra armor and strength gives you additional damage as well as survivability in the lane.
+
+If you run out of health, just TP back home and charge again to be able to use Soul Ring again."
+			"item_meteor_hammer"		"Combined with Charge of Darkness, Meteor Hammer can extend the stun duration and allow Spirit Breaker to do massive follow-up damage."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_refresher"		"Do everything again. Black King Bar again, Charge of Darkness chain-stun with your ultimate and Greater Bash, etc. Refresher Orb just gives Spirit Breaker the ability to do all his best moves and items once more for the late-game when fights last a really long time."
+			"item_vanguard"		"Vanguard provides you with the survivability to farm as well as to overpower others in fights by out-surviving them in combination with your Retaliate ability.
+
+Consider disassembling this to make a variety of items if youre not keeping it to make Crimson Guard"
+			"item_octarine_core"		"Octarine seems weird on Spirit Breaker but the reality is that this item not only alleviates all your mana problems so you can freely use charge to farm camps, but it also improves all the cooldown of your abilities almost equal to an Aghs Scepter, but better since its all your abilities and not just your Charge."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"spirit_breaker_greater_bash"
+			"2"		"spirit_breaker_charge_of_darkness"
+			"3"		"spirit_breaker_greater_bash"
+			"4"		"spirit_breaker_charge_of_darkness"
+			"5"		"spirit_breaker_greater_bash"
+			"6"		"spirit_breaker_nether_strike"
+			"7"		"spirit_breaker_greater_bash"
+			"8"		"spirit_breaker_charge_of_darkness"
+			"9"		"spirit_breaker_charge_of_darkness"
+			"10"		"spirit_breaker_bulldoze"
+			"11"		"spirit_breaker_bulldoze"
+			"12"		"spirit_breaker_nether_strike"
+			"13"		"spirit_breaker_bulldoze"
+			"14"		"spirit_breaker_bulldoze"
+			"15"		"special_bonus_night_vision_500"
+			"16"		"special_bonus_unique_spirit_breaker_2"
+			"18"		"spirit_breaker_nether_strike"
+			"20"		"special_bonus_unique_spirit_breaker_shield"
+			"25"		"special_bonus_unique_spirit_breaker_3"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_all_stats_5"		"The stats upgrade involves ensuring you have enough mana, survivability and armor to follow-through into the mid/late-game."
+			"special_bonus_movement_speed_20"		"Movement Speed means great initial damage when charging and roaming around for kills."
+			"spirit_breaker_charge_of_darkness"		"Start with Charge to open with a good stun on-hit:
+
+1. Target a foe with Charge of Darkness
+2. Activate Shadow Blade near the beginning of the charge
+3. Follow-up with Netherstrike
+
+Use Charge to escape as well. This ability in combination with Greater Bash and Phase Boots, is great to farm - ferry over clarities regularly."
+			"spirit_breaker_empowering_haste"		"The initial level for Empowering Haste is strong and of great use early on to escape or follow-through on chases during the laning phase.
+
+The extra movement speed granted when using Empowering Haste can be used when charging, dealing more damage via Greater Bash."
+			"spirit_breaker_greater_bash"		"The higher levels of Bash, the better damage with Charge of Darkness also your ultimate: Nether Strike. Max this first if you want to really be a key damage-maker, otherwise it Charge of Darkness takes priority given its relative bonuses."
+			"spirit_breaker_nether_strike"		"Follow-up your Charge of Darkness with this ultimate ability to extend the stun duration. It does go through Black King Bar. However, be wary that there is a delay while casting where you will not be immune to disables."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_night_vision_400"		"This talent increases your Night Vision AOE to a much larger area during the night-time."
+			"spirit_breaker_bulldoze"		"You can activate Bulldoze while charging to increase the damage from additional movement speed, then use the Status Resistance increase to run away after initiating.
+
+Use all your speed items like Phase Boots before activating Bulldoze to increase the % increase."
+		}
+	}
+}
+ 

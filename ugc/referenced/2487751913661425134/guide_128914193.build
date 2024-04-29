@@ -1,0 +1,183 @@
+"guidedata"
+{
+	"Hero"		"skeleton_king"
+	"Title"		"Standard Build Position 1 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"375"
+	"AssociatedWorkshopItemID"		"0x0000000007AF1311"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D37A1"
+	"TimePublished"		"0x00000000662D37A1"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_quelling_blade"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_armlet"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_relic"
+				"item"		"item_radiance"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+				"item"		"item_assault"
+			}
+			"Core (Alternative, in order)"
+			{
+				"item"		"item_desolator"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_aghanims_shard"
+				"item"		"item_assault"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_hand_of_midas"
+				"item"		"item_maelstrom"
+				"item"		"item_heavens_halberd"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_silver_edge"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_ultimate_scepter"
+				"item"		"item_revenants_brooch"
+				"item"		"item_abyssal_blade"
+				"item"		"item_overwhelming_blink"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_moon_shard"
+				"item"		"item_nullifier"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_refresher"
+				"item"		"item_bloodthorn"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Use Blink Dagger to initiate. Without Blink Dagger, Wraith King wont be able to take advantage of the duration of his stun and may get kited before being able to finish them.
+
+Ultimately, you want to initiate with Blink Dagger and force the enemy team to fight you to activate your ultimates slow."
+			"item_magic_wand"		"Magic Wand is essential for Wraith King who needs to ensure he has enough mana for Reincarnation in the middle of a fight. Whether having your mana burned or simply using it for your great stun: Magic Wand is too good of an item for a hero that gets in the middle of a fight."
+			"item_echo_sabre"		"Echo Sabre is a great item for Wraith King, but may not be necessary considering the larger items you may want. As you engage with Wraith King; the stun and slow you can initiate with overlaps with Echo Sabre. "
+			"item_black_king_bar"		"Use this ability after you reincarnate. You will be able to tank all the stuns they inflict on you. With your ultimates slow and then your Black King Bar, you will be unstoppable."
+			"item_blade_mail"		"The issue with Wraith King is that youll get kited.  Blade Mail lets you return the damage and keeps you in the playing field, contributing.
+
+The armor, damage and additional intelligence synergize with Wraith Kings Mortal Strike (higher damage, thus higher critical strike damage), low Armor and intelligence gives breathing room for you to have enough mana for Reincarnation"
+			"item_radiance"		"Radiance is a unique item for Wraith King where it forces enemies to fight you or perish to your burning Radiance.
+
+However, the cost of it and the need to rush it may require planning. That said, it synergizes well with your Reincarnation as enemies will have to spend time and resources to kill you twice, increasing how long you are burning them for.
+
+Disassemble to make Butterfly, Divine Rapier and Nullifier later in the game."
+			"item_armlet"		"Stronger critical strikes, more speed, armor and strength. This is an overall good item. If you die and your ultimate activates, be sure to activate this. 
+
+The life drain from this ability is removed thanks to your own passive lifesteal ability."
+			"item_mjollnir"		"Mjllonir is a great item to give Wraith King further damage, further speed and even more opportunity to return damage when he is getting kited.
+
+Static Charge on yourself will help against illusion-based heroes or high attack speed heroes that cause this to occur more often."
+			"item_desolator"		"Desolator combines with Mortal Strikes Skeleton summons to take down towers as the armor reduction from the Desolator hits means all units weaken towers more quickly.
+
+Additionally, it combines with Mortal Strike as the critical strike damage is increased the less armor an enemy has."
+			"item_buckler"		"Buckler helps keeps your skeletons alive. You won&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t be filling your slots very quickly so Buckler will maximize its value/staying power for a long time."
+			"item_phase_boots"		"With Phase Boots, youll be able to stay on top of enemies while theyre slowed from your stun (after initially stunned) and provide additional early-game damage to farm (and improve your critical strike damage from Mortal Strike)"
+			"item_assault"		"Two things Wraith King needs: Armor and Attack Speed. Assault Aura passive from AC also means your critical strike from Mortal Strike will do more damage."
+			"item_heavens_halberd"		"The Sange portion of Heavens Halberd synergizes with your Vampiric Aura(lifesteal amplified). The evasion combines well with Wraith King who has peaked in terms of damage mitigation from armor (from your other items).
+
+Status Resistance means less stuns/slows and will help Wraith King not be kited as harshly."
+			"item_silver_edge"		"Silver Edges Shadow Walk will Break all enemies passive abilities as well as reduce their heals or regeneration making ganks all the more easier for you to tear them down before they can be healed or saved.
+
+Additionally, the bonus damage from Shadow Walk will increase your Mortal Strike critical strike if it occurs simultaneously."
+			"item_hand_of_midas"		"You can grab Hand of Midas relatively quickly with Wraith King thanks to his Skeleton Army. Getting to the higher levels means low cooldown on your ultimate and more gold to reach your larger items more quickly."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_maelstrom"		"An early maelstrom hastens your farm with great chain lightning attacks. To add, Maelstrom is a nice mix-up of damage against enemies that have high armor as the damage you’re dealing with Chain Lightning is magical."
+			"item_aghanims_shard"		"Pick up Aghs Shard if you are getting mana burned to keep your Reincarnation going."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_helm_of_iron_will"		"An early Helm of the Iron Will can help you survive the lane but more importantly, hastens your purchase to Armlet."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_ultimate_scepter"		"Aghanims best value is the lower cooldown, especially important late in the game where fights last a long time and you can typically get two Reincarnations done in one fight. This gives Wraith King a lot of output in fights and he becomes a chore for enemies to target him down."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"skeleton_king_vampiric_aura"
+			"2"		"skeleton_king_hellfire_blast"
+			"3"		"skeleton_king_vampiric_aura"
+			"4"		"skeleton_king_mortal_strike"
+			"5"		"skeleton_king_vampiric_aura"
+			"6"		"skeleton_king_reincarnation"
+			"7"		"skeleton_king_vampiric_aura"
+			"8"		"skeleton_king_mortal_strike"
+			"9"		"skeleton_king_mortal_strike"
+			"10"		"special_bonus_unique_wraith_king_vampiric_skeleton_duration"
+			"11"		"skeleton_king_mortal_strike"
+			"12"		"skeleton_king_reincarnation"
+			"13"		"skeleton_king_hellfire_blast"
+			"14"		"skeleton_king_hellfire_blast"
+			"15"		"special_bonus_unique_wraith_king_6"
+			"16"		"skeleton_king_hellfire_blast"
+			"18"		"skeleton_king_reincarnation"
+			"20"		"special_bonus_unique_wraith_king_5"
+			"25"		"special_bonus_unique_wraith_king_10"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_hp_200"		"The more health, the better the survivability. With items to mitigate damage like Blade Mail, it makes the extra health even more desired by Wraith King."
+			"skeleton_king_hellfire_blast"		"Good damage, but the stun duration is limited. Intiiate with this to gank enemies.
+
+Only get your stun earlier if you intend to fight or need it because your team lacks stun. Otherwise, prioritizing your other abilities means faster farm and thus, earlier timings for your core items."
+			"skeleton_king_vampiric_aura"		"Use Vampiric Aura to ensure pushes to towers are easier, jungle creeps or do an early Roshan if you can ensure you can lifesteal the damage properly.
+
+Vampiric Aura is ideal to ultimately farm for all your other necessary items thanks to your ability to summon Skeletons that help farm camps and lanes for you."
+			"skeleton_king_reincarnation"		"Be sure you have the mana for it. Use Magic Wand just before you die to be sure you have enough mana to Reincarnate. If youre getting mana-burned to death, pop it early to reset yourself to fight again.
+
+When you reincarnate, dont forget to activate or toggle on any items that were turned off from dying (also have the courier re-deliver your items just in case)."
+			"special_bonus_attack_damage_15"		"The extra damage early on allows you to farm, dish damage to enemies when ganking and overall a good talent to have."
+			"special_bonus_unique_wraith_king_2"		"The extra lifesteal with your end-game itemization geared towards attack speed/damage means this item is incredibly useful for you and your allies."
+			"special_bonus_unique_wraith_king_1"		"Consider this talent if the enemy is running heroes like Keeper of the Light or Anti-Mage as their ability can drain you of all your mana and prevent you from being able to use an Enchanted Mango in time. 
+
+Also useful for Diffusal Blade-holding enemies that target you."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"skeleton_king_mortal_strike"		"Rely on Mortal Strike to help with last-hits early on."
+		}
+	}
+}
+ 

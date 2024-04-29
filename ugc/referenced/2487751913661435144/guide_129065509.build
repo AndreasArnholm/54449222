@@ -1,0 +1,189 @@
+"guidedata"
+{
+	"Hero"		"zuus"
+	"Title"		"Standard Build Position 2 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"426"
+	"AssociatedWorkshopItemID"		"0x0000000007B16225"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D37A4"
+	"TimePublished"		"0x00000000662D37A4"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bottle"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_arcane_boots"
+				"item"		"item_phylactery"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_manta"
+				"item"		"item_octarine_core"
+				"item"		"item_ultimate_scepter"
+			}
+			"Core (Alternative, in order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_manta"
+				"item"		"item_dragon_lance"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_cyclone"
+				"item"		"item_yasha_and_kaya"
+				"item"		"item_angels_demise"
+				"item"		"item_sphere"
+			}
+			"Extension: Magic (choice)"
+			{
+				"item"		"item_kaya_and_sange"
+				"item"		"item_black_king_bar"
+				"item"		"item_refresher"
+				"item"		"item_sheepstick"
+				"item"		"item_ethereal_blade"
+				"item"		"item_wind_waker"
+			}
+			"Extension: Right-Click (choice)"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_kaya_and_sange"
+				"item"		"item_black_king_bar"
+				"item"		"item_hurricane_pike"
+				"item"		"item_devastator"
+				"item"		"item_swift_blink"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Rely on Blink Dagger to enter fights late but immediately, often times, enemies will know to wait and look for you and so you need a Blink to truly keep your distance but on the ready to engage when necessary."
+			"item_bottle"		"Zeus needs Bottle to cover him throughout the game until Arcane Boots and other items. Use Arc Lightning to last-hit properly until you can afford Bottle."
+			"item_cyclone"		"The extra speed, mana regeneration and the ability to keep yourself out of danger for those few seconds while you wait for your abilities to get off cooldown could save your life every once in awhile."
+			"item_aether_lens"		"Aether Lens for Zeus means more damage, better range and a bit more survivability. Depending if you want to just be able to cast more spells with Octarine Core or actually need the extra space to ensure you can cast the spells; Aether Lens might be right for you.
+
+Disassemble Arcane Boots to get Aether Lens faster."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_ultimate_scepter"		"Aghanims has a great global finisher that allows you to zone enemies their exit path, to scout Roshan or to engage in fights.
+
+Take note that the Nimbus targets the closest target to its center."
+			"item_refresher"		"With Zeus and all his abilities, Refresher is a no-brainer to squeeze out as much damage as you can from your mana-pool and spells.
+
+Dont forget it also refreshes your items like Aeon Disk or BKB, so pop Refresher if you are getting targeted and need more protection."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_kaya"		"Zeus relies on his abilities to dish damage to foes. Kaya reduces that cost while also amplifying its damage, helping Zeus impact in-game."
+			"item_tango"		"Plant a tree with iron branch to consume with tangos to increase your regeneration - especially useful in the mid-lane where you want to save starting items to afford early game items like bottle or boots of speed."
+			"item_bloodstone"		"Bloodstone late-game is to provide additional spell damage, reduction in cost and ultimately more survivability for a Zeus that has all the damage he wants but needs the mana and health regeneration to keep him in fights, especially if easily targeted."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain stuns and silences that Zeus will receive, increase your magic output and mana gain to alleviate you of any concern."
+			"item_aghanims_shard"		"Aghs Shard improves your farming and fighting abilities in the later parts of the game where your magic damage has hit a certain peak but you still have the ability to right-click foes.
+
+The Arc Lightning cast from your Aghs Shards ability is amplified from your items that increase magic damage."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_null_talisman"		"An early Null Talisman provides just enough last-hitting power for you to last-hit comfortably while also giving you some breathing room in mana-pool and regen to use your spells consistently to last-hit the ranged creep, harass the enemy or alleviate dependency on Bottle or Soul Ring."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_phylactery"		"Phylactery provides great stats for ganking heroes that need the additional slow and damage to set up kills and follow-through."
+			"item_moon_shard"		"Pick up Moon Shard once you have Aghs Shard for Zeus as your auto-attack now becomes a Arc Lightning machine-gun, thus tying your output of damage to your right-click physical attack, justifying the additional attack speed from Moon Shard."
+			"item_hurricane_pike"		"Once you have the Lighting Hands ability (Aghs Shard), your positioning and range on your auto-attack becomes key. Hurricane Pike allows you to keep your Heavenly Jump free whenever you need it and to rely on Hurricane Pike to push back enemies who get too close or "
+			"item_black_king_bar"		"Black King Bar is especially necessary if you get regularly jumped by enemies or you have reached the Lightning Hands ability from your Aghs Shard to justify being in closer proximity to enemies but at-risk of being disabled."
+			"item_dagon"		"Dagon has a Spell Lifesteal component that helps you both survive in the lane but also adds to your damage output from the Energy Burst active, giving Zeus a lot of early-game output damage combined with his magic abilities."
+			"item_manta"		"Zeus Aghs Shard ability, Lightning Hands, works with your illusions. This gives you more output of Arc Lightning effects on auto-attacks as well as a dispel when silenced or slows, providing Zeus more maneuvrability and freedom to cast spells."
+			"item_skadi"		"Late-game, Zeus has Lightning Hands, his Aghs Shard, ability, that relies on Zeus staying alive and outputting damage through his physical attack.
+
+Eye of Skadi works well in keeping foes within proximity of Zeus auto-attack and within range of his spells."
+			"item_yasha_and_kaya"		"Make sure to disassemble Yasha and Kaya so you can make Manta Style.
+
+Utilize Yasha and Kaya"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"zuus_arc_lightning"
+			"2"		"zuus_heavenly_jump"
+			"3"		"zuus_arc_lightning"
+			"4"		"zuus_lightning_bolt"
+			"5"		"zuus_arc_lightning"
+			"6"		"zuus_thundergods_wrath"
+			"7"		"zuus_arc_lightning"
+			"8"		"zuus_lightning_bolt"
+			"9"		"zuus_lightning_bolt"
+			"10"		"zuus_lightning_bolt"
+			"11"		"special_bonus_hp_250"
+			"12"		"zuus_thundergods_wrath"
+			"13"		"zuus_heavenly_jump"
+			"14"		"zuus_heavenly_jump"
+			"15"		"special_bonus_unique_zeus_jump_postjump_movespeed"
+			"16"		"zuus_heavenly_jump"
+			"18"		"zuus_thundergods_wrath"
+			"20"		"special_bonus_unique_zeus_2"
+			"25"		"special_bonus_unique_zeus_5"
+		}
+		"AbilityTooltips"
+		{
+			"zuus_arc_lightning"		"Use Arc Lightning during the laning phase to farm the key items you need. Additionally, Arc Lightning, with your passive, Static Field, helps stack and pull jungle camps for you to later farm for your items once more.
+
+In team-fights, use this between your nuking abilities to continually harass.
+
+Use this ability to farm."
+			"zuus_lightning_bolt"		"Low cooldown, incredible damage and it gives true sight around you! If you cant quite reach your opponent, click on the ground and it will target the closest foe!
+
+Use this ability to see wards and other invisible units as well as to give vision which you can then use Arc Lightning to follow-up."
+			"zuus_static_field"		"The range is huge, so dont worry too much about you being too far from your opponent for this to affect them. Any spell you do will be buffed by this, so when in a tight situation, slam all your hotkeys to make sure you deal as much damage as possible.
+
+Interrupts Bottle, Salve and Blink Dagger each time it procs."
+			"zuus_cloud"		"Aghanims has a great global finisher that allows you to zone enemies their exit path, to scout Roshan or to engage in fights.
+
+Careful that the Nimbus targets the closest target to its center.
+
+Also use this to check for Roshan and counter-push lanes that you are not in."
+			"zuus_thundergods_wrath"		"Try to avoid using this to steal kills and more to ensure someones dead (either they have fled too far from an ally, etc.):
+
+1. Use Lightning Bolt to nuke down an enemy
+2. Spam Arc Lightning when off-cooldown
+3. Lightning Bolt once more
+4. End with Thundergods Wrath to ensure the kill."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"zuus_heavenly_jump"		"Heavenly Jump is used both as an initiation tool when ganking but also as an escape if out of position.
+
+Trust that the range of Heavenly Jumps damage will reach your foes."
+			"zuus_lightning_hands"		"This ability occurs with every attack, relieving you from spending mana on Arc Lightning to farm but also as an additional late-game output against enemies as your magic abilities hit a certain ceiling of maximum damage.
+
+To add, any magic amplification you apply also occur on these Arc Lightning effects from your attacks."
+		}
+	}
+}
+ 

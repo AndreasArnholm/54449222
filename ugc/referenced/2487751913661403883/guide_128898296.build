@@ -1,0 +1,173 @@
+"guidedata"
+{
+	"Hero"		"ancient_apparition"
+	"Title"		"Standard Build Position 5 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"449"
+	"AssociatedWorkshopItemID"		"0x0000000007AED4F8"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D2E1E"
+	"TimePublished"		"0x00000000662D2E1E"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_enchanted_mango"
+				"item"		"item_enchanted_mango"
+				"item"		"item_faerie_fire"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_force_staff"
+				"item"		"item_aghanims_shard"
+			}
+			"Utility Items"
+			{
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_gem"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_blood_grenade"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_ghost"
+				"item"		"item_cyclone"
+				"item"		"item_aeon_disk"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_solar_crest"
+				"item"		"item_lotus_orb"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
+				"item"		"item_ethereal_blade"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_cyclone"		"Euls Scepter of Divinity works great with your Cold Feet. Be sure to cast it as soon as Cold Feet is casted and place Ice Vortex just below the cyclone. Finish with your ultimate for a nice kill.
+
+The additional movement speed and mana regeneration synergize well with Ancient Apparitions immediate needs."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_ultimate_scepter"		"When the game is truly late and Black King Bar is on a low duration time, you can buy Aghs Scepter to help with the damage output since your attacks are magic, have a massive range and your spells wont be as effective as before.
+
+Just watch your positioning and dont forget to still use your abilities."
+			"item_rod_of_atos"		"At such an incredible range, you can open with Atos and then Cold Feet to ensure they stay. With Rod of Atos, you can keep enemies close to be stunned and receive all the damage compared to Euls Scepter of Divinity.
+
+Especially useful versus heroes with blink abilities or items."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun.
+
+Glimmer is also great as a way to safely channel your spells while hiding behind the invisibility so you cant be targeted by stuns or silences without the enemy having detection first."
+			"item_spirit_vessel"		"Given the high mana cost for your abilities, Urn/Vessel  helps alleviate the demand and let&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s you take advantage of your ganking abilities to the max.
+
+Can be used offensively and defensively, so don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t hesitate to use it when necessary."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping your allies down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities.
+
+For AA, he is usually in the back of fights, so youre using Lotus Orb on allies more so than on yourself, especially those who are high-priority targets."
+			"item_tranquil_boots"		"Ancient Apparition relies on other ways to earn mana but needs positioning and movement speed to stay far away for Ice Blast but closer in fights for his Cold Feet, Ice Vortex and Chilling Touch"
+			"item_kaya"		"Increases the damage dealt with your ultimate as well as your other abilities. Kaya is relatively cheap but provides great impact in most of AA&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s abilities."
+			"item_ghost"		"For heroes that rely on physical damage like Juggernaut (and Omnislash) and Riki, Ghost Scepter can be a cheap option to delay their ganks and make them waste their abilities that do no damage."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"Snagging an early shard for Ancient Apparition means you can initiate with his ultimate on unsuspecting enemies from any distance - making your global ability all the more potent for team-fights to stun key targets, especially those typically unreachable that may have channeling spells."
+			"item_solar_crest"		"A Solar Crest not only gives you a larger mana-pool in the early-game to help alleviate harassment with your spells but it also provides strong armor, attack speed, movement speed and a barrier to protect your ally who can then initiate or gank someone with all that value.
+
+You can also apply Solar Crest on yourself for additional protection to make enemies you gank harder to fight back with you without losing or taking significant damage"
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_infused_raindrop"		"For many supports, opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. You should think about picking up Ring of Basi or Boots of Speed first depending on if you need movement in the early-game to harass or engage or your team relies on the mana regen from Ring of Basi to do more spells throughout."
+			"item_aether_lens"		"Additional cast range for your abilities if positioning is a challenge for you. "
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase"
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_ward_sentry"		"Don’t cheap out by not buying Sentry Wards. As a support, you need to regularly stack and pull your jungle camps to the lane but you can also use your Sentry Ward to block the enemy jungle camp from being pulled to their lane.
+
+Pulling jungle camps is not a courtesy for your carry, it’s to bring the creep wave to your side of the lane and thus will give you more runway to harass and even kill enemies as they will be far from their tower trying to last-hit creeps near your tower."
+			"item_guardian_greaves"		"Guardian Greaves not only dispels from slows and silences, but can be good for your team with the stats it provides: health, armor, heal, regeneration and more.
+
+For Ancient Apparition, after his ultimate, he is usually at the edge of fights, making him a decent Greaves holder because he can pop it safely when need-be."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"ancient_apparition_chilling_touch"
+			"2"		"ancient_apparition_cold_feet"
+			"3"		"ancient_apparition_ice_vortex"
+			"4"		"ancient_apparition_ice_vortex"
+			"5"		"ancient_apparition_ice_vortex"
+			"6"		"ancient_apparition_ice_blast"
+			"7"		"ancient_apparition_ice_vortex"
+			"8"		"ancient_apparition_cold_feet"
+			"9"		"ancient_apparition_cold_feet"
+			"10"		"ancient_apparition_cold_feet"
+			"11"		"special_bonus_unique_ancient_apparition_8"
+			"12"		"ancient_apparition_ice_blast"
+			"13"		"ancient_apparition_chilling_touch"
+			"14"		"ancient_apparition_chilling_touch"
+			"15"		"special_bonus_unique_ancient_apparition_3"
+			"16"		"ancient_apparition_chilling_touch"
+			"18"		"ancient_apparition_ice_blast"
+			"20"		"special_bonus_unique_ancient_apparition_ice_vortex_duration"
+			"25"		"special_bonus_unique_ancient_apparition_5"
+		}
+		"AbilityTooltips"
+		{
+			"ancient_apparition_cold_feet"		"1.  Target an enemy with Cold Feet
+2. Follow up with Ice Vortex to increase their damage and prevent them from escaping Cold Feet
+3. Follow-up with Ice Blast and Chilling Touch to ensure a kill.
+
+Its great to use Cold Feet as a follow-up lockdown."
+			"ancient_apparition_ice_vortex"		"Works great in combination with your other abilities as well as in fights.
+
+Use Ice Vortex to see up cliffs and gain vision in fogged areas or to chase a foe with the slow as well as to farm and stack camps  and harass enemies."
+			"ancient_apparition_chilling_touch"		"Harass your lane with Chilling Touch."
+			"ancient_apparition_ice_blast"		"The farther you are from your targets, the wider your AOE is when you cast this ability.
+
+You can use this ability to snipe out fleeing weak enemies, flash-farm creeps or to split-push a lane thats reaching your tower(s)."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

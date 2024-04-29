@@ -1,0 +1,191 @@
+"ControlGroups"
+{
+	"npc_dota_hero_bounty_hunter"
+	{
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_bounty_hunter"
+				"unitlabel"		" "
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_meepo"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"illusion"		"0"
+			}
+		}
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"illusion"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_meepo"
+				"illusion"		"0"
+				"unitlabel"		" "
+			}
+		}
+	}
+	"npc_dota_hero_faceless_void"
+	{
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_faceless_void"
+				"unitlabel"		" "
+				"illusion"		"0"
+			}
+		}
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_faceless_void"
+				"unitlabel"		" "
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_queenofpain"
+	{
+		"7"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_bounty_hunter"
+				"unitlabel"		" "
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_tidehunter"
+	{
+		"9"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_tidehunter"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_phantom_assassin"
+	{
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_phantom_assassin"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_clinkz"
+	{
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_clinkz"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_lone_druid"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_lone_druid"
+				"illusion"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_lone_druid_bear2"
+				"illusion"		"0"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_lone_druid"
+				"illusion"		"0"
+			}
+			"1"
+			{
+				"unitname"		"npc_dota_lone_druid_bear2"
+				"unitlabel"		"spirit_bear"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_chen"
+	{
+		"0"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_chen"
+				"illusion"		"0"
+			}
+		}
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_neutral_polar_furbolg_ursa_warrior"
+				"illusion"		"0"
+			}
+		}
+		"4"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_neutral_centaur_khan"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_earthshaker"
+	{
+		"1"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_earthshaker"
+				"illusion"		"0"
+			}
+		}
+	}
+	"npc_dota_hero_necrolyte"
+	{
+		"2"
+		{
+			"0"
+			{
+				"unitname"		"npc_dota_hero_necrolyte"
+				"illusion"		"0"
+			}
+		}
+	}
+}

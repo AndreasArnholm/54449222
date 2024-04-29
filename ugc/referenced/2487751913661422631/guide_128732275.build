@@ -1,0 +1,177 @@
+"guidedata"
+{
+	"Hero"		"rattletrap"
+	"Title"		"Standard Build Position 5 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"386"
+	"AssociatedWorkshopItemID"		"0x0000000007AC4C73"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D3572"
+	"TimePublished"		"0x00000000662D3572"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
+				"item"		"item_wind_lace"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_force_staff"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_blade_mail"
+				"item"		"item_solar_crest"
+				"item"		"item_spirit_vessel"
+				"item"		"item_heavens_halberd"
+				"item"		"item_pipe"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_ancient_janggo"
+				"item"		"item_glimmer_cape"
+				"item"		"item_vladmir"
+				"item"		"item_ultimate_scepter"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_lotus_orb"
+				"item"		"item_black_king_bar"
+				"item"		"item_boots_of_bearing"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_force_staff"		"If enemy team is ahead and your target has Black King Bar, making your Battery Assault useless, you can Cogs them and escape safely through Force Staff.
+
+The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. "
+			"item_black_king_bar"		"Black King Bar lets you move freely without being hindered by slows and disables from your foes, letting you pull off Battery Assault with ease.
+
+Traditionally, you should be out-of-sight; so no disruptions or disables should occur; but the circumstances could be less than ideal."
+			"item_lotus_orb"		"The only heroes that can tear down Clockwerk are those he does not trip in his Cogs. Lotus Orb is to halt all those incoming magic nukers that will try to tear you down from afar. Reflect their damage, in addition with Blade Mail that will further reflect damage.
+
+The extra armor is especially needed for a hero like Clockwerk where he tends to go in first and soaks up a lot of damage."
+			"item_blade_mail"		"Blade Mail helps counteract the forced attacks from your opponent due to your Power Cogs. Make sure to activate Blade Mail after trapping your opponent in with Power Cogs to further induce damage. Battery Assault will also prevent them from casting abilties, so activate that as well."
+			"item_solar_crest"		"A Solar Crest not only gives you a larger mana-pool in the early-game to help alleviate harassment with your spells but it also provides strong armor, attack speed, movement speed and a barrier to protect you to then initiate with."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes."
+			"item_spirit_vessel"		"Spirit Vessel is a great item versus especially tanky heroes or those with a lot of health and regeneration.
+
+It capitalizes on your early ganking prowlness to then be able to dish out strong scaling damage to high health heroes."
+			"item_soul_ring"		"You can roam hard with Soul Ring that provides you ample mana and more strength to help Clockwerk survive in-lane and when roaming."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if theyre frail to magic types."
+			"item_tranquil_boots"		"Tranquil Boots is all you need to position and initiate as you close in on your opponents with Battery. The timing to get Tranquil Boots early means you can secure kills faster and you can move onto your more important items earlier."
+			"item_ancient_janggo"		"Your physical attack pairs nicely with Drums that give more movement and attack speed. Battery Assault combined with the movement bonuses and your physical increased attack speed makes your ganking potential very strong."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by on your tangos for additional healing.
+
+For Clockwerk, who is a universal attribute hero, he gets a bit more early-game damage to harass with Iron Branch."
+			"item_wind_lace"		"For the initial start, all you need is Wind Lace to engage with Battery Assault as you will be faster than most enemies to keep them trapped within your AoE mini-stuns."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_aghanims_shard"		"Aghs Shard provides both additional maneuvrability as an escape, positioning or chase but also to provide further vision for your team and cut through cliffs to land the perfect Hookshot or Power Cogs."
+			"item_ultimate_scepter"		"Aghs Scepter enhances most of what makes Clockwerk incredibly strong and is considered a necessary step to be valuable in the late-game.
+
+Whenever your Overclocking is off cooldown and no fight is to be seen or expected, spam Rocket Flare in the direction of enemy heroes or lanes for harassment, damage and sometimes gold."
+			"item_boots_of_bearing"		"Boots of Bearing helps you get out of slows by giving your team incredible movement and attack speed for a brief period. Your Boots will recharge, so don’t worry about running out.
+
+Purchase this after finishing the charges on all your Drum."
+			"item_infused_raindrop"		"For many supports, opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_urn_of_shadows"		"An early Urn of Shadows provides great mana regen but also as a great follow-through to secure kills in-lane if they get beyond your reach."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_orchid"		"With Orchid, Clockwerk can stun enemies with Hookshot, silence them so they cant escape with any abilities and force them down with Battery Assault knowing they cant retaliate."
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase"
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+			"item_vladmir"		"Vladmirs Offering gives everything a team wants while also massively elevating your damage since youre a universal attribute hero.
+
+"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"rattletrap_battery_assault"
+			"2"		"rattletrap_power_cogs"
+			"3"		"rattletrap_battery_assault"
+			"4"		"rattletrap_rocket_flare"
+			"5"		"rattletrap_battery_assault"
+			"6"		"rattletrap_hookshot"
+			"7"		"rattletrap_battery_assault"
+			"8"		"rattletrap_rocket_flare"
+			"9"		"rattletrap_rocket_flare"
+			"10"		"rattletrap_rocket_flare"
+			"11"		"special_bonus_unique_clockwerk_7"
+			"12"		"rattletrap_hookshot"
+			"13"		"rattletrap_power_cogs"
+			"14"		"rattletrap_power_cogs"
+			"15"		"special_bonus_unique_clockwerk_3"
+			"16"		"rattletrap_power_cogs"
+			"18"		"rattletrap_hookshot"
+			"20"		"special_bonus_unique_clockwerk_4"
+			"25"		"special_bonus_unique_clockwerk"
+		}
+		"AbilityTooltips"
+		{
+			"rattletrap_battery_assault"		"Battery Assault is your core damage ability when trapping an enemy in Power Cogs:
+
+1. Use Hookshot to gank a target
+2. Activate Power Cogs on your hooked target to entrap
+3. Use Battery Assault to damage them when trapped
+4. Turn on Blade Mail to mitigate fight-back
+4. Rocket Flare to finish them off
+
+Does not work on invisible units.
+Use this ability to farm jungle camps when no fights is happening."
+			"rattletrap_power_cogs"		"Power Cogs can be used in several ways:
+
+1. To trap foes and drain their life/mana. 
+2. To push enemies back after Hookshot, just position yourself in front of the enemy before using Power Cogs
+3. To trap Roshan so your ranged heroes can kill him safely.
+
+Cogs can be attacked to break yourself out."
+			"rattletrap_rocket_flare"		"Flares has a global range, but must be shot from your location. Use it to illuminate certain areas or to kill of surviving escaping enemy heroes.
+
+Flare can also be used to disrupt channeling regeneration items like Clarity, Healing Salve or Bottle. It can also check Roshan for any enemies doing it as well as slow enemies momentarily to Hookshot them more accurately.
+
+Lastly, you can use Rocket Flare to see up cliffs and check for Observer Wards with Sentry Wards."
+			"rattletrap_hookshot"		"Hookshot is your opener and works through Black King Bar units to disrupt their engagement.
+
+Use Hookshot to stun/damage the foe even when you want to escape if they are still on your tail as the stun duration may be enough for you.
+
+Lastly, if you know you cant take the enemy on in your cogs, Hookshot them then move slightly forward to pop your cogs and push them away or towards your allies (dont trap them) as the bounce-push is also a stun effect."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"rattletrap_overclocking"		"Pop Overclocking before engaging on enemies. The duration is long and youll need to use Black King Bar before it runs out however."
+			"rattletrap_jetpack"		"Jetpack to gain better vision and to maneuver around a fight to target your ideal target (the backline for example).
+
+Jetpack also serves as a great escape for you if caught out or to chase foes with Battery Assault."
+		}
+	}
+}
+ 

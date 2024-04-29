@@ -1,0 +1,176 @@
+"guidedata"
+{
+	"Hero"		"templar_assassin"
+	"Title"		"Standard Build Position 1 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"331"
+	"AssociatedWorkshopItemID"		"0x0000000007AC8A77"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D372F"
+	"TimePublished"		"0x00000000662D372F"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_quelling_blade"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_power_treads"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_dragon_lance"
+				"item"		"item_desolator"
+				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
+				"item"		"item_black_king_bar"
+				"item"		"item_greater_crit"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_nullifier"
+				"item"		"item_hurricane_pike"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_sheepstick"
+				"item"		"item_swift_blink"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Works great in combination with Meld. Open with Refraction, then use Blink, Meld, attack. Be sure to blink right where the opponent is to make sure Meld hits too."
+			"item_hurricane_pike"		"Hurricane Pike is a unique item for Templar Assassin. Once activated, you separate from your foe, giving you unlimited range for 4 attacks.
+
+This item works with Meld, meaning you can:
+
+1. Activate Hurricane Pike on a foe
+2. Use Meld and Attack regularly on the enemy
+3. Follow-up with 3 more attacks"
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_manta"		"Manta Style lets you break crowd-control effects and provide further spread of damage through Psi Blades.
+
+Can break Dust so you can meld and also remove slows or silences."
+			"item_desolator"		"The strength of Templar Assassin is to take down opponents in the least amount of hits possible. Desolator works with Melds reduced armor effect and the additional damage it deals."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_skadi"		"Eye of Skadi slows enemies but also reduces their regen. Especially useful versus high health and regenerative enemies where you need to cripple their survivability from lifesteals and healing."
+			"item_blight_stone"		"Blight Stone does not spread to other targets through Psi Blades."
+			"item_black_king_bar"		"BKB is necessary for a hero that relies on not getting stunned or silenced to dish out the necessary damage."
+			"item_bottle"		"Bottle can be necesssary if you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re relying on Refraction constantly to stay in the lane."
+			"item_ultimate_scepter"		"Aghanims Scepter is situationally viable depending on the game youre playing. It can be a unique move to split-push, gank specific areas of the enemy jungle or other situations."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re dealing to extend fights long enough for you to win them."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing.
+
+Extra Iron Branches for Magic Wand and last-hitting."
+			"item_dragon_lance"		"Dragon Lance fixes Templar Assassins measley range, giving her some room for safer engagements, especially when trying to land your Meld on a moving enemy."
+			"item_greater_crit"		"Daedalus, combined with Meld and your Desolator means your initial first hit will be an incredible nuking amount of damage."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_ring_of_basilius"		"An early Ring of Basilius relives mana management on your side but can also provide additional mana for your teammates if you have an especially aggressive lane with great early-game abilities."
+			"item_aghanims_shard"		"Aghs Shard can provide more vision around the map for you such as Roshans Pit and serves as a great silence disable to prevent foes from fleeing or punishing enemies who overextend in a fight."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls, Glimmer and Satanic to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"templar_assassin_meld"
+			"2"		"templar_assassin_psi_blades"
+			"3"		"templar_assassin_refraction"
+			"4"		"templar_assassin_refraction"
+			"5"		"templar_assassin_refraction"
+			"6"		"templar_assassin_psionic_trap"
+			"7"		"templar_assassin_refraction"
+			"8"		"templar_assassin_meld"
+			"9"		"templar_assassin_meld"
+			"10"		"templar_assassin_meld"
+			"11"		"templar_assassin_psi_blades"
+			"12"		"templar_assassin_psionic_trap"
+			"13"		"templar_assassin_psi_blades"
+			"14"		"templar_assassin_psi_blades"
+			"15"		"special_bonus_unique_templar_assassin_refraction_damage"
+			"16"		"special_bonus_unique_templar_assassin_8"
+			"18"		"templar_assassin_psionic_trap"
+			"20"		"special_bonus_unique_templar_assassin_4"
+			"25"		"special_bonus_unique_templar_assassin"
+		}
+		"AbilityTooltips"
+		{
+			"templar_assassin_refraction"		"Refraction works in two parts: 
+
+1. It allows any hits on you to be completely nullified (no matter how strong or weak)
+2. It allows you to deal more damage. Due to its low cooldown and cost, this can be used to remain in the lane despite harassment as well as dive towers to get enemies.
+
+If you lose your Refraction Shield, you will not lose your bonus damage (and vice-versa). They are independent from one another.
+
+Use Refraction and Meld to kite creeps to maximize Psi Blades."
+			"templar_assassin_meld"		"Use Meld and Blink to get away from opponents. Make sure to Meld near opponents and hit them to deal massive damage with your Refraction ability:
+
+1. Activate Refraction before ganking
+2. Blink onto an Enemy and cast: Meld
+3. Attack the foe quickly before they can vanish
+4. Follow with your ultimate.
+
+Use Refraction and Meld to kite creeps to maximize Psi Blades.
+
+Use Meld to guarantee a last-hit on ranged creeps"
+			"templar_assassin_psi_blades"		"Refraction is better for last-hitting and surviving in lane than the range of Psi Blades. You can use Psi Blades to wipe stacked ancients.
+
+Psi Blades also can be used to harass your opponent in the mid-lane. Angle yourself. 
+
+Psi Blades works when you deny."
+			"templar_assassin_psionic_trap"		"You can use traps to give permanent sight on Roshan, up hills or at the rune spots. Use them appropriately and in key areas you want to look out for!
+
+These have an incredible range, so use it often. You can also use it to spot runes or to slow your enemy mid-laner from reaching the runes.
+
+Right-click this ability to set it to auto-cast to make it so when you pop the trap, it will do the one closest to your cursor/mouse."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_unique_templar_assassin_5"		"Psi Blades now paralyze the unit, stopping or slowing its movement for a very brief moment."
+			"templar_assassin_trap_teleport"		"Actively use this ability to shift between different lanes, catch enemies in commonly-farmed areas and even to back-door if possible.
+
+Be creative with how you use this ability and continually place traps even if youre chasing someone.
+
+Also a good escape in combination with Meld."
+		}
+	}
+}
+ 

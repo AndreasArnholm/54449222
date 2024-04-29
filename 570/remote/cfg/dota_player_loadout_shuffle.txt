@@ -1,0 +1,39 @@
+"PlayerLoadoutShuffle"
+{
+	"announcer"
+	{
+		"0"		"0x00000001FD2DB444"
+	}
+	"mega_kills"
+	{
+		"0"		"0x00000001FD2DB445"
+	}
+	"music"
+	{
+		"0"		"0x0000000283A9D42B"
+	}
+	"ward"
+	{
+		"0"		"0x0000000283A9D452"
+	}
+	"hud_skin"
+	{
+		"0"		"0x0000000147FE2AC6"
+	}
+	"weather"
+	{
+		"0"		"0x0000000000000000"
+	}
+	"heroic_statue"
+	{
+		"0"		"0x00000001F66CEB70"
+	}
+	"cursor_pack"
+	{
+		"0"		"0x0000000283A9D443"
+	}
+	"terrain"
+	{
+		"0"		"0x0000000000000000"
+	}
+}

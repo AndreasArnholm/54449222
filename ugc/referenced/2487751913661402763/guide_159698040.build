@@ -1,0 +1,215 @@
+"guidedata"
+{
+	"Hero"		"abaddon"
+	"Title"		"Standard Build Position 3 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"507"
+	"AssociatedWorkshopItemID"		"0x000000000984CC78"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D2E02"
+	"TimePublished"		"0x00000000662D2E02"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_orb_of_corrosion"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_echo_sabre"
+				"item"		"item_yasha"
+				"item"		"item_manta"
+				"item"		"item_harpoon"
+				"item"		"item_blink"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_mage_slayer"
+				"item"		"item_heavens_halberd"
+				"item"		"item_radiance"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_nullifier"
+				"item"		"item_assault"
+				"item"		"item_skadi"
+				"item"		"item_abyssal_blade"
+				"item"		"item_octarine_core"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_black_king_bar"
+				"item"		"item_shivas_guard"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_bloodthorn"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_gem"		"Abaddon is great gem holder generally because he is difficult to kill and is always in the center of fights."
+			"item_vladmir"		"Among the best Vlad&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering holders out there due to his tankiness and the the aura he offers.
+
+Vladmir&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering also lets you farm comfortably so you can get your next core item and gives you necessary mana regeneration to afford your abilities consistently."
+			"item_ultimate_scepter"		"Aghanims Scepter makes fights incredibly annoying as your ultimates duration is significantly increased but also makes your allies almost invulnerable with the amount of healing youll output with Mist Coil.
+
+Whether a Core or Support Abaddon, Aghs Scepter can be a life-saving ability against AoE-damaging opponents or those trapped in big stuns like Chronosphere."
+			"item_assault"		"Assault Cuirass not only diminishes the armor of your opponents so you can keep on destroying them with your attack and Curse of the Avernus slow, you also increase the timing in which your opponents will be silenced by your passive due to how much faster youll stack your attacks."
+			"item_shivas_guard"		"Shivas Guard is an all-around strong item that enables your hero to farm more quickly, slow opponents to deter them from fighting or to massively damage illusions as well as deter lifesteal and regeneration gains from high-surviving enemies.
+
+For Abaddon, Shivas Guard not only gives him additional damage as a universal attribute hero, but synergizes well in causing enemies to take more damage, give him more armor to survive and slows them so you can catch them and apply Curse of the Avernus on your target."
+			"item_lotus_orb"		"In addition to the stats of Lotus Orb, the dispel from it means you can double-up your dispels with Aphotic Shield on multiple allies. Evidently, the re-casting of targeted spells back to the caster is a bonus that makes Lotus Orb all the more appealing."
+			"item_octarine_core"		"Octarine Core mixed with your talent cooldown % and your ultimate (with Aghanims Scepter) will make you nearly unstoppable and very difficult to kill."
+			"item_ancient_janggo"		"More strength, more movement speed, a bit of intelligence. All things Abaddon thrives off of and get bolster his team&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s mobility while also surviving longer! If in a pushing line-up, Drums of Endurance can be immense to your goals.
+
+The aura on Abaddon is a benefit regardless."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemys armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_heavens_halberd"		"Due to the tankiness of Abaddon, Heavens Halberd adds further strength to it, but also includes evasion; making Abaddon last more, can divulge more life to healing allies and ultimately become more impactful in fights without fear of death."
+			"item_blink"		"Jump on enemies to immediately hit them with your Curse of the Avernus, making their attempts at running away much harder."
+			"item_radiance"		"Abaddon is an especially tanky hero with his Aphotic Shield and ultimate ability, making his presence all the more annoying in fights. Radiance puts more pressure on your presence, burning enemies overtime.
+
+Disassemble to make Butterfly, Divine Rapier and Nullifier later in the game."
+			"item_spirit_vessel"		"Spirit Vessel provides additional life and movement speed which allows Abaddon to weave in on fights and back when he just wants to support.
+
+Spirit Vessel is especially useful against heavier/fatter heroes that have a lot of HP and survivability as the damage scales by % to their health."
+			"item_holy_locket"		"Amplify the heal you send out with Mist Coil, this will also improve how much life you lose when you have your ultimate active, meaning your Aphotic Shield will break earlier or you regain life while your ultimate is active.
+
+Disassemble your Arcane Boots to make this."
+			"item_orb_of_venom"		"Combine with Curse of the Avernus for additional slow potential."
+			"item_phase_boots"		"Combined with Curse of the Avernus lets you stay on top of enemies. Also helps with positioning to maximize your ability range without putting yourself in danger.
+
+Abaddon generally has plenty of health but may lack armor and damage as a follow-through for all his attack speed gained through Curse of the Avernus."
+			"item_soul_ring"		"If you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re relying more on your abilities and early-game involvement, Soul Ring can be a useful tool for immediate health.
+
+Especially useful versus mana-burn users like Diffusal Blade or Anti-Mage"
+			"item_crimson_guard"		"On top of your Aphotic Shield, Crimson Guard provides additional defense against heavy physical teams and carries like Phantom Lancer and his illusions."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if theyre frail to magic types."
+			"item_aghanims_shard"		"The appeal of Aghs Shard is not just your ability to throw finishing attacks on enemies as they flee beyond your attack range but the base slow for your Curse of the Avernus is increased and nearly inescapable without dispelling it."
+			"item_tranquil_boots"		"After you disassemble your Arcane Boots, you need to build new boots to help with your positioning so you can move in on fights when youre most needed and stay out of fights when big initiations will occur."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to jump into fights to save an ally with Aphotic Shield. 
+
+It can also be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder for a kill than they want to."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_infused_raindrop"		"For many supports, opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aether_lens"		"Additional cast range for Mist Coil and Aphotic Shield if positioning is a challenge for you."
+			"item_ring_of_basilius"		"An early Ring of Basilius relives mana management on your side but can also provide additional mana for your teammates if you have an especially aggressive lane with great early-game abilities."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls and Glimmer to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_skadi"		"Eye of Skadi is great at the end-game to take down high health targets, strong rivaling physical carries by slowing their attack speed and also prevent enemies from fleeing with your movement slow debuff. It provides stats across the board providing everything a carry needs to cap the game to a win.
+
+Since Abaddon is a universal attribute hero, he really gains a lot more damage by picking up Eye of Skadi"
+			"item_manta"		"Manta Style should help remove any slows or disables that can prevent you from staying on top of your enemies without needing to pop your ultimate to dispel annoyances.
+
+Furthermore, the extra movement speed will help the otherwise slow Abaddon and the Curse of Avernus effect means your illusions also gain additional attack speed."
+			"item_basher"		"With Curse of the Avernus increasing your attack speed and slowing your foe, the likelihood theyll get bashed for extra damage increases significantly."
+			"item_hand_of_midas"		"Abaddon doesnt farm particularly well in the mid-game beyond using his Aphotic Shield which eats up a lot of mana.
+
+Midas increases your attack speed to help farm a bit more and evidently provides you an influx of experience and gold to help you reach those higher items and talents."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_bracer"		"An early bracer increases your survivability in the lane versus key magic heroes that harass you."
+			"item_harpoon"		"Rely on Harpoon as either your initiating ability to get enemies close or to keep them in-range should they find a way to escape. Heads-up that it pulls both you and the target and you must select the target so no skills required to Harpoon enemies."
+			"item_echo_sabre"		"Echo Sabre provides everything Abaddon wants on top of helping the hero reach his Curse of the Avernus silence pop with quick stacks."
+			"item_wraith_band"		"Early Wraith Band is to not only to help you last-hit, as the hero is a Universal attribute hero, so he gets damage with any stats he picks up.
+
+More importantly, Wraith Band gives you additional armor to survive against harassment."
+			"item_orb_of_corrosion"		"Combined with Abaddon&amp;amp;amp;amp;amp;amp;amp;amp;apos;s Curse of the Avernus, you are massively slowly opponents early on in the game. Having the orb means its easier to initially slow opponents to eventually have Curse of the Avernus proc. on the enemy for silence and damage-over-time."
+			"item_mage_slayer"		"Mage Slayer provides both great initial protection against spell casters but also mixes up your damage to be both physical as well as magic damage-over-time. To add, anyone you attack will deal less spell damage, furthering this item as a great offensive purchase for core heroes given the item also gives increased mana pool for your own spells and attack speed to boot."
+			"item_abyssal_blade"		"Abyssal Blade takes the attack speed you gain from Curse of the Avernus and turns it into a key way to hold down enemies especially when they use Black King Bar or are especially slippery and can escape with ease."
+			"item_black_king_bar"		"Usually Aphotic Shield should be enough to dispel debuffs against you. If not, items like Manta Style can also help with ridding debuffs.
+
+However, for persistent debuffs or you just find yourself constantly prevented from engaging onto your enemy, Black King Bar can be a justified pick-up"
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and its great versus evasive heroes either via Butterfly, passive abilities that cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"abaddon_aphotic_shield"
+			"2"		"abaddon_frostmourne"
+			"3"		"abaddon_aphotic_shield"
+			"4"		"abaddon_frostmourne"
+			"5"		"abaddon_aphotic_shield"
+			"6"		"abaddon_borrowed_time"
+			"7"		"abaddon_aphotic_shield"
+			"8"		"abaddon_frostmourne"
+			"9"		"abaddon_frostmourne"
+			"10"		"special_bonus_unique_abaddon_6"
+			"11"		"abaddon_death_coil"
+			"12"		"abaddon_borrowed_time"
+			"13"		"abaddon_death_coil"
+			"14"		"abaddon_death_coil"
+			"15"		"special_bonus_unique_abaddon_5"
+			"16"		"abaddon_death_coil"
+			"18"		"abaddon_borrowed_time"
+			"20"		"special_bonus_unique_abaddon_immolation"
+			"25"		"special_bonus_unique_abaddon_3"
+		}
+		"AbilityTooltips"
+		{
+			"abaddon_death_coil"		"Use Mist Coil to:
+
+1. Heal an ally (even if theyre using Black King Bar)
+2. Break your Aphotic Shield (takes your HP)
+3. Earn HP back when Borrowed Time is active
+4. Damage foes who are trying to escape"
+			"abaddon_aphotic_shield"		"Aphotic Shield deals its damage regardless if your shielded target takes damage or you cast another shield on top.
+
+Use Aphotic Shield to rid slows and other disables. It should be constantly casted to remove stuns, not prioritized to protect against damage, so stack the shields if it means dispelling allies from disables."
+			"abaddon_frostmourne"		"Works on towers, creeps and heroes. Focus on a specific target you want to silence or chase down rather than the nearest foe.
+
+This ability works great on weak supports during the laning stage who cant escape from your initial hits and slow."
+			"abaddon_borrowed_time"		"Be careful about this ability as it does not activate if nuked down from a certain current health to 0.
+
+Can be activated manually even if stunned.
+Auto-passive cast disabled when Break debuff applied.
+
+This is your safety net, not initiation, so start backing up if you are unsure you can escape after Borrowed Time runs out."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_15"		"Reduces all item and ability cooldowns, granting Abaddon more "
+		}
+	}
+}
+ 

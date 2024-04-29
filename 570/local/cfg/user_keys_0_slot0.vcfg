@@ -1,0 +1,10 @@
+"config"
+{
+	"bindings"
+	{
+		"\"		"<unbound>"
+		"POV_LEFT"		"use_item_client player_loadout action_item"
+		"F10"		"<unbound>"
+		"LEFT"		"use_item_client player_loadout action_item"
+	}
+}

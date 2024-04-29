@@ -1,0 +1,27 @@
+"config"
+{
+	"bindings"
+	{
+		"n"		"autobuy"
+		"F4"		"<unbound>"
+		"F3"		"<unbound>"
+		"4"		"slot6"
+		"6"		"<unbound>"
+		"7"		"<unbound>"
+		"MOUSE5"		"slot7"
+		"8"		"<unbound>"
+		"c"		"slot10"
+		"0"		"<unbound>"
+		"v"		"slot8"
+		"9"		"<unbound>"
+		"MWHEELUP"		"slot9"
+		"`"		"toggleconsole"
+		"MOUSE1"		"+attack"
+		"g"		"drop"
+		"'"		"noclip"
+		"-"		"sv_rethrow_last_grenade"
+		"x"		"slot12"
+		"p"		"sv_cheats 1; noclip"
+		"MWHEELDOWN"		"<unbound>"
+	}
+}

@@ -1,0 +1,168 @@
+"guidedata"
+{
+	"Hero"		"shadow_shaman"
+	"Title"		"Standard Build Position 4 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"313"
+	"AssociatedWorkshopItemID"		"0x0000000007B1B152"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D36F0"
+	"TimePublished"		"0x00000000662D36F0"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"STARTING ITEMS"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_blink"
+				"item"		"item_aether_lens"
+				"item"		"item_aghanims_shard"
+			}
+			"utility items"
+			{
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+				"item"		"item_dust"
+				"item"		"item_gem"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_blood_grenade"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_glimmer_cape"
+				"item"		"item_aeon_disk"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_travel_boots"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_refresher"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"To help you gank foes easier, this Blink Dagger should be very much considered to be ahead. Initiate with Blink Dagger and Force Staff away after executing your disables for your then allies to follow-through."
+			"item_ghost"		"Avoid being targeted by physical carries with this item. Shadow Shaman seldom auto-attacks, but needs the time to cast his necessary abilities. 
+
+If the physical carry starts to get near you, pop Ghost Scepter then disable them with either of your abilities."
+			"item_cyclone"		"Further your disables with this movement-speed buff and enhances your disabling capabilities with Cyclone!
+
+Use Eul&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Scepter of Divinity to set up your ultimate: Serpent Wards to trap enemies within.
+
+Target where the foe will and with your ultimate and watch them trapped and take permanent damage."
+			"item_aether_lens"		"Aether Lens is great for Shadow Shaman who relies on his ranged disables to keep the advantage on his team. With Shackle and Hex both having decent range; your reliance on positioning with Force Staff or Blink Dagger is reduced when you have Aether Lens to provide a better safe range to initiate."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_ultimate_scepter"		"More pushing power, more wards. This is great item overall for Shadow Shamans ability to fortify areas you want to fight and take down towers easily."
+			"item_refresher"		"More crowd-control, more Serpent Wards for incredible pushing power. Refresher Orb is a great item to continue the momentum of your pushes or even to fully crowd-control an enemys line-up."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_spirit_vessel"		"Spirit Vessel is a great end-game item versus especially tanky heroes or those with a lot of health."
+			"item_rod_of_atos"		"Similar to Euls Scepter of Divinity, Rod of Atos entraps foes for a period in time, long enough for your follow-up abilities or skill-shots.
+
+Rely on Rod of Atos to set up a gank as its range is quite far."
+			"item_tranquil_boots"		"After you disassemble your Arcane Boots, purchase Tranquil Boots to assist your in roaming, initiating and ganking."
+			"item_lotus_orb"		"Lotus Orb provides the armor to give more survivability but also allows you dispel big stuns/slows or reflect back nuke damage on your teammates who keep getting targeted."
+			"item_aghanims_shard"		"Aghs Shard means you can farm by casting Shackle on jungle camps, entrap enemies even after Shackle runs out or simply cut short."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by on your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_black_king_bar"		"Ensure your Shacle holds for its full duration with Black King Bar."
+			"item_apex"		"Celebrating 10 years of Guides!
+
+Since Feb. 2013, 525 million subs have trusted me for over 3.3 billion games - 1.8 million daily
+
+Annually, I apply over 7,200 updates to try to provide good builds that are used by pros, OpenAI, streamers and players
+
+To say Dota has saved my childhood, future and identity is an understatement. Youve made this ordinary person achieve something extraordinary
+
+Thank you ♥
+Michael Yossef Cohen-Palacios
+
+Twitter @TorteDeLini
+Twitch.tv/TorteDeLini
+Insta @TorteDeLini"
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"shadow_shaman_ether_shock"
+			"2"		"shadow_shaman_shackles"
+			"3"		"shadow_shaman_shackles"
+			"4"		"shadow_shaman_voodoo"
+			"5"		"shadow_shaman_voodoo"
+			"6"		"shadow_shaman_mass_serpent_ward"
+			"7"		"shadow_shaman_voodoo"
+			"8"		"shadow_shaman_voodoo"
+			"9"		"shadow_shaman_shackles"
+			"10"		"special_bonus_unique_shadow_shaman_hex_damage_amp"
+			"11"		"shadow_shaman_shackles"
+			"12"		"shadow_shaman_mass_serpent_ward"
+			"13"		"shadow_shaman_ether_shock"
+			"14"		"shadow_shaman_ether_shock"
+			"15"		"special_bonus_unique_shadow_shaman_2"
+			"16"		"shadow_shaman_ether_shock"
+			"18"		"shadow_shaman_mass_serpent_ward"
+			"20"		"special_bonus_unique_shadow_shaman_7"
+			"25"		"special_bonus_unique_shadow_shaman_4"
+		}
+		"AbilityTooltips"
+		{
+			"shadow_shaman_ether_shock"		"Cast Ether Shock on the nearest foe to the enemy you want to target should they be fleeing. The secondary hit will reach the escaping foe at an additional range; netting you the damage/kill."
+			"shadow_shaman_voodoo"		"Hex is an insta-cast; making it your initiation when Blinking or Force Staffing onto an enemy:
+
+1. Blink or Force Staff onto your targeted enemy to gank.
+2. Hex them before getting a few auto-attacks in.
+3. Summon Serpent Wards surrounding the foe.
+4. Shackle to ensure they remain in range of your Wards."
+			"shadow_shaman_shackles"		"This ability is a channel, the damage is constant, so focus more on who you can work this with rather than trying to take down opponents on your own.
+
+Use Shackle to keep foes near your Serpent Wards to ensure they take the damage and cannot flee or cast ability to get out."
+			"shadow_shaman_mass_serpent_ward"		"Using Mass Serpent Wards is massive in team fights or to push down towers fast. Try to place them at range of the enemy tower to prevent them from being picked off by enemies.
+
+You can trap heroes using these serpent wards with a bit of practice and timing.
+
+You can control them, so focus a target."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+		}
+	}
+}
+ 

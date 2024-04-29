@@ -1,0 +1,21 @@
+"config"
+{
+	"bindings"
+	{
+		"n"		"autobuy"
+		"F4"		"<unbound>"
+		"F3"		"<unbound>"
+		"4"		"slot6"
+		"6"		"<unbound>"
+		"7"		"<unbound>"
+		"MOUSE5"		"slot7"
+		"8"		"<unbound>"
+		"c"		"slot8"
+		"0"		"<unbound>"
+		"v"		"slot10"
+		"9"		"<unbound>"
+		"MWHEELUP"		"slot9"
+		"`"		"<unbound>"
+		"VERTICAL_BAR"		"toggleconsole"
+	}
+}

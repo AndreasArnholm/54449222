@@ -1,0 +1,168 @@
+"guidedata"
+{
+	"Hero"		"ogre_magi"
+	"Title"		"Standard Build Position 3 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"419"
+	"AssociatedWorkshopItemID"		"0x0000000007AE5909"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000662D369C"
+	"TimePublished"		"0x00000000662D369C"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bracer"
+				"item"		"item_boots"
+				"item"		"item_hand_of_midas"
+				"item"		"item_soul_ring"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
+				"item"		"item_blade_mail"
+				"item"		"item_heart"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_solar_crest"
+				"item"		"item_eternal_shroud"
+				"item"		"item_pipe"
+				"item"		"item_heavens_halberd"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sheepstick"
+				"item"		"item_ethereal_blade"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_dagon_5"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_aether_lens"		"Aether Lens makes Ogre Magis range for his slows and stuns to be even better at a larger range; making you an ideal initiator to help your allies reach the enemy.
+
+Make sure to disassemble your boots to make Aether Lens at a cheaper rate."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_ultimate_scepter"		"Aghanims Scepter is Ogre Magis most important item. Without it, you lose a lot of your strength and core abilities later on in the game.
+
+The extra stun offered from Aghanims Scepter also multicasts (your ultimate) as well, giving you a chance for more damage, more crowd-control for Ogre Magi"
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_spirit_vessel"		"Spirit Vessel capitalizes on your early ganking prowlness to then be able to dish out strong scaling damage to high health heroes."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if theyre frail to magic types."
+			"item_hand_of_midas"		"With your ultimate, there is a chance you can receive double the gold and experience to help Ogre be even stronger towards the late-game.
+
+The trade-off depends on how quickly you can get this item. Consider stacking camps and using Ignite to hasten the process."
+			"item_orb_of_venom"		"Orge Magi&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s incredible health in the laning stage means he can bully a lot of offlaners out and maintain that aggression through Orb of Venom."
+			"item_veil_of_discord"		"Veil of Discord provides early mana regen for Ogre while also increasing all his spell damage which are already incredibly potent."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes.
+
+Use before your opponents pops their BKB as the Disarm will pursue even after.
+
+Works with Multicast."
+			"item_crimson_guard"		"Crimson Guard is recommended against high-input and illusion-base or unit-related damage heroes, like Lycan or Broodmother, to mitigate their physical output against your team that needs, but cannot focus on, sustainability. Crimson Guard scales with your strength, so it is especially valuable with heroes who have high strength gain or are building strength-base items."
+			"item_lotus_orb"		"Lotus Orb provides the armor to give more survivability but also allows you dispel big stuns/slows or reflect back nuke damage on your teammates who keep getting targeted"
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage.
+
+Works with Multicast."
+			"item_tranquil_boots"		"With Tranquil Boots, you close the gap of your foes to intiaite with Fireblast."
+			"item_ring_of_basilius"		"An early Ring of Basilius means mana for you and your ally to be able to routinely harass. The added value is being able to build it into Veil of Discord for some added damage and follow-through with your Ignite and Fireblast."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemys armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_aghanims_shard"		"Further utility for Ogre Magi and a chance to proc. Multicast."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_harpoon"		"Rely on Harpoon as either your initiating ability to get enemies close or to keep them in-range should they find a way to escape. Heads-up that it pulls both you and the target and you must select the target so no skills required to Harpoon enemies."
+			"item_blink"		"For Ogre, getting the initiation on someone to stun and damage them can be the difference in a fight, especially against channeling heroes or back-line heroes that are hidden from the team-fight."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"ogre_magi_ignite"
+			"2"		"ogre_magi_bloodlust"
+			"3"		"ogre_magi_ignite"
+			"4"		"ogre_magi_fireblast"
+			"5"		"ogre_magi_ignite"
+			"6"		"ogre_magi_multicast"
+			"7"		"ogre_magi_ignite"
+			"8"		"ogre_magi_fireblast"
+			"9"		"ogre_magi_fireblast"
+			"10"		"special_bonus_unique_ogre_magi_4"
+			"11"		"ogre_magi_fireblast"
+			"12"		"ogre_magi_multicast"
+			"13"		"ogre_magi_bloodlust"
+			"14"		"ogre_magi_bloodlust"
+			"15"		"special_bonus_attack_damage_80"
+			"16"		"ogre_magi_bloodlust"
+			"18"		"ogre_magi_multicast"
+			"20"		"special_bonus_strength_30"
+			"25"		"special_bonus_unique_ogre_magi_2"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_cast_range_100"		"If you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re securing a lot of early-game kills, go for the extended range bonus as you should be doing fine on levels and gold to help push you towards the mid-game.
+
+However, the gold bonus is also a great perk, especially if you know you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re inefficient in farming or reaching end-game items overall."
+			"ogre_magi_ignite"		"Use the early level of Ignite to slow and harass enemy offlaners while you bully them out with your superior regen/armour.
+
+Ignite targets an enemy, but also hits any nearby enemies as well. Use this after your stun to follow-up with the slow and extra DPS.
+
+Use this ability to farm, ferry over clarities regularly."
+			"ogre_magi_bloodlust"		"The movement and attack speed scales very well and is essential to team-fights. Use it often before a team-fight on all your allies.
+
+Also use this on towers to defend better against pushes."
+			"ogre_magi_unrefined_fireblast"		"Make sure to time your two stuns (Fireblast and this one) to maximize the duration."
+			"ogre_magi_multicast"		"Marry Lady Luck to increase likelihood of this working.
+
+Affects offensive item usage on enemies as well."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ Bongikairu
++ Daxdiv
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte
+"
+			"ogre_magi_smash"		"Routinely cast Fire Shield on allies as you near engagement or a tower to protect him from big initial jumps against enemies."
+			"ogre_magi_dumb_luck"		"Dumb Luck basically means that getting any items with Intelligence attribute is pointless and that you can expand your mana-pool and regeneration through either direct mana-regeneration items or through more Strength attribute, giving Ogre both more damage and health as well as mana and mana regeneration."
+		}
+	}
+}
+ 
