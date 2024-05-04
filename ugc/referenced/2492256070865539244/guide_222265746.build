@@ -1,0 +1,180 @@
+"guidedata"
+{
+	"Hero"		"terrorblade"
+	"Title"		"Standard Build Position 1 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"348"
+	"AssociatedWorkshopItemID"		"0x000000000D3F8192"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663540D1"
+	"TimePublished"		"0x00000000663540D1"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_dragon_lance"
+				"item"		"item_manta"
+				"item"		"item_skadi"
+				"item"		"item_black_king_bar"
+				"item"		"item_butterfly"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_hand_of_midas"
+				"item"		"item_sange_and_yasha"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_satanic"
+				"item"		"item_greater_crit"
+				"item"		"item_disperser"
+				"item"		"item_swift_blink"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_hurricane_pike"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_revenants_brooch"
+				"item"		"item_refresher"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_black_king_bar"		"Prevent any form of stuns on you so you can pull of your sunder and raze down teams easily. Black King Bar is not always needed, but it is a nice security blanket."
+			"item_manta"		"Manta Style has two purposes: It is to help push towers while also breaking silences so you can Sunder to regain your life.
+
+Using Manta Style to also push lanes and siege high-ground is vastly important for a Terrorblade who cannot be caught out."
+			"item_dragon_lance"		"Despite Dragon Lance being ideal for ranged heroes (like when Terrorblade uses Metamorphosis), its stats can be relatively great as a pinch item for when Terrorblade goes for larger items that requires farm.
+
+The stats transfer to his illusions, making it all the more worthwhile."
+			"item_sange_and_yasha"		"Usually a fast and easy way to get extra damage, extra survivability and some buffs for you and your illusions.
+
+Buy this or Manta Style as both have overlapping value for different scenarios. The lifesteal and reduced stun can be great for a Terrorblade that doesnt fear abilities that he might want to dispel with Manta Style."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_skadi"		"The added slow is a nice touch with your illusions and the all-around stats make Terrorblade unstoppable.
+
+Eye of Skadi slows enemies but also reduces their regen. Especially useful versus high health and regenerative enemies where you need to cripple their survivability from lifesteals and healing."
+			"item_ancient_janggo"		"Terrorblade suffers from having an incredibly low health-pool. Drums of Endurance is to improve his maneuvrability in fights so he can stay at the rim and away from danger to alleviate his health and mana."
+			"item_nullifier"		"Nullifier amplifies your damage and mutes enemies, preventing them from using their items.
+
+With your Manta Style, each attack when Nullifier is activated on an enemy will cut their movement speed momentarily - making it harder for them to escape.
+
+Especially useful against BKB users."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_hurricane_pike"		"When enemies get too close and in your face, use Hurricane Pike to push them away and provide insane range for your attacks.
+
+Also useful if you have the jump on them to push them immediately apart from your attacks and kite them hard."
+			"item_sphere"		"Consider Linken&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Doom or Necrophos&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; Reaper Scythe from completely killing/disabling you."
+			"item_diffusal_blade"		"Also affected by your illusions, meaning your mana-to-damage burn saps enemies&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; mana-pool quickly and amplifies your attacks very rapidly."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_falcon_blade"		"Falcon Blade gives Terrorblade a bit more mana regeneration for his Conjure Image, survivability in case of ganks and damage to farm more quickly."
+			"item_aghanims_shard"		"Aghs Shard can be useful especially for the dispel both in addition or in substitution of Satanic (if you cant reach or afford it in time)."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_ultimate_scepter"		"Aghs Scepter not only increases your Metamorphosis duration but also blasts a massive fear effect on enemies, disrupting team-fights and allowing you to go hard on fleeing enemies.
+
+Works well with a Blink Dagger for key positioning and follow-through."
+			"item_refresher"		"At a certain point, Terrorblade will need to extend his Metamorphosis for the initial fight and when enemies buyback to engage again or to push hard after you defeat your enemies."
+			"item_infused_raindrop"		"Opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_ring_of_basilius"		"An early Ring of Basilius relives mana management on your side but can also provide additional mana for your teammates if you have an especially aggressive lane with great early-game abilities."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities)."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"terrorblade_reflection"
+			"2"		"terrorblade_metamorphosis"
+			"3"		"terrorblade_metamorphosis"
+			"4"		"terrorblade_conjure_image"
+			"5"		"terrorblade_conjure_image"
+			"6"		"terrorblade_conjure_image"
+			"7"		"terrorblade_conjure_image"
+			"8"		"terrorblade_sunder"
+			"9"		"terrorblade_metamorphosis"
+			"10"		"special_bonus_unique_terrorblade_4"
+			"11"		"terrorblade_metamorphosis"
+			"12"		"terrorblade_sunder"
+			"13"		"terrorblade_reflection"
+			"14"		"terrorblade_reflection"
+			"15"		"special_bonus_unique_terrorblade_metamorphosis_cooldown"
+			"16"		"terrorblade_reflection"
+			"18"		"terrorblade_sunder"
+			"20"		"special_bonus_unique_terrorblade_5"
+			"25"		"special_bonus_unique_terrorblade_3"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_hp_regen_6"		"The extra regen makes your farming phase much more sustainable - lessening the fear of getting ganked at low life and overall - not needing any sort of sustainability items to let you farm non-stop."
+			"terrorblade_reflection"		"A single point is great in the laning phase to freely harass foes due to its low mana-cost!
+
+Reflection is your initiation. Start your Metamorphosis and continue conjuring images.
+
+0. Conjure as many images as you can before the fight
+1. Cast Reflection
+2. Cast Metamorphosis
+3. Use Sunder when you are 35% hp or lower."
+			"terrorblade_conjure_image"		"Conjure Image is your bread and butter to farm. Be sure to activate as many images as possible before using your Metamorphosis so you can keep a constant stream of strong illusions to push and fight.
+
+Use this ability to farm, ferry over clarities regularly."
+			"terrorblade_metamorphosis"		"Metamorphosis is your team-fighting ability. While Reflection helps initiate, the damage from Metamorphosis is what will let you kill your foes faster than they can kill you (after you Sunder them)
+
+Also great for sieging towers or to help early-game with last hits if necessary/desperate."
+			"terrorblade_sunder"		"Can be used on allies and enemies. Better safe than sorry, use this in fear of major nukes that may prevent this ability.
+
+Be wary that Sunder has a casting delay, so use it knowing that in mind."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"terrorblade_terror_wave"		"If targeted upon, use Terror Wave to back enemies off and target the ones you can initially kill during your fears duration.
+
+3.75 second duration. Not sure why this ability has no description listed..."
+			"terrorblade_demon_zeal"		"Demon Zeals dispel is what makes this ability so appealing, especially useful before Sunder or to force yourself at a riskier lower health-point to Sunder right after.
+
+Great to increase your farming while in melee mode as well."
+		}
+	}
+}
+ 

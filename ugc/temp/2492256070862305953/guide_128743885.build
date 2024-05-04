@@ -1,0 +1,185 @@
+"guidedata"
+{
+	"Hero"		"drow_ranger"
+	"Title"		"Standard Build Position 1 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/VYNLmFV.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"380"
+	"AssociatedWorkshopItemID"		"0x0000000007AC79CD"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066347EF3"
+	"TimePublished"		"0x0000000066347EF3"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_power_treads"
+				"item"		"item_null_talisman"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_dragon_lance"
+				"item"		"item_invis_sword"
+				"item"		"item_hurricane_pike"
+				"item"		"item_black_king_bar"
+			}
+			"Utility Items"
+			{
+				"item"		"item_tpscroll"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_manta"
+				"item"		"item_sphere"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_greater_crit"
+				"item"		"item_silver_edge"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_satanic"
+				"item"		"item_butterfly"
+				"item"		"item_swift_blink"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tpscroll"		"Once you have your second level in Gust, if you get ganked; you can use Gust to prevent an enemy from interrupting you as you teleport away. Be sure to use it the Town Portal Scroll fast as the duration of your Gust/Silence is limited!"
+			"item_hurricane_pike"		"Hurricane Pike allows you to keep a full range for your ultimate to function on enemies. By using Hurricane Pike on an enemy, your ultimate is enabled to give you bonus damage at an incredibly safe range.
+
+This is key for enemies who target Drow specifically or blink onto her to gank. The Hurricane Pike ensures you can deal damage fast and Marksmanship effects are in use."
+			"item_black_king_bar"		"Black King Bar is regular item for Drow Ranger to prevent being stunned or limiting your damage output. Ultimately, she is very fragile, so your damage output is a question of: Can I kill them before they kill me?
+
+Black King Bar ensures you can make the effort."
+			"item_butterfly"		"What works with an agility hero? More agility, the evasion is a nice touch for heroes that wants to stay on the rim of battles such as Drow Ranger and also have enough survivability in the form of armor and health-pool."
+			"item_manta"		"Manta Style works great with boosting the capabilities of your illusions thanks to Drow Rangers passive ultimate that really strengthen her damage ever further. 
+
+Later in the game, Drow offers pushing capabilities for all ranged heroes thanks to her Precision Aura. Manta Style breaks high-ground and can dispel silences or slows that are keeping you down."
+			"item_invis_sword"		"Since Drow Ranger has no escape (or ways of running away/getting out), Shadow blade is a great tool for her to either gank or run away from incoming attacks."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities).
+
+Alternatively, if you cant get in close to enemies using Blink Dagger, Silver Edge can be an alternative."
+			"item_sange_and_yasha"		"Sange and Yasha provides more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_mjollnir"		"Mjollnir and Aghanim&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s work best together.
+
+Late into the game, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll either face Drow&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s strong counters:
+1. Strong-armoured heroes
+2. Illusion Heroes
+3. In-Your-Face ganking heroes
+4. Mega Creeps
+
+Aghanim&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s + Mjollnir helps push back lanes and does AOE damage again"
+			"item_mask_of_madness"		"Use Mask of Madness for a more offensive Drow Ranger; where you intend on ganking and taking advantage of your Frost Arrows to catch enemies out of place. Combine this with Shadow Blade/Silver Edge for further ganking."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ults like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_blink"		"For Drow Ranger, getting off a great Gust into Frost Arrows is an immensely difficult gank for foes to escape from. Blink Dagger can also be used to engage in fights late, so you can avoid being targeted or initiated on as your follow-through damage is game-winning."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_falcon_blade"		"Falcon Blade can be great if you need the damage extra damage and find yourself spending more on clarities to Multishot and farm creeps than you can manage with farm. Definitely needed if fighting often early as well."
+			"item_aghanims_shard"		"Aghs Shard should be considered especially if you have a good initiating line-up or relying on high-ground defense to ensure the enemies cannot target you (like Spirit Breakers Charge) and can safely channel your Multishot."
+			"item_skadi"		"This is not redundant because the stats it provides on top of reducing an enemy heal, regeneration and lifesteal makes them worthwhile regardless of the slow.
+
+Eye of Skadi is great at the end-game to take down high health targets and also prevent enemies from fleeing with your slow. It provides stats across the board providing everything a carry needs to cap the game to a win."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm or regenerate mana. When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption. Before you cast a spell to farm more quickly, switch your Boots to Intelligence to reduce your total mana spend."
+			"item_ring_of_basilius"		"An early Ring of Basilius relives mana management on your side and provides additional mana for your teammates if you have an especially aggressive lane with great early-game abilities. Great for heroes who also rely on their spells to farm jungle camps after the laning phase."
+			"item_dragon_lance"		"Dragon Lance gives decent stats to help you farm, take fights from a safe distance if necessary and provides more reach against enemies when they start to flee against you."
+			"item_ultimate_scepter"		"Aghs Scepter can be necessary against strength heroes to reduce their health regeneration and stack a lot of Hypothermia stacks on them, increasing the damage and ultimately, when they die, deal a ton of damage to enemies around.
+
+Multishot also applies Hypothermia from Aghs Scepter too and can help with hastening your farm."
+			"item_greater_crit"		"Daedalus takes advantage of the fact that Marksmanship ignores the enemys defense and thus your critical hits will deal more damage."
+			"item_disperser"		"Disperser can be played both offensively but it is also appealing to use it on yourself or allies to rid disables and give you extra movement speed for positioning, chasing or otherwise."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"drow_ranger_frost_arrows"
+			"2"		"drow_ranger_multishot"
+			"3"		"drow_ranger_frost_arrows"
+			"4"		"drow_ranger_wave_of_silence"
+			"5"		"drow_ranger_multishot"
+			"6"		"drow_ranger_marksmanship"
+			"7"		"drow_ranger_multishot"
+			"8"		"drow_ranger_multishot"
+			"9"		"drow_ranger_frost_arrows"
+			"10"		"drow_ranger_frost_arrows"
+			"11"		"special_bonus_unique_drow_ranger_2"
+			"12"		"drow_ranger_marksmanship"
+			"13"		"drow_ranger_wave_of_silence"
+			"14"		"drow_ranger_wave_of_silence"
+			"15"		"special_bonus_unique_drow_ranger_6"
+			"16"		"drow_ranger_wave_of_silence"
+			"18"		"drow_ranger_marksmanship"
+			"20"		"special_bonus_unique_drow_ranger_1"
+			"25"		"special_bonus_unique_drow_ranger_3"
+		}
+		"AbilityTooltips"
+		{
+			"drow_ranger_frost_arrows"		"Manually cast this on enemy heroes to harass without drawing creep aggro. Frost Arrows should also be used to help guarantee last-hits on creeps."
+			"drow_ranger_wave_of_silence"		"Silence offers a nice knockback to keep foes minimally back and allows you to create decent space for you to kite and trail foes.
+
+You can use Gust to silence an enemy and activate your Town Portal Scroll!
+
+Gust does not break Town Portal Channeling of enemies and reveals invisible units."
+			"drow_ranger_trueshot"		"Only provides bonuses for allied ranged heroes and units (incl. creeps). Attack speed is increased based on your AGI stat, so build agility items to improve this global ability (both active and passive components).
+
+Don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t forget to activate this."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_50"		"Affects ability and active-item cooldowns."
+			"drow_ranger_multishot"		"This is a channeling ability, so you cannot move while using it. Especially useful to clear jungle creep camps or even siege towers/buildings. The additional range, slow and damage means this ability is especially strong throughout the game.
+
+Open with this ability during fights if you dont feel safe engaging or as a last ability to reach fleeing enemies.
+
+Use this ability to farm, ferry over clarities regularly."
+			"drow_ranger_marksmanship"		"Keep your distance to ensure this passive ability is active. It pierces base armor (good against towers as well) and also capitalizes on your agility gain with Drow Ranger."
+			"special_bonus_cooldown_reduction_30"		"The 30% reduction means you can use Multishot, Gust, and even your items more often as by now, you have a sufficient amount of damage."
+			"drow_ranger_glacier"		"Glacier becomes situationally valuable for Drow Ranger as a way to shroud yourself from being targeted against hero jumpers like Spirit Breaker who rely on vision to charge you.
+
+Glacier especially works after your ally initiates to provide you sufficient time to cast Glacier and Multishot for its full duration.
+
+Really good to siege enemy high-ground from afar as it gives the same height as their base."
+		}
+	}
+}
+ 

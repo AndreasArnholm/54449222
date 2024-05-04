@@ -1,0 +1,179 @@
+"guidedata"
+{
+	"Hero"		"tinker"
+	"Title"		"Standard Build Position 2 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"368"
+	"AssociatedWorkshopItemID"		"0x0000000007B2C84F"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663540DB"
+	"TimePublished"		"0x00000000663540DB"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bottle"
+				"item"		"item_soul_ring"
+				"item"		"item_blink"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_shivas_guard"
+				"item"		"item_aether_lens"
+				"item"		"item_ethereal_blade"
+				"item"		"item_black_king_bar"
+				"item"		"item_overwhelming_blink"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_kaya_and_sange"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sphere"
+				"item"		"item_sheepstick"
+				"item"		"item_dagon_5"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Blink is to initiate on the foe unsuspectingly, follow this up with any number of items that disable or nuke the enemy (Scythe of Vyse, Dagon, Missiles, etc.), then Rearm.
+
+When teleporting to a lane, shift-queue your Blink Dagger to a location (like the forest) so you cannot be targeted by a nearby enemy."
+			"item_bottle"		"Since Tinker will be routinely TPing back to base, Bottle is naturally refilled for additional mana usage."
+			"item_travel_boots"		"Use Boots of Travel to travel to and fro the fountain to an empty lane to farm with March of the Machines. 
+
+Be sure to use Rearm after using it immediately to regenerate your health and mana from being in the fountain previously."
+			"item_sheepstick"		"Scythe of Vyse works with Rearm, so be sure to use it constantly during team fights in order to ensure the enemy team is constantly disabled. The duration extends long enough for you to Rearm and then use it again to keep someone permanently disabled."
+			"item_dagon_5"		"It is very popular to build Tinker as purely a damage-dealer. With Dagon at Level 5; you can nuke down foes at an incredible rate with all your other abilities.
+
+With Rearm, you can nuke an enemy with Dagon and Magic Missiles and a good range and rearm to use it again."
+			"item_shivas_guard"		"With Shivas, you can farm incredibly fast with Laser and gank enemies with your nuking ability, Shivas Arctic Blast and Missiles and then Rearm the whole thing.
+
+More importantly, Shivas gives you a good range of vision so you can use Missiles for the enemies further in the back at less risk of your life."
+			"item_bloodstone"		"Bloodstone late into the game, takes advantage of your ganking and killing ability and allows you to split-push more comfortably without having to necessarily teleport back to base to regenerate your mana.
+
+When you have to defend or prevent a counter-push, the mana regeneration will be a lifesaver."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities like Laser and Missile.
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks.
+
+"
+			"item_soul_ring"		"Soul Ring works with your ultimate: Rearm. So the combination is:
+
+1. Activate Soul Ring in your base then Boots of Travel Teleport to a lane
+2. Blink into the jungle
+3. Use Laser and Rearm a creep wave to farm faster
+4. Rearm and do it again with Soul Ring and Bottle
+5. Teleport back home and do the whole thing again."
+			"item_aether_lens"		"As you are a frail hero that needs to stay on the outer edge of fights, Aether Lens keeps you at a safe distance to help allies and avoid enemies."
+			"item_black_king_bar"		"BKB is necessary for a hero that relies on not getting stunned or silenced to dish out the necessary damage."
+			"item_ultimate_scepter"		"Aghanims Scepter allows you to cast your Laser even further, giving you more safe space to spam your Laser to hastily reduce the health of your targets."
+			"item_guardian_greaves"		"Works with rearm until Valve patches it (Arcane Boots does not)"
+			"item_aeon_disk"		"Just in case you somehow are getting caught out a lot like versus a charging Spirit Breaker or really smart enemies."
+			"item_tpscroll"		"Visit 5-minute video on how to play Tinker: 
+https://youtu.be/uzcv53OKxac
+
+(YouTube.com/TorteDeLini)
+
+This is a test feature, please notify me if like/dislike idea."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_boots"		"Rarely will you need Boots because Tinker just blinks across the map with Rearm but on the off-chance that movement is key or your Blink Dagger is taking too long, pick up Boots."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain stuns and silences that you will receive, increase your magic output and mana gain to alleviate you of any concern."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_aghanims_shard"		"Pick up Aghs Shard especially versus lineups that can quickly cover ground to reach you or rely on their team-fighting to engage safely in fights. Separating enemy teams really helps fights go in the favour of your own team of allies."
+			"item_overwhelming_blink"		"Overwhelming Blink means you are blinking on top of enemies for the massive damage and spamming Laser and Missile before Rearming the whole thing and doing it again.
+
+Also great for farming creepwaves incredibly fast with Laser."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"tinker_laser"
+			"2"		"tinker_heat_seeking_missile"
+			"3"		"tinker_laser"
+			"4"		"tinker_heat_seeking_missile"
+			"5"		"tinker_laser"
+			"6"		"tinker_keen_teleport"
+			"7"		"tinker_laser"
+			"8"		"tinker_heat_seeking_missile"
+			"9"		"tinker_heat_seeking_missile"
+			"10"		"special_bonus_mana_reduction_8"
+			"11"		"tinker_defense_matrix"
+			"12"		"tinker_keen_teleport"
+			"13"		"tinker_defense_matrix"
+			"14"		"tinker_defense_matrix"
+			"15"		"special_bonus_unique_tinker_7"
+			"16"		"tinker_defense_matrix"
+			"18"		"tinker_keen_teleport"
+			"20"		"special_bonus_unique_tinker_defense_matrix_cdr"
+			"25"		"special_bonus_unique_tinker_3"
+		}
+		"AbilityTooltips"
+		{
+			"tinker_laser"		"Use Laser to nuke key targets who are especially magic resistant as this ability is pure damage. Dont forget that it also debuffs enemies to prevent them from auto-attacking (miss chance). 
+
+At max level, the duration is incredibly long; making Rearm + Laser an incredible debuff to carries.
+
+Use this ability to farm."
+			"tinker_heat_seeking_missile"		"Missiles has an incredible range and can pick-off fleeing foes. Were getting this to ensure you have lane-control and to fend off attacks."
+			"tinker_march_of_the_machines"		"Generally, you need two waves of March of the Machines for each creep wave.
+
+Combo: 
+1. Teleport into the lane
+2. Blink Dagger to nearby trees/hidden 
+3. March of the Machines to creeps (twice)
+4. Soul Ring + Bottle
+5. Rearm
+6. Soul Ring and back to base!"
+			"tinker_rearm"		"Rearm works with both your active items and abilities, making it easy to farm or gank:
+
+Ganking: 
+- Teleport towards an enemy 
+- Shift-Queue Magic Missiles + Blink Dagger to an ideal location 
+- Dagon and Laser if within range 
+- Soul Ring and Rearm
+
+Keep your mana afloat and teleport away if in danger."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"tinker_keen_teleport"		"A complicated word to say this is your boots of travel, feel free to use it to teleport around the map.
+
+Make sure to Blink Dagger to safely hidden areas or to the edge of fights to safely cast your abilities."
+			"tinker_defense_matrix"		"The status resistance on Defense Matrix makes them spell incredibly strong. Routinely cast it on your carries or yourself to avoid being targeted, stunned, silenced or other so you can safely escape or properly engage!"
+			"tinker_warp_grenade"		"Warp Flare is a great way to keep enemies at bay, push them away from you and punish them from even reaching you by making it even more difficult for them to come back towards your location.
+
+Additionally, it can be really strong on range enemies you cant instantly delete or want to distance from their team or reposition entirely."
+		}
+	}
+}
+ 

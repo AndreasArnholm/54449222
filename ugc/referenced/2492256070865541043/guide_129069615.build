@@ -1,0 +1,181 @@
+"guidedata"
+{
+	"Hero"		"tusk"
+	"Title"		"Standard Build Position 4 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"334"
+	"AssociatedWorkshopItemID"		"0x0000000007B1722F"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066354101"
+	"TimePublished"		"0x0000000066354101"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_faerie_fire"
+				"item"		"item_blood_grenade"
+				"item"		"item_wind_lace"
+				"item"		"item_ward_observer"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_tranquil_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_blink"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_force_staff"
+				"item"		"item_solar_crest"
+				"item"		"item_aeon_disk"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_cyclone"
+				"item"		"item_lotus_orb"
+				"item"		"item_black_king_bar"
+				"item"		"item_boots_of_bearing"
+				"item"		"item_overwhelming_blink"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Dont miss a single Walrus Punch with Blink Dagger. Save your Snowball and Ice Shards to further entrap your foe after blinking on them.
+
+Alternatively, you can also blink and Snowball to immediately save a stunned ally."
+			"item_ultimate_scepter"		"With Aghanims Scepter, Blink Dagger and Snowball; you can keep foes down, maneuvered to an ideal location and really play with their positioning to your advantage.
+
+Try Blinking onto a foe; kicking him to your teammates, snowballing with the stun and following up with Walrus Punch.
+
+Works through BKB, so this is the perfect ability to ruin someones BKB timing."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities)."
+			"item_orb_of_venom"		"The Orb of Venom continues the slow and damage after the initial hit. its relatively cheap and works quite well for Tusk"
+			"item_ancient_janggo"		"Durms of Endurance is to add the already strong mobility of Tusk while giving him more survivability; it&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s a great follow-up to snowball to allow your allies to amplify their hits when you gank onto an enemy."
+			"item_solar_crest"		"Solar Crest will serve useful throughout the whole game; from its mass armour debuff to its miss chance against aggressive physical carries. 
+
+Solar Crest can be used for Roshan and for your Walrus Punch."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes.
+
+Use before your opponents pops their BKB as the Disarm will pursue even after."
+			"item_urn_of_shadows"		"As a roamer, you will be especially active during the laning and mid-game. Urn of Shadows allows to further your damage alongside your ganking abilities."
+			"item_hand_of_midas"		"If your farm is interrupted and you are going to opt for larger items from the get-go. Go for Hand of Midas.
+
+Hand of Midas is valuable only if you know the game will go late and you can take advantage of that with early-levels and faster farm.
+"
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re frail to magic types."
+			"item_spirit_vessel"		"Spirit Vessel capitalizes on your early ganking prowlness to then be able to dish out strong scaling damage to high health heroes."
+			"item_phase_boots"		"Phase Boots helps Tusk hit enemies with Tag Team but also provide additional damage for when he wants to Walrus Punch."
+			"item_cyclone"		"Euls Scepter to disable an enemy, enusre your Ice Shards land and more importantly, dispel some silences or disables held against you."
+			"item_desolator"		"Desolator combined with Walrus Punch is an incredible immediate nuking damage dealer. Also helps take down towers and Roshan much more quickly."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+			"item_orb_of_corrosion"		"Orb of Corrosion stacks the slow and effect from your Tag Team, creating even further annoyance and harassment impact against enemies."
+			"item_boots"		"Having Boots of Speed means you can cut-off the enemys mid-lane escape path and toss them to your own mid.
+
+With Tusk, you want that initial movement speed to Tag Team enemies to slow and hit them continously."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"Aghs Shard means you can farm more easily, persistently damage enemies and your Ice Shard provides more value and effect due to its increased dimension."
+			"item_falcon_blade"		"An early game Falcon Blade means you can spam your abilities to farm, hit enemies harder with Walrus Punch and provide a bit more front-lining capabilities with the extra health."
+			"item_ghost"		"For heroes that rely on physical damage like Juggernaut (and Omnislash) and Riki, Ghost Scepter can be a cheap option to delay their ganks and make them waste their abilities that do no damage."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities like Zeus lightnings or Ogre Magi’s spells. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_aether_lens"		"Additional cast range for your abilities if positioning is a challenge for you. Continue disassembling your Arcane Boots, if you have them, to hasten your timing on acquiring this item."
+			"item_black_king_bar"		"Late-game, Tusk has a lot of abilities to keep the field maneuvrable to his advantage and follow-through with Tag Team. BKB ensures you can jump in a fight, initiate with all your abilities and not get interrupted with the damaging follow-through."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_infused_raindrop"		"For many supports, opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_tranquil_boots"		"After you disassemble your Arcane Boots, you need to build new boots to help with your positioning so you can move in on fights when youre most needed and stay out of fights when big initiations will occur."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_bottle"		"Your goal early-on is to snag last hits to get Bottle before the two-minute rune comes up. You rely on Bottle to spam abilities that either harasses your opponent, secures the ranged creep with an ability or to eventually gank when you can activate the rune whenever you want to start roaming to other lanes."
+			"item_assault"		"Lower armor means your Walrus Punch hits much harder. The additional armor and attack means late-game you have higher survivabilit but also relying on your Level 25 talent percentage chance to occur with incresed attack speed."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Holy Locket, Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"tusk_tag_team"
+			"2"		"tusk_ice_shards"
+			"3"		"tusk_snowball"
+			"4"		"tusk_tag_team"
+			"5"		"tusk_tag_team"
+			"6"		"tusk_walrus_punch"
+			"7"		"tusk_tag_team"
+			"8"		"tusk_snowball"
+			"9"		"tusk_snowball"
+			"10"		"special_bonus_unique_tusk_7"
+			"11"		"tusk_snowball"
+			"12"		"tusk_walrus_punch"
+			"13"		"tusk_ice_shards"
+			"14"		"tusk_ice_shards"
+			"15"		"special_bonus_unique_tusk_2"
+			"16"		"tusk_ice_shards"
+			"18"		"tusk_walrus_punch"
+			"20"		"special_bonus_unique_tusk_5"
+			"25"		"special_bonus_unique_tusk_6"
+		}
+		"AbilityTooltips"
+		{
+			"tusk_ice_shards"		"Open with Ice Shards to entrap foes so you can later Snowball onto them. The range is incredible, so use it often to really scare off your opponents. 
+
+It does not stop where your foe is, but keeps going to where you selected. So plan well and in view of your opponent will be, not where they are.
+
+Use Ice Shards and Snowball to secure ranged creeps and hasten your farm."
+			"tusk_snowball"		"Snowball can be used both as a guardian angel, in which you can save allies from taking immediate nuke damage or stuns, as well as to initiate onto foes.
+
+Anyone inside the snowball is invulnerable to targeting and damage. To add, you can use Ice Shards while in Snowball as a great follow-up.
+
+Use Ice Shards and Snowball to secure ranged creeps and hasten your farm."
+			"tusk_frozen_sigil"		"Dont let it get destroyed otherwise the enemy team receives a large amount of gold for it. If undirected, the Sigil will follow Tusk.
+
+You can load Frozen Sigil into your Snowball for extra damage."
+			"tusk_walrus_punch"		"Use Walrus Punch as a finisher or initation, depending if you bought Blink Dagger/Force Staff/Shadow Blade or not:
+
+0. Before jumping into a fight, activate Tag Team as your Walrus Punch will then do more damage.
+1. Target an enemy with Snowball, collect allies by right-clicking them
+3. Once you hit your foe, use Ice Shard to entrap them
+4. Walrus Punch to keep them in place"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"tusk_tag_team"		"After jumping your enemy with Ice Shards or Snowball, follow-up with Tag Team to deter their ability to fight while also providing more damage for you and your team.
+
+This ability is great early-on to harass and out-hit opponents who try to take you on. Use this ability to farm, ferry over clarities regularly."
+			"tusk_walrus_kick"		"Utilize Walrus Kick while in Snowball to guarantee invulnerability to ensure the stun but also to give you enough time to nail down the direction you want to kick the enemy (or ally)."
+		}
+	}
+}
+ 

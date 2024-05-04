@@ -1,0 +1,166 @@
+"guidedata"
+{
+	"Hero"		"witch_doctor"
+	"Title"		"Standard Build Position 5 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"328"
+	"AssociatedWorkshopItemID"		"0x0000000007B34FEE"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x0000000066354140"
+	"TimePublished"		"0x0000000066354140"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
+				"item"		"item_circlet"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_aghanims_shard"
+				"item"		"item_glimmer_cape"
+			}
+			"utility items"
+			{
+				"item"		"item_ward_observer"
+				"item"		"item_dust"
+				"item"		"item_gem"
+				"item"		"item_smoke_of_deceit"
+				"item"		"item_blood_grenade"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_ghost"
+				"item"		"item_cyclone"
+				"item"		"item_solar_crest"
+				"item"		"item_spirit_vessel"
+				"item"		"item_aeon_disk"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_travel_boots"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_refresher"
+			}
+			"team betboom"
+			{
+				"item"		"item_demonicon"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_ward_observer"		"As a support hero, you need few items to achieve the same impact as those who are going to carry or initiate; be sure to pick up both items to put your team on even ground from the get-go."
+			"item_courier"		"As a support hero, you need few items to achieve the same impact as those who are going to carry or initiate; be sure to pick up both items to put your team on even ground from the get-go."
+			"item_cyclone"		"Later in the game, the low cooldown of your spells means you may run out of mana. Euls will improve your movement speed and mana regeneration, but it also serves as a good way to separate yourself from your foe with its Cyclone."
+			"item_aether_lens"		"Aether Lens range on Witch Doctor means his Paralyzing Cask has an incredible range, alongside Maledict. He can cast his ultimate, Death Ward, at an insane range that makes him very hard to reach before the Death Ward kills the foe.
+
+Dont forget to disassemble Arcane Boots to make Aether Lens."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_ultimate_scepter"		"The main appeal of Witch Doctor is his ability to wipe teams at a relatively good distance. His ultimate, combined with Aghanims Scepter, destroys teams who stay too close together."
+			"item_black_king_bar"		"Black King Bar is a delay to what Witch Doctor really needs, however, if you are getting targeted and not getting the position just right: Black King Bar can fix your biggest issues."
+			"item_solar_crest"		"A Solar Crest not only gives you a larger mana-pool in the early-game to help alleviate harassment with your spells but it also provides strong armor, attack speed, movement speed and a barrier to protect your ally who can then initiate or gank someone with all that value.
+
+You can also apply Solar Crest on yourself for additional protection to make enemies you gank harder to fight back with you without losing or taking significant damage."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_spirit_vessel"		"Spirit Vessel capitalizes on your early ganking prowess to then be able to dish out strong scaling damage to high health heroes."
+			"item_rod_of_atos"		"Similar to Eul&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Scepter of Divinity, Rod of Atos entraps foes for a period in time, long enough for your follow-up abilities or skill-shots.
+
+Rely on Rod of Atos to set up a gank as its range is quite far."
+			"item_lotus_orb"		"Lotus Orb provides the armor to give more survivability but also allows you dispel big stuns/slows or reflect back nuke damage on your teammates who keep getting targeted."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_holy_locket"		"Works brilliantly in combination with your Voodoo Restoration, amplifying your healing by an insane amount."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"Aghs Shard to help disjoint or fake enemies out into thinking youre using your entire ultimate ability.
+
+If you got a Blink Dagger, you can also use Switcheroo to wait for your Blink Dagger to come off Cooldown to then immediately TP away!"
+			"item_ghost"		"For heroes that rely on physical damage like Juggernaut (and Omnislash) and Riki, Ghost Scepter can be a cheap option to delay their ganks and make them waste their abilities that do no damage."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Aether Lens or other. This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_octarine_core"		"For heroes with a large spell cooldown on their ultimate and abilities, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_blink"		"With Blink Dagger, you can time your engagement to be at the ideal moment where you know you wont be interrupted and can be positioned ideally to land your abilities.
+
+Additionally, you can use your Voodoo Switcheroo to avoid death and Blink away immediately after."
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"witch_doctor_paralyzing_cask"
+			"2"		"witch_doctor_maledict"
+			"3"		"witch_doctor_maledict"
+			"4"		"witch_doctor_paralyzing_cask"
+			"5"		"witch_doctor_maledict"
+			"6"		"witch_doctor_death_ward"
+			"7"		"witch_doctor_maledict"
+			"8"		"witch_doctor_paralyzing_cask"
+			"9"		"witch_doctor_paralyzing_cask"
+			"10"		"special_bonus_unique_witch_doctor_6"
+			"11"		"witch_doctor_voodoo_restoration"
+			"12"		"witch_doctor_death_ward"
+			"13"		"witch_doctor_voodoo_restoration"
+			"14"		"witch_doctor_voodoo_restoration"
+			"15"		"special_bonus_unique_witch_doctor_3"
+			"16"		"witch_doctor_voodoo_restoration"
+			"18"		"witch_doctor_death_ward"
+			"20"		"special_bonus_unique_witch_doctor_1"
+			"25"		"special_bonus_unique_witch_doctor_5"
+		}
+		"AbilityTooltips"
+		{
+			"witch_doctor_paralyzing_cask"		"Great stun and can also be used on creeps to eventually reach an enemy in the back should you be unable to reach him. Open with this ability before Maledict and your ultimate: Death Ward.
+
+Use this ability to farm, ferry over clarities regularly"
+			"witch_doctor_voodoo_restoration"		"If you have a pushing line-up. Max Voodoo Restoration before Maledict. Voodoo Restoration scales well, but its mana cost can be too intense early-game.
+
+Later on, you should turn it on when engaging in team-fights as it works during your ultimates channel."
+			"witch_doctor_maledict"		"Use Maledict after using your stun to ensure the effect lands:
+
+1. Use your stun on a specific target
+2. Follow-up with Maledict
+3. Activate Voodoo Restoration
+4. Position yourself and activate: Death Ward
+
+Maledict prevents Blink Dagger from working on foes."
+			"witch_doctor_death_ward"		"Death Ward is a channeling ultimate, so while casting it, you cannot move or use certain abilities (items like Glimmer Cape or Voodoo Restoration will work fine, so use them!). 
+
+If you can use this in a place that separates you from your foe (woods/cliffs), then it will be harder for the opponent.
+
+You can control who the Ward is targeting by selecting the Ward and then right-clicking to have it attack nearby foes.
+
+DOES NOT WORK INSIDE FACELESS VOIDS CHRONOSPHERE: cast it outside to hit enemies within."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"witch_doctor_voodoo_switcheroo"		"FAKE OUT YOUR ENEMIES WITH THIS SWEET-ASS DEATH WARD TRANSFORMATION"
+		}
+	}
+}
+ 

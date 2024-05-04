@@ -75,17 +75,17 @@
 					}
 					"730"
 					{
-						"LastPlayed"		"1714327437"
-						"Playtime2wks"		"1168"
-						"Playtime"		"148926"
+						"LastPlayed"		"1714859769"
+						"Playtime2wks"		"779"
+						"Playtime"		"149250"
 						"cloud"
 						{
 							"last_sync_state"		"synchronized"
 						}
 						"autocloud"
 						{
-							"lastlaunch"		"1714327383"
-							"lastexit"		"1714327436"
+							"lastlaunch"		"1714858987"
+							"lastexit"		"1714859768"
 						}
 						"BadgeData"		"02000000080b"
 						"DisableUpdatesUntil"		"0"
@@ -424,6 +424,10 @@
 						"LastPlayed"		"1713640685"
 						"Playtime2wks"		"71"
 						"Playtime"		"4716"
+						"cloud"
+						{
+							"last_sync_state"		"synchronized"
+						}
 					}
 					"1240440"
 					{
@@ -467,7 +471,7 @@
 						}
 					}
 				}
-				"LastPlayedTimesSyncTime"		"1714327437"
+				"LastPlayedTimesSyncTime"		"1714751538"
 				"PlayerLevel"		"11"
 			}
 		}
@@ -2174,6 +2178,15 @@
 			}
 			"avatar"		"237b81dbe377ddbf5555108320afb63b80e53c40"
 		}
+		"40266395"
+		{
+			"name"		"Tarald"
+			"NameHistory"
+			{
+				"0"		"Tarald"
+			}
+			"avatar"		"4f733c1bb7317b1789a01deb639d59066ad11035"
+		}
 	}
 	"SharedAuth"
 	{
@@ -2187,14 +2200,14 @@
 	}
 	"Offline"
 	{
-		"Ticket"		"08c6a8fb19150ad52f66"
-		"Signature"		"1968157f910e8bf1cd7d0a7567fc53d3d5a30f539cdcca5a0c2a122aaad66a906ac9230f6586e304c8ff147b534e0d3708a332295406289ed0e9821ec2be3231139eb80a38d68576538d177c29c6633e60942bbd931a26307a04eff0a9760bc26b515fb351425574638f1d9d83fce19876b282d9d7b32fc3e55a3fbbc7e7fa0fab7d6cfdb27f3e9f171c67d16f9a9efe9f79bc165ed0ece79d314433cfaa27e70058d3416fa5bc41ac77204178bc0a5012d7c68bb7336636f47bf35bbff08ba7bab6ee86bee56e34659328a4010cb4f1e3d5574ef78951b1ca6ef2c7a7ef4c6dc44cf8b2f7c7d6d49b6715d6257d59c74a72952fdf8fe87258ad87835f20b1b3"
-		"EncryptedTicket"		"0a20146c98ccfff12a6ff0a50755eb9765bad77278d31753166a2b04a27a1477cd921280021968157f910e8bf1cd7d0a7567fc53d3d5a30f539cdcca5a0c2a122aaad66a906ac9230f6586e304c8ff147b534e0d3708a332295406289ed0e9821ec2be3231139eb80a38d68576538d177c29c6633e60942bbd931a26307a04eff0a9760bc26b515fb351425574638f1d9d83fce19876b282d9d7b32fc3e55a3fbbc7e7fa0fab7d6cfdb27f3e9f171c67d16f9a9efe9f79bc165ed0ece79d314433cfaa27e70058d3416fa5bc41ac77204178bc0a5012d7c68bb7336636f47bf35bbff08ba7bab6ee86bee56e34659328a4010cb4f1e3d5574ef78951b1ca6ef2c7a7ef4c6dc44cf8b2f7c7d6d49b6715d6257d59c74a72952fdf8fe87258ad87835f20b1b31806220880cf0a5510295a9528043208da7a3d508a96bd89"
-		"EncryptedSignature"		"1968157f910e8bf1cd7d0a7567fc53d3d5a30f539cdcca5a0c2a122aaad66a906ac9230f6586e304c8ff147b534e0d3708a332295406289ed0e9821ec2be3231139eb80a38d68576538d177c29c6633e60942bbd931a26307a04eff0a9760bc26b515fb351425574638f1d9d83fce19876b282d9d7b32fc3e55a3fbbc7e7fa0fab7d6cfdb27f3e9f171c67d16f9a9efe9f79bc165ed0ece79d314433cfaa27e70058d3416fa5bc41ac77204178bc0a5012d7c68bb7336636f47bf35bbff08ba7bab6ee86bee56e34659328a4010cb4f1e3d5574ef78951b1ca6ef2c7a7ef4c6dc44cf8b2f7c7d6d49b6715d6257d59c74a72952fdf8fe87258ad87835f20b1b3"
+		"Ticket"		"08c6a8fb19158c663666"
+		"Signature"		"5c945914d3416c538c1b96773d1a6c798612b84ce3b0a86938d26df78dd0e0294ba4eb8dd0feb7449e0b8698142cfb8e92f41cdf2eb8d9900a45e87d33cdba00bb999ea06f0c42e1a3c492123aee0496ff831610435bdaafe15d45bf9aacd54dd493a3ecbe5b7ed2b9e5b6b9886eb8a2bd0b0213943172a6c141e14299b839087c41ad5a8e843fbec3ca4ae36b21bfccb697a6c61c050e178525815e43b431fd623c7b12bd2dbfb6b685398c87f8bfe2bf5b96ffa02353e54ed6c63d8323a34a1945dbcdd5118574d69b400388b3369c65d08876abfdf5f48a81fa873ac9e7cfcfe3122d7d7d3921b709cd6e73ef04be46b8c9e195dbca661134d7f45aafe2b2"
+		"EncryptedTicket"		"0a20cc70c3f22be28820ab8c3db5c3c774da0f5f5116c7322e01dea8817fb879fe4a1280025c945914d3416c538c1b96773d1a6c798612b84ce3b0a86938d26df78dd0e0294ba4eb8dd0feb7449e0b8698142cfb8e92f41cdf2eb8d9900a45e87d33cdba00bb999ea06f0c42e1a3c492123aee0496ff831610435bdaafe15d45bf9aacd54dd493a3ecbe5b7ed2b9e5b6b9886eb8a2bd0b0213943172a6c141e14299b839087c41ad5a8e843fbec3ca4ae36b21bfccb697a6c61c050e178525815e43b431fd623c7b12bd2dbfb6b685398c87f8bfe2bf5b96ffa02353e54ed6c63d8323a34a1945dbcdd5118574d69b400388b3369c65d08876abfdf5f48a81fa873ac9e7cfcfe3122d7d7d3921b709cd6e73ef04be46b8c9e195dbca661134d7f45aafe2b21806220880cf0a5510295a95280432080b66f8315ba1a2f1"
+		"EncryptedSignature"		"5c945914d3416c538c1b96773d1a6c798612b84ce3b0a86938d26df78dd0e0294ba4eb8dd0feb7449e0b8698142cfb8e92f41cdf2eb8d9900a45e87d33cdba00bb999ea06f0c42e1a3c492123aee0496ff831610435bdaafe15d45bf9aacd54dd493a3ecbe5b7ed2b9e5b6b9886eb8a2bd0b0213943172a6c141e14299b839087c41ad5a8e843fbec3ca4ae36b21bfccb697a6c61c050e178525815e43b431fd623c7b12bd2dbfb6b685398c87f8bfe2bf5b96ffa02353e54ed6c63d8323a34a1945dbcdd5118574d69b400388b3369c65d08876abfdf5f48a81fa873ac9e7cfcfe3122d7d7d3921b709cd6e73ef04be46b8c9e195dbca661134d7f45aafe2b2"
 	}
 	"apptickets"
 	{
-		"7"		"320000000400000046d43e0301001001070000005a32cb503b44a8c0000000000ad52f668a844b6601000000000000000000b923911a7ea295068c747669fe7ad5e48985d49971f3f79eae12faa06f7b9504b71268a7a3bb8db49dc4cf7f26942a8d0800382403deb443db88c526d4b8cb7da5a019ead4120c2ab871e3088b98abf1ab3547662e74dfe565dc3d92f3248a290a619a5be2bf61ae01533c710a9372446911795322c7caef69e278695a895436"
+		"7"		"320000000400000046d43e0301001001070000005a32cb503b44a8c0000000008c6636660c16526601000000000000000000415fcea3d3a6f2fbb95b34064aa21404ecd1fe56a253a477a0055f7226764a198bcc2909fa8a9ddb571187bff8d91f0e9bbac5e6f7d45cf125650259d80dc9156202b94286da6270c57b1deb26507ce7f8614d34d524316ef5882968ccecce738d03223bc104e52b21de2c1c334787fb27d0ad6895b9660eb13cfeebd993826d"
 		"570"		"5c0000000400000046d43e03010010013a0200005a32cb503b44a8c000000000d98c2e66593c4a6601006243000007003f0200000000a2c704000000dcdd0400000034b2050000007a2006000000a4450700000026af0700000000005cf2597a9a359c5a29d20c2bae1c49123e0c0b5f6c25953c4d3136d95d8ac06cdeb8e5a5d898dd05d050cc69542bf5505eafbdd38bbeebf61ea686a551d43b245380e4f0fc03ea14f92bfeade8c20191159b6cdf843b119c2d037e60754a90e36da93afe91ed48175c154ad4234eeab2ef1d35362a9361d8e09dd724bbe23e87"
 		"313250"		"320000000400000046d43e0301001001a2c704005a32cb503b44a8c000000000d98c2e66593c4a66010062430000000000003a4df604aa2eed6bce27b0d08eba50b13edf8ab7f058f84122d29fbc3f1070f17b3471e4f3df0741ab84eda6f5b91bcde8b43ec5dac841b148de9f209bdb7e36c82d63aa5f5a16d71628f4ee1592d14bb5f3b2fbcff2487d9d0b0731346d573476f241052f8cbe8ff4089ab0e61bcc3ad5eb1dd3f2003b07dd4bec0333b7b148"
 		"373300"		"320000000400000046d43e030100100134b205005a32cb503b44a8c000000000d98c2e66593c4a6601000000000000000000b8d53073db421281bbb89cd6acdfcfaa98b002a3a92c2522ed8111aea5c9f5526d94535171b0cd269479ce55e01be8f6e4b74f2dc54d35b00398434f8d4e5947402d9bdbfae6aec84296ca7ef12721af5e782b5e42d0faea7c3f60cd71bed93ea98fe742e90321ebe9e01fa1a5ba0fae66ff6466820d4d52b969246d7e20495b"
@@ -2216,10 +2229,10 @@
 	}
 	"CloudKey"		"010000004ffff52231076fd57e9e292d5ac48bbb03111c2575ddfeedc2857b618deeaff8c6a785e2"
 	"CloudKeyCRC"		"1493967443"
-	"AppInfoChangeNumber"		"23346963"
+	"AppInfoChangeNumber"		"23416459"
 	"CloudManager"
 	{
-		"HintAppsToPreload"		"2371090"
+		"HintAppsToPreload"		"730"
 	}
 	"WebStorage"
 	{
@@ -2233,25 +2246,29 @@
 		"keyboard_initial_location_overlay"		"\"center-bottom\""
 		"CachedCommunityPreferences"		"{\"bParenthesizeNicknames\":false,\"eTextFilterSetting\":3,\"bTextFilterIgnoreFriends\":false,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1},{\"content_descriptorid\":3},{\"content_descriptorid\":4}]}}"
 		"CachedStorePreferences"		"{\"eReviewScorePreference\":0,\"content_descriptor_preferences\":{\"content_descriptors_to_exclude\":[{\"content_descriptorid\":1,\"timestamp_added\":1683561436},{\"content_descriptorid\":2,\"timestamp_added\":1683561436},{\"content_descriptorid\":5,\"timestamp_added\":1683561436}]},\"provide_deck_feedback\":0}"
-		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11},{\"notification_type\":23,\"notification_targets\":3}]"
+		"CachedNotificationPreferences"		"[{\"notification_type\":2,\"notification_targets\":11},{\"notification_type\":3,\"notification_targets\":1},{\"notification_type\":4,\"notification_targets\":1},{\"notification_type\":5,\"notification_targets\":11},{\"notification_type\":6,\"notification_targets\":11},{\"notification_type\":8,\"notification_targets\":3},{\"notification_type\":9,\"notification_targets\":11},{\"notification_type\":11,\"notification_targets\":3},{\"notification_type\":12,\"notification_targets\":11},{\"notification_type\":15,\"notification_targets\":11},{\"notification_type\":16,\"notification_targets\":11},{\"notification_type\":17,\"notification_targets\":11},{\"notification_type\":18,\"notification_targets\":11},{\"notification_type\":19,\"notification_targets\":11},{\"notification_type\":20,\"notification_targets\":11},{\"notification_type\":21,\"notification_targets\":11},{\"notification_type\":22,\"notification_targets\":11}]"
 		"SteamVoiceSettings_54449222"		"{\"inputGain\":1,\"outputGain\":1,\"noiseGateLevel\":2,\"noiseCancellation\":true,\"echoCancellation\":true,\"autoGainControl\":true,\"selectedMic\":\"default\",\"selectedOutput\":\"default\",\"pttSoundsEnabled\":true,\"hasResetOpenMicHotKey\":true}"
-		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1363080,\"rgAccountIDs\":[45519814,47223044,92507806,405731181,195570145],\"totalFriends\":5},{\"appid\":1371980,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":2225070,\"rgAccountIDs\":[76488823],\"totalFriends\":1},{\"appid\":34330,\"rgAccountIDs\":[190356067],\"totalFriends\":1},{\"appid\":361280,\"rgAccountIDs\":[195570145],\"totalFriends\":1},{\"appid\":413150,\"rgAccountIDs\":[291587078],\"totalFriends\":1},{\"appid\":236850,\"rgAccountIDs\":[69938247],\"totalFriends\":1},{\"appid\":1966720,\"rgAccountIDs\":[121728475],\"totalFriends\":1},{\"appid\":379430,\"rgAccountIDs\":[76290087],\"totalFriends\":1},{\"appid\":2088570,\"rgAccountIDs\":[84860614],\"totalFriends\":1},{\"appid\":250900,\"rgAccountIDs\":[121728475],\"totalFriends\":1},{\"appid\":1326470,\"rgAccountIDs\":[121728475],\"totalFriends\":1},{\"appid\":1145360,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":2066020,\"rgAccountIDs\":[40269910],\"totalFriends\":1},{\"appid\":2379780,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":739630,\"rgAccountIDs\":[123831719],\"totalFriends\":1},{\"appid\":108600,\"rgAccountIDs\":[123831719],\"totalFriends\":1},{\"appid\":284160,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":747610,\"rgAccountIDs\":[466464734],\"totalFriends\":1},{\"appid\":322330,\"rgAccountIDs\":[123831719],\"totalFriends\":1},{\"appid\":2015270,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":1817800,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":532210,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1291010,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1465360,\"rgAccountIDs\":[84442307],\"totalFriends\":1},{\"appid\":2073850,\"rgAccountIDs\":[405731181],\"totalFriends\":1},{\"appid\":1172470,\"rgAccountIDs\":[37609608,45237126,32314670],\"totalFriends\":3},{\"appid\":550,\"rgAccountIDs\":[32314670],\"totalFriends\":1},{\"appid\":881100,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1902490,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":22370,\"rgAccountIDs\":[106952908,68159711],\"totalFriends\":2},{\"appid\":858210,\"rgAccountIDs\":[84860614],\"totalFriends\":1},{\"appid\":1260320,\"rgAccountIDs\":[431583492],\"totalFriends\":1},{\"appid\":824270,\"rgAccountIDs\":[369540126],\"totalFriends\":1},{\"appid\":2642680,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1474700,\"rgAccountIDs\":[431583492],\"totalFriends\":1},{\"appid\":782330,\"rgAccountIDs\":[17685399],\"totalFriends\":1},{\"appid\":7200,\"rgAccountIDs\":[466464734],\"totalFriends\":1},{\"appid\":239140,\"rgAccountIDs\":[94320242],\"totalFriends\":1},{\"appid\":383150,\"rgAccountIDs\":[94320242],\"totalFriends\":1},{\"appid\":218,\"rgAccountIDs\":[365363355],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[67282329],\"totalFriends\":1},{\"appid\":773790,\"rgAccountIDs\":[92507806],\"totalFriends\":1},{\"appid\":1245620,\"rgAccountIDs\":[94320242,17685399],\"totalFriends\":2},{\"appid\":1091500,\"rgAccountIDs\":[17685399],\"totalFriends\":1},{\"appid\":2195250,\"rgAccountIDs\":[172409258],\"totalFriends\":1},{\"appid\":2616460,\"rgAccountIDs\":[92507806],\"totalFriends\":1},{\"appid\":1455840,\"rgAccountIDs\":[69938247],\"totalFriends\":1},{\"appid\":238960,\"rgAccountIDs\":[84860614],\"totalFriends\":1},{\"appid\":632360,\"rgAccountIDs\":[37609608],\"totalFriends\":1}],\"lastFetchTimeMS\":1714326748879}"
+		"trendingstore_storage"		"{\"version\":2,\"data\":[{\"appid\":1363080,\"rgAccountIDs\":[45519814,47223044,195570145,92507806,405731181],\"totalFriends\":5},{\"appid\":2182630,\"rgAccountIDs\":[195570145],\"totalFriends\":1},{\"appid\":322330,\"rgAccountIDs\":[123831719],\"totalFriends\":1},{\"appid\":2066020,\"rgAccountIDs\":[40269910],\"totalFriends\":1},{\"appid\":2479810,\"rgAccountIDs\":[67282329,17267467],\"totalFriends\":2},{\"appid\":960090,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":294100,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":730,\"rgAccountIDs\":[45519814,405731181,67282329,32314670,64202601,68159711,17685399,112834100],\"totalFriends\":25},{\"appid\":591370,\"rgAccountIDs\":[92507806],\"totalFriends\":1},{\"appid\":359550,\"rgAccountIDs\":[90330],\"totalFriends\":1},{\"appid\":1326470,\"rgAccountIDs\":[121728475],\"totalFriends\":1},{\"appid\":1145360,\"rgAccountIDs\":[106952908,405731181],\"totalFriends\":2},{\"appid\":552500,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":936790,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1151340,\"rgAccountIDs\":[94320242],\"totalFriends\":1},{\"appid\":1985810,\"rgAccountIDs\":[40269910],\"totalFriends\":1},{\"appid\":924970,\"rgAccountIDs\":[283922392],\"totalFriends\":1},{\"appid\":726840,\"rgAccountIDs\":[68159711],\"totalFriends\":1},{\"appid\":2015270,\"rgAccountIDs\":[106952908],\"totalFriends\":1},{\"appid\":2881650,\"rgAccountIDs\":[94320242],\"totalFriends\":1},{\"appid\":238370,\"rgAccountIDs\":[37609608],\"totalFriends\":1},{\"appid\":228380,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":2889840,\"rgAccountIDs\":[64202601],\"totalFriends\":1},{\"appid\":1291010,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":598980,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1127500,\"rgAccountIDs\":[195570145],\"totalFriends\":1},{\"appid\":1465360,\"rgAccountIDs\":[84442307],\"totalFriends\":1},{\"appid\":2084050,\"rgAccountIDs\":[90330],\"totalFriends\":1},{\"appid\":578080,\"rgAccountIDs\":[8315566,32314670,111849770,105026477],\"totalFriends\":4},{\"appid\":883080,\"rgAccountIDs\":[168879524],\"totalFriends\":1},{\"appid\":2642680,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":2379780,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":782330,\"rgAccountIDs\":[17685399],\"totalFriends\":1},{\"appid\":1449560,\"rgAccountIDs\":[17685399],\"totalFriends\":1},{\"appid\":824270,\"rgAccountIDs\":[369540126],\"totalFriends\":1},{\"appid\":1938090,\"rgAccountIDs\":[168879524],\"totalFriends\":1},{\"appid\":936720,\"rgAccountIDs\":[68159711],\"totalFriends\":1},{\"appid\":238960,\"rgAccountIDs\":[45237126,84860614],\"totalFriends\":2},{\"appid\":108600,\"rgAccountIDs\":[123831719],\"totalFriends\":1},{\"appid\":42910,\"rgAccountIDs\":[123831719],\"totalFriends\":1},{\"appid\":2023760,\"rgAccountIDs\":[90330],\"totalFriends\":1},{\"appid\":239140,\"rgAccountIDs\":[94320242],\"totalFriends\":1},{\"appid\":383150,\"rgAccountIDs\":[94320242],\"totalFriends\":1},{\"appid\":7200,\"rgAccountIDs\":[466464734],\"totalFriends\":1},{\"appid\":431960,\"rgAccountIDs\":[67282329],\"totalFriends\":1},{\"appid\":218,\"rgAccountIDs\":[365363355],\"totalFriends\":1},{\"appid\":1474700,\"rgAccountIDs\":[431583492],\"totalFriends\":1},{\"appid\":1091500,\"rgAccountIDs\":[17685399],\"totalFriends\":1},{\"appid\":532210,\"rgAccountIDs\":[54360984],\"totalFriends\":1},{\"appid\":1997040,\"rgAccountIDs\":[54360984],\"totalFriends\":1}],\"lastFetchTimeMS\":1714841231399}"
 		"CTextFilterStore_TextFilterPreferences"		"{\"eTextFilterSetting\":3,\"bIgnoreFriends\":false}"
 		"CTextFilterStore_TextFilterWords"		"{\"text_filter_custom_banned_words\":[],\"text_filter_custom_clean_words\":[]}"
 		"CTextFilterStore_strBannedPattern"		"\"\""
 		"CTextFilterStore_strCleanPattern"		"\"^(\\\\b(fak(ed|ers?|ing)|kompetenzteam|派送员|pinegrove|n\\\\.e\\\\.ig\\\\.e\\\\.|fukushima|snigger|nie gee|fukuoka|fuchsia|fuchian|cock\\\\.li|fuxius|fucuro|niego|niebo|neige|neggy|nebby|fuxis|cwfag|pubg|niby|nebu|nebo|fuku|fuki|fakt|g24|fcr|\\\\w*fvchvo\\\\w*)\\\\b)$\""
-		"ChatStorePopupState_54449222"		"{\"window_restore_details\":\"1&x=920&y=405&w=740&h=650\",\"defaultTabs\":{\"tabs\":[\"f37609608\",\"f157061\",\"f29450734\",\"f17685399\",\"f61462918\"],\"active_tab\":\"f157061\"},\"bFriendsListVisible\":true,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
+		"ChatStorePopupState_54449222"		"{\"window_restore_details\":\"1&x=1013&y=405&w=740&h=650\",\"defaultTabs\":{\"tabs\":[\"cg30317204\"],\"active_tab\":\"cg30317204\"},\"bFriendsListVisible\":true,\"always_restore\":false,\"bFriendsListCollapsed\":false}"
 		"FriendStoreLocalPrefs_54449222"		"{\"ePersonaState\":1,\"strNonFriendsAllowedToMsg\":\"\"}"
 		"FriendGroupCollapse_54449222"		"{\"groups\":{\"offline\":false,\"outgoing\":true}}"
-		"GameInvites_54449222"		"{\"dismisstimes\":[[0,[54449222,1713540047]],[1,[37609608,1713279805]],[2,[157061,1713279970]],[157061,1713279970]]}"
+		"GameInvites_54449222"		"{\"dismisstimes\":[[0,[0,[54449222,1713540047]]],[1,[1,[37609608,1713279805]]],[2,[2,[157061,1713279970]]],[3,[157061,1713279970]],[54449222,1713540047]]}"
+		"OverlaySavedDataV2_730_windows"		"{\"version\":2,\"data\":[[\"FriendsList\",1],[\"Browser\",0]]}"
+		"OverlaySavedDataV2_730_webrequests"		"{\"version\":1,\"data\":{\"activeWebPageRequestID\":0,\"rgRequests\":[]}}"
 	}
 	"system"
 	{
 		"PushToTalkKey"		"0"
+		"InGameOverlayShowFPSCorner"		"2"
+		"InGameOverlayShowFPSContrast"		"1"
 	}
-	"RecentLocalPlayedGameIDs"		"da020000000000008c8f2e660000a2cc"
+	"RecentLocalPlayedGameIDs"		"da02000000000000f8ae36660000a2cc"
 	"nettickets"
 	{
-		"730"		"010000004c1e3d4fc50dad2d617ec3dd5970fc1da68020753d5215fa777476a72d22f1c2675ecef6e4632f5d27a3eb315417f6fd230e6a8a640ed75c93e2046067b554306d720659f45ffae740ed536bae41e014b275e992e819e1396c3cc8bad6db738fe660618f06791fd84e4a36373be57d9c4b6651cecb69df2f4f390b921affb55df3731f5caf6eed47671ab065d7b84d2565b335302f65a1b3c38c7edf6f1a695d99dd1956da45f0236261dbb3e9a8d0135a61689a70714a36cd8f6f5b20c4c5c6ebae1b89dc4dc7c919976dfd93aa31a40b9c2a03a11f5117359d743daec003cf9ebf175be16c6f0ad160737091b79ebce579a90040771c01ee414c088811e717a6ceb81ee8fcd9ee14744bc9b03d663502bea30a80780260a9aee72ba2d1d21977a372e4463948594144d90c8ac77162ffc8f300159ab554039b9e3d7c5562e945a34e879cbab0403ae5b5cc2fcba82d69a97d016343adc660940193c1dcfa5cedcc487f413ac34b3b8ec932cc78c5e5083325d4aaeb05bb35e6227ae4da9bee12c2ccd7c336d7ce26327aacd7227bdd0b8bb5e7aa4550b1f2dfaaecf2853df9e7cae8d5e0675ba79c8e97eb87627f509545cde79a14f64b11d151801eef76b633a6e088b3200f600fe59372bb4b74be60dd955a0a5a3c736b"
+		"730"		"010000004c1eea8e35dfa6e45e5bacd5ab23fd9c32b030015edfe776e40a9c211f0b926b64954885d0eb25f0c9acff3c10b437ead0f1c15e8d234631961ad49f01b10e35a5d70659f45ffae740ed53bc6fb1321f7b4accfde0ebb238eda8f8aaa2b8fe7d6af31f65804b36bbe749fd373be57d9c4b6651cecbf057344f39921a1cffb55df3731f5caf6eed47671ab065d7b84d2565b335302f65a1b3c38c7edf6f1a695d99dd1956da45f0236261dbb3e9a8d0135a61688aba13c64e4f3a67c988ab6e1274d5dcf6ce5fa070805d952a5e14b5532dee192c0c647a2ece5580bd934df3a8510b65cb36422353ccfc05c9470b7c82de97a4006b771c01ee414c088811e71791ceb8ecb2e4d9ee14744bc9b03d662711eee1149563610aace57a804c4bd5881d4f19c12ce64233395a7753ca63239800a6d8470364937ce380600946b7f2c4014ec7f15592ea51651635739dbf69c958cff134973ecd719a35101862465975fe59223c2dd1cff3e59b277874c67b1c954260fceda655ea22963534b68dc3b147c9ccdfc23ed4ce243e75a0df6e509c46d6e1a883c6976810901a3a239ffc5dec70f88d3ba339a49b734a024d7a9e0acdb4862641b697ea18fc00889a2da15d2c9368cad1b7bfd9243f050ddf6681824f8d7323153d5e3e9b47f165f68a3a3fc36d5a9f11c6fda2daf479b9cf0539c6c9397a17ca7bbc501acde0f1b7f1778751b40b0a7905f0f34e7fcd87bbd2acbf976799ea9b6582cf2748725ad0f2d8cfa6e04e4ec0ca2cac5b16132e35752da27f6475bd7a716b4523fa53e6ec4e1327b027996e47cba9424e51e0a7fdb7bca6e86f0a6f327b4e1359ee4a388b21e481806ccaf6443142aefdf3ab3431eda67d444c290f8da6e3307308a32ab8cca9f935b8b5fa577b92424240e067e59b87c7f12f6340777c880197bfc31ec77b23edfa8fc5728ad351dc917cc0d3ef593a9acc58229e5c8827766168465fb7871a7e39e6445e6bb5b34775131de19eccd8b0feeead2392b5187d9deb5957b8bcc00c0fc0f14c0d5ed3a7c7117ff868a6c4a2ed5b31b39e291db7109f10eb365728a18d66c8442d1eab0115582ed3ccb2f6f9d24e71f589ad9bcca27f4ce99464bf87e98caa9e8785533431cfef3f65531c517e0624857fba578a08c440f99dce8fc334560e15d5f81890e2620b156121ed6b855eec97d2adf2b8ffc902695fdb0ebbd00916733fcbbf4bc02ebf8b09edfbc4d8a8ada612f38ad19e7ecc1e80bd9019c4fbfd06b4058e71d65ea3b5d16f4e5f70ea5268a5b6caacf2b545cc487df53a771f68f4c31ff7eb1ce8a7922d00bb2b8070"
 	}
 }
