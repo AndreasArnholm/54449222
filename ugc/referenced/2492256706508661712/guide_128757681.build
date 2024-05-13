@@ -1,0 +1,192 @@
+"guidedata"
+{
+	"Hero"		"broodmother"
+	"Title"		"Standard Build Position 3"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		""
+	"GuideRevision"		"426"
+	"AssociatedWorkshopItemID"		"0x0000000007ACAFB1"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FCD89"
+	"TimePublished"		"0x00000000663FCD89"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bracer"
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+				"item"		"item_soul_ring"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_orchid"
+				"item"		"item_phylactery"
+				"item"		"item_black_king_bar"
+				"item"		"item_angels_demise"
+				"item"		"item_bloodthorn"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_heavens_halberd"
+				"item"		"item_manta"
+				"item"		"item_harpoon"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_nullifier"
+				"item"		"item_sheepstick"
+				"item"		"item_butterfly"
+				"item"		"item_disperser"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_sphere"
+				"item"		"item_skadi"
+				"item"		"item_swift_blink"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_quelling_blade"		"Use Quelling Blade to take out enemy sentry and observer wards fast!"
+			"item_ward_sentry"		"Used Sentry Wards to take out enemy Sentry Wards to allow you to safely farm without fear of being ganked."
+			"item_hand_of_midas"		"Hand of Midas can be great for a passive Broodmother who is farming a lane hard; once you start snowballing pushing the lane, Hand of Midas can really accelerate this trend and push you even farther ahead!"
+			"item_black_king_bar"		"At one point or another, the enemy team will get tired of your annoying pushes and start to gank you heavily, stuns, slows; etc. Black King Bar is practically essentially for a Broodmother who sucks late-game and cant take too many hits/nukes."
+			"item_desolator"		"Tear down towers and enemies at an incredible rate with Desolator. Desolator overall low cost, direct value to towers and armour reduction makes them an incredibly worthwhile pick-up for Broodmother and her Spiderlings."
+			"item_soul_ring"		"Soul Ring is your core item. In combination with Spin Webs increased health regeneration and your Spawn Spiderlings ability, you can infinitely spawn new Spiderlings without a single cost your life."
+			"item_bloodthorn"		"For Broodmother, this item is incredibly powerful for ganks as you can target an enemy while sending your Spiderlings to attack the enemy.
+
+Each Spider will deal magic damage during that Bloodthorns Soul Rend duration, melting enemies before they can even respond. Be sure to cast Spawn Spiderlings for nuke damage as well. Combined with Silken Bola and your magic-based physical attacks are insane."
+			"item_enchanted_mango"		"Enchanted Mango is to help your regeneration during the early start of the game. Combined with your Webs, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll have sufficient regeneration to survive in lane until you can afford Soul Ring."
+			"item_diffusal_blade"		"Slow your foe and sap their mana. Compliments well with your increased attack speed, your unbeatable movement speed and your Silken Bola slow."
+			"item_ultimate_scepter"		"Aghs Scepter is a sneaky ability that can slow pushed waves, catch enemies off-guard when chasing or fleeing and ultimately serve as additional visibility on the map until it is destroyed."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemys armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_assault"		"Assault Cuirass provides the defensive nature of additional armor while also amplifying the damage you deal with your attack (and passive abilities) as well as your spiders focus on your foe thanks to Cuirass armor reduction."
+			"item_skadi"		"Eye of Skadi slows enemies but also reduces their regen. Especially useful versus high health and regenerative enemies where you need to cripple their survivability from lifesteals and healing.
+
+The slow allows your Spiderlings to stay on top of fast-moving foes as well. More importantly, as a universal attribute hero, you get a lot of damage from this item."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_butterfly"		"Butterfly provides evasions for Broodmother to survive against other physical carries as well as armor and attack damage thanks to the AGI. attribute."
+			"item_abyssal_blade"		"Abyssal Blade to blink on top of an enemy and stun-lock them for you to follow-through with your spiderlings and auto-attack damage."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for users who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks. Monkey King Bar not only provides strong attack speed but also heightens your ability to your enemies with your attacks."
+			"item_orb_of_corrosion"		"Orb of Corrosion provides a bit more health and combines an early-game slow with minor armor debuff allowing you to force yourself against enemies who have no real escape. Works especially well against enemies who are fragile but hit hard, providing you more survivability and a great slow to keep the enemies within your range."
+			"item_orchid"		"Orchid prevents enemies from being able to flee, allowing Broodmother and her spiders to slow, nuke and attack the enemy until theyre dead."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if theyre frail to magic types.
+
+For Broodmother, wave-clearing magic abilities like Keeper of the Lights Illuminate justifies Pipe of Insight to keep your Spiderlings alive."
+			"item_aghanims_shard"		"Aghs Shard boosts Broodmothers damage massively as she bulks up with a lot of stat-based items which translates into big Base Damage for the hero since she is a Universal Attribute hero.
+
+Pop your Black King Bar before using Insatiable Hunger to really go hard on enemies and regain massive life back."
+			"item_guardian_greaves"		"Guardian Greaves provides great auras for you and your spiders as well as a strong heal to outlast against magic AoE nuking abilities but also armor to keep your spiders going.
+
+The Mend abilities is a nice removal of disables like silence or slows to keep Broodmother going."
+			"item_lotus_orb"		"Lotus Orb provides the armor to give more survivability but also allows you dispel big stuns/slows or reflect back nuke damage on your teammates who keep getting targeted."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities like Spawn Spiderlings and Silken Bola. 
+
+To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls and Glimmer to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI).
+
+For Broodmother, you have a lot of damage, especially when activating Insatiable Hunger, so the extra attack speed is also appreciated."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. Consider disassembling them (right-click on the item and select disassemble) if youre building towards major items like Aether Lens, Lotus Orb or other. 
+
+This will hasten your timing in reaching those items which should preserve your mana-pool sufficiently from there on."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes."
+			"item_blink"		"For Broodmother, to be on top of your enemies to guarantee maximizing your Bites and Silken Bola duration can be necessary, especially for back-line high-damage output units.
+
+Get Blink Dagger if you find yourself constantly kited or just cant seem to get into the fight without taking massive damage."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_falcon_blade"		"Falcon Blade alleviates the high mana cost &amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp; low cooldown "
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm or regenerate mana. When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption. Before you cast a spell to farm more quickly, switch your Boots to Intelligence to reduce your total mana spend."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_disperser"		"Disperser is a fantastic late-game item that combines well with your illusions, units or self and can provide not only another dispel when targeted by debuffs, but also movement to escape or follow-up engage on enemies."
+			"item_harpoon"		"Rely on Harpoon as either your initiating ability to get enemies close or to keep them in-range should they find a way to escape. Heads-up that it pulls both you and the target and you must select the target so no skills required to Harpoon enemies."
+			"item_echo_sabre"		"Echo Sabre allows Broodmother to stay on foes when Insatiable Hunger is active, giving you a lot more damage output quickly.
+
+Upgrade to Harpoon or disassemble to make a variety of items."
+			"item_circlet"		"Broodmother is a universal attribute hero, so Circlet has one of the highest value items for the hero to pick up as he gets a lot of stats across the board and helps him last-hit."
+			"item_mage_slayer"		"Mage Slayer provides both great initial protection against spell casters but also mixes up your damage to be both physical as well as magic damage-over-time. To add, anyone you attack will deal less spell damage, furthering this item as a great offensive purchase for core heroes given the item also gives increased mana pool for your own spells and attack speed to boot."
+			"item_manta"		"For Broodmother who is a universal attribute hero, Manta Style provides a lot of damages due to its stats. However, the real value of Manta Style is its ability to dispel from debuffs like Silence or slows that may impair Broodmother."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"broodmother_spin_web"
+			"2"		"broodmother_silken_bola"
+			"3"		"broodmother_spin_web"
+			"4"		"broodmother_silken_bola"
+			"5"		"broodmother_spin_web"
+			"6"		"broodmother_spawn_spiderlings"
+			"7"		"broodmother_spin_web"
+			"8"		"broodmother_silken_bola"
+			"9"		"broodmother_silken_bola"
+			"10"		"special_bonus_unique_broodmother_3"
+			"11"		"broodmother_insatiable_hunger"
+			"12"		"broodmother_spawn_spiderlings"
+			"13"		"broodmother_insatiable_hunger"
+			"14"		"broodmother_insatiable_hunger"
+			"15"		"special_bonus_unique_broodmother_5"
+			"16"		"broodmother_insatiable_hunger"
+			"18"		"broodmother_spawn_spiderlings"
+			"20"		"special_bonus_attack_speed_35"
+			"25"		"special_bonus_unique_broodmother_1"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_exp_boost_25"		"Get this talent if you go Hand of Midas."
+			"broodmother_spawn_spiderlings"		"Spawn Spiderlings is your nuke damage while also providing additional pushing power and opportunity to harass, split-farm and split-push.
+
+Casting multiple Spawn Spiderlings on a target as you kill them will spawn more Spiders and you want to use your spiders to push lanes or towers even if youre not there."
+			"broodmother_spin_web"		"Spin Web lets you traverse over cliffs, through trees and anywhere unobstructed. Use it as an escape or to scout out areas near the lane in case of ganks.
+
+When the lane is pushed, use the extra webs to reach jungle camps fast to hasten your farm in the meantime the lane is pushed."
+			"broodmother_incapacitating_bite"		"Couple the slow and miss chance with Broodmother&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s ultimate and you have a very strong late-game carry. With this maxed, you can kill enemies without fear of retaliation as the slow and miss will force them to flee.
+
+Doesn&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t affect buildings."
+			"broodmother_insatiable_hunger"		"Insatiable Hunger can be picked up early if youre having a tough lane in last-hitting or surviving and need the regeneration."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_20"		"Affects ability and active-item cooldowns."
+			"broodmother_silken_bola"		"Open your initiation with Silken Bola to slow opponents while causing them to miss attacks if they try to fight you head.
+
+Your Spiderlingers also deal bonus damage when Silken Bola is casted, so take advantage.
+
+Rely on this ability to guarantee last-hit on range creeps."
+			"broodmother_sticky_snare"		"Rely on Spinners Snare to signal where enemies are on the map, to farm creep waves and jungle camps as well as to use as a warding tool when you are farming dangerously away from your team and vision.
+
+Works great as an escape-prevention tool during team-fights."
+		}
+	}
+}
+ 

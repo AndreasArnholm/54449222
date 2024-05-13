@@ -1,0 +1,201 @@
+"guidedata"
+{
+	"Hero"		"bloodseeker"
+	"Title"		"Standard Build Position 3"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		""
+	"GuideRevision"		"445"
+	"AssociatedWorkshopItemID"		"0x000000001304F834"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FCD69"
+	"TimePublished"		"0x00000000663FCD69"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_boots"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_maelstrom"
+				"item"		"item_black_king_bar"
+				"item"		"item_gungir"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_sange_and_yasha"
+				"item"		"item_mjollnir"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_heavens_halberd"
+				"item"		"item_skadi"
+				"item"		"item_abyssal_blade"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_tango"		"Just in case you couldnt snag those last hits needed for Thirst to activate."
+			"item_black_king_bar"		"The one thing all Bloodseeker players fear is missing that kill to regain their life. Black King Bar gives you some strength and the ability to dish out damage without fear of missing the kill due to a stun or disable!"
+			"item_blade_mail"		"As Bloodseeker, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re one of the first in on ganks and sometimes the most vulnerable. Blademail reverses that and causes worry among fleeing foes.
+
+Any further damage you take due to Bloodrage is also damaged back to the enemy."
+			"item_silver_edge"		"Silver Edge adds initial damage on hit to enemies, triggering your Thirst and having you already close enough to cast Rupture and Blood Rite.
+
+Try to cast Bloodrage before activating Silver Edge so when you hit a foe, it does even more initial damage."
+			"item_sphere"		"Consider Linken&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Doom or Necrophos&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; Reaper Scythe from completely killing/disabling you."
+			"item_phase_boots"		"With Thirst giving you movement speed, Phase Boots are so you are not be blocked by creeps or enemies when chasing your target but also for the surviviability and damage given with Phase Boots."
+			"item_maelstrom"		"An early maelstrom hastens your farm with great chain lightning attacks. To add, Maelstrom is a nice mix-up of damage against enemies that have high armor as the damage youre dealing with Chain Lightning is magical."
+			"item_mjollnir"		"With the additional attack speed of Mjollnir in addition to chain lightning, your damage output will destroy heavy creep and illusion line-ups.
+
+Make sure to activate Mjollnir Static Charge to punish rivaling physical attackers who target you."
+			"item_sange_and_yasha"		"Sange &amp;amp;amp;amp;amp;amp;amp;amp;amp; Yasha can prove to be useful for Bloodseeker if he finds himself constantly debuffed from slows, holds and roots. The Sange portion improves your status resistance, thus reducing debuffs and the Yasha improves your attack speed, helping you tear down enemies to no health so your Thirst will replenish you once you kill them."
+			"item_monkey_king_bar"		"For high-armor heroes or evasive heroes, the physical damage mixed with Monkey King Bar&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s magical bonus damage means a strong output of mixed damage to weaken enemies. Your high attack speed with Thirst improves your chances of hitting bonus magical damage."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_butterfly"		"Butterfly not only adds to your armour via AGI.. But it also allows you to dodge attacks - increasing your survivability.
+"
+			"item_abyssal_blade"		"Abyssal allows you to close the gaps on targeted foes, dish out high damage combined with Bloodrage and thanks to Thirst, your chance of bashing subsequently increases over time as your opponent loses more health overtime."
+			"item_hand_of_midas"		"If your farm is interrupted and you are going to opt for larger items from the get-go. Go for Hand of Midas.
+
+Hand of Midas is valuable only if you know the game will go late and you can take advantage of that with early-levels and faster farm."
+			"item_ring_of_basilius"		"Rely on Ring of Basilius to be able to spam Blood Rite in the lane to help with last-hitting and grabbing the ranged creep."
+			"item_veil_of_discord"		"When combo&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ing, make sure to cast Veil of Discord before casting Blood Rite. Combined with this and Bloodrage to clear creep waves for gold or for extra nuke damage in fights."
+			"item_cyclone"		"Guarantee to land Blood Rite with Eul&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Scepter of Divinity. When engaging with an opponent:
+
+1. Cast Blood Rage on yourself
+2. Cast Veil then Eul&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s the enemy
+3. Blood Rite immediately after
+4. Finish them off with your auto-attack
+
+Also use Eul&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s to disrupt people who TP after you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;"
+			"item_spirit_vessel"		"Once you hit level six, youll want to gank often with your ultimate given its low cooldown. Spirit Vessel capitalizes on this for even further damage or heal.
+
+Even more worthwhile against tanky enemies that are hard to take down."
+			"item_guardian_greaves"		"Opt for Greaves if you have enough damage on the team but not enough survivability."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemys armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_rod_of_atos"		"Rod of Atos is used to set up Blood Rite and ensure that it lands. A big chunk of your enemys health will be reduced, allowing you to follow-through with Thirst once theyre low enough to guarantee the kill for you.
+
+Rod of Atos can be especially good for the overall stats (instead of mana regen) and more offensive purposes like holding down enemies like Puck or Storm Spirit."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_urn_of_shadows"		"An early Urn of Shadows provides great mana regen to spam Blood Rite but also as a great follow-through to secure kills in-lane if they get beyond your reach. To add, the damage it deals helps your Thirst, allowing you to quickly catch-up if optimal."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_ultimate_scepter"		"The main value of Blood Mist is that you get an shield from killing creeps and enemies without even needing to activate Blood Mist. Farm up a lot of creeps before engaging in a fight to be extra tanky!
+
+Purchase Aghanims Scepter late in the game where you want to control a massive zone of the fight while also hindering enemies from escaping.
+
+Comboes well with Blood Rite but use it when chasing fleeing enemies or right before a kill to gain massive health from Thirst."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes."
+			"item_lotus_orb"		"Lotus Orb provides the armor to give more survivability but also allows you dispel big stuns/slows or reflect back nuke damage on your teammates who keep getting targeted."
+			"item_aghanims_shard"		"Aghs Shard provides more sustain for Bloodseeker while marginally increasing his damage output with Pure damage on top of your physical attack damage.
+
+Its a nice additional mix-up of damage for a hero that can attack quickly in the later stages of the game."
+			"item_octarine_core"		"For heroes with a large spell cooldown on their ultimate, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_skadi"		"Eye of Skadi is great at the end-game to take down high health targets, strong rivaling physical carries by slowing their attack speed and also prevent enemies from fleeing with your movement slow debuff. It provides stats across the board providing everything a carry needs to cap the game to a win."
+			"item_ethereal_blade"		"Ethereal Blade is a great nuking component as an addition to your abilities like Blood Rite and Rupture. To add, it can also be used defensively to either disable physical carries from attacking or save an ally from being targeted by physical attacks."
+			"item_kaya_and_sange"		"Kaya and Sange alleviates the chain stuns and silences that you will receive, increase your magic output and mana gain to alleviate you of any concern."
+			"item_infused_raindrop"		"For Bloodseeker, opt for Infused Raindrops for cheap mana regeneration until you can get your larger mana-leaning item.
+
+Infused Raindrops also helps a lot versus nuking abilities that would typically wipe you out."
+			"item_refresher"		"For a hero like Bloodseeker, the necessity to extend your Black King Bar, cast back-to-back Blood Rites and immobilize enemies with Rupture justifies a late-game item like Refresher.
+
+Putting this item in your backpack stops it from going off cooldown."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_basher"		"The extra damage from Skull Basher as well as immobilizing enemies in place is a great combo-deal with Bloodseekers ability to chase (from Thirst) and tear opponents quickly with incredible attack speed."
+			"item_sheepstick"		"Further disable for Bloodseeker and no concern for his mana-pool. Pick this up if your damage and output is sufficient but the enemy has too much to fight back."
+			"item_glimmer_cape"		"Glimmer Cape gives Bloodseeker additional survivability from magic damage while also combo&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ing well with the effects from Blood Mist stemming from his Aghanims Scepter."
+			"item_shivas_guard"		"Shiva&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Guard is a great defensive item to increase your armor while also staving off strong physical carries wtih your nuke aura.
+
+Against tanky enemies, this item is also recommended to reduce their sustainability through regeneration or lifesteal."
+			"item_dagon_5"		"The spell lifesteal from Dagon plays well off your other abilities as well as giving you additional heal outside of your Thirst."
+			"item_manta"		"For Bloodseeker, you might face a lot debuffs"
+			"item_mage_slayer"		"Mage Slayer provides both great initial protection against spell casters but also mixes up your damage to be both physical as well as magic damage-over-time. To add, anyone you attack will deal less spell damage, furthering this item as a great offensive purchase for core heroes given the item also gives increased mana pool for your own spells and attack speed to boot.
+
+For Bloodseeker, Mage Slayers Damage-over-Time is affected by your Bloodrage magic damage increase."
+			"item_gungir"		"Gleipnir keeps enemies in place so you can land your Blood Rite on as many enemies as you can from afar.
+
+Be sure to cast Bloodrage before using Gleipnir so the damage will be increased."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"bloodseeker_thirst"
+			"2"		"bloodseeker_blood_bath"
+			"3"		"bloodseeker_thirst"
+			"4"		"bloodseeker_bloodrage"
+			"5"		"bloodseeker_thirst"
+			"6"		"bloodseeker_rupture"
+			"7"		"bloodseeker_thirst"
+			"8"		"bloodseeker_blood_bath"
+			"9"		"bloodseeker_blood_bath"
+			"10"		"bloodseeker_blood_bath"
+			"11"		"bloodseeker_bloodrage"
+			"12"		"bloodseeker_rupture"
+			"13"		"bloodseeker_bloodrage"
+			"14"		"bloodseeker_bloodrage"
+			"15"		"special_bonus_unique_bloodseeker_6"
+			"16"		"special_bonus_unique_bloodseeker_7"
+			"18"		"bloodseeker_rupture"
+			"20"		"special_bonus_unique_bloodseeker_3"
+			"25"		"special_bonus_unique_bloodseeker_rupture_charges"
+		}
+		"AbilityTooltips"
+		{
+			"bloodseeker_bloodrage"		"Before fighting, cast Bloodrage on yourself or an ally to increase their attack speed/magic damage.
+
+Be wary that you lose significant life over time with Bloodrage.
+
+Spam this ability when farming since you have Thirst."
+			"bloodseeker_blood_bath"		"Blood Rite is an incredible nuke that works in combination with your ultimate: Rupture.
+
+Open with Rupture then Blood Rite to ensure all damage is both taken. Bloodrage should be your follow-up or if you can cast it before Blood Rite pops.
+
+Early level in Blood Rite is to punish enemies for staying near creeps for last-hits but also to help reach ranged enemy creeps."
+			"bloodseeker_thirst"		"Rely on Thirst during the early-game to survive in the lane via last-hits and denies.
+
+Later on, Thirst will be your gap-closer as you gain movement speed and vision on low-health enemies. "
+			"bloodseeker_rupture"		"Use Rupture to keep opponents still where you know your team will be able to reach them.
+
+1. Target an enemy with Rupture
+2. Activate Bloodrage on yourself
+3. Use Blood Rite to nuke and entrap the target
+
+Works on enemies using Black King Bar or are magic immune. Lethal if enemy keeps moving."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"bloodseeker_blood_mist"		"Blood Mist provides even more survivability while damaging nearby units (similar to Radiance) for Bloodseeker.
+
+The heal you get from your Thirst gives a barrier for Bloodseeker, furthering distancing himself against enemies around him."
+		}
+	}
+}
+ 

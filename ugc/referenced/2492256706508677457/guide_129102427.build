@@ -1,0 +1,195 @@
+"guidedata"
+{
+	"Hero"		"slardar"
+	"Title"		"Standard Build Position 3 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"344"
+	"AssociatedWorkshopItemID"		"0x0000000007B1F25B"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FD0DF"
+	"TimePublished"		"0x00000000663FD0DF"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"STARTING ITEMS"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_gauntlets"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bracer"
+				"item"		"item_bracer"
+				"item"		"item_power_treads"
+				"item"		"item_magic_wand"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_orchid"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_phase_boots"
+				"item"		"item_heavens_halberd"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_harpoon"
+				"item"		"item_silver_edge"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_nullifier"
+				"item"		"item_assault"
+				"item"		"item_bloodthorn"
+				"item"		"item_overwhelming_blink"
+				"item"		"item_wind_waker"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_monkey_king_bar"
+				"item"		"item_octarine_core"
+				"item"		"item_sheepstick"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_blink"		"Slardar has a great stun but a sometimes unreliable form of getting close to foes. Blink Dagger lets you avoid using Sprint to engage and more for maneuverability in and out of battles.
+
+If you are delayed on your items, consider Blink Dagger earlier to start ganking at a more ideal time."
+			"item_force_staff"		"Engage with Blink Dagger, escape or chase with Force Staff. The value of Force Staff improves your mana pool, enhances your strong maneuverability and importance of avoiding damage due to your Sprint&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s downside."
+			"item_black_king_bar"		"Slardars stun and need to be in the midst of battles makes Black King Bar a necessary part of his build. With Black King Bar and Slithereen Crush; your presence in the middle of fights would be hell on earth for foes."
+			"item_armlet"		"Armlet lets Slardar shift from initiator to a mid-game damage-dealer. Depending how youre playing Slardar, you may want to get this earlier or later. 
+
+The extra health and extra attack speed/damage can go a long way in securing kills when ganking."
+			"item_solar_crest"		"The value of Solar Crest comes from its movement speed and its dual usage depending on the situation: either to impart some of your armor to help an ally attack faster and survive physical damage OR to reduce an enemys armor to utilize your physical damage or spells for further effect.
+
+The mana regen from Solar Crest is just enough to help you spam spells when farming or ganking."
+			"item_invis_sword"		"Combined with other items like Blink Dagger or Force Staff, this gives maneuvrability for Slardar to either follow-up after his ultimate ability, avoid some attacks that disable his Blink Dagger or position better with Shadow Blade."
+			"item_heavens_halberd"		"Heavens Halberd provides more survivability through evasion. To add, it also increases your life-steal/regeneration, reduces stuns and can disable foes."
+			"item_echo_sabre"		"Echo Sabre means you get quick to your next Bash of the Deep.
+
+Good mana regen and attributes are liked by Slardar."
+			"item_orb_of_venom"		"With Orb of Venom and Bash of the Deep, you can bully out certain safe-lane line-ups to really press your advantage and dismantle the enemy carry or support early in the game."
+			"item_ancient_janggo"		"Drum of Endurance provides movement speed, attack speed and a bit of mana to give Slardar a lot of early-game potential."
+			"item_vladmir"		"Improve team-fights and pushing power with Vladmir&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering. Slardar is a great holder of auras given his ability to maneuver and stay in and out of fights when necessary."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re frail to magic types."
+			"item_ultimate_scepter"		"Aghanims Scepter is an incredible item that gives strong lasting power for Slardar to man-fight rather than rely on his Slithereen Crush and Sprint to move in and out of battles.
+
+The extra status resistance from Aghs Scpeter makes this a good item post-BKB usage so you arent debuffed for too long."
+			"item_assault"		"Assault Cuirass lowers the armor of opponents which combines well with your Corrosive Haze but it also gives more survivabiliy for a Slardar that wants to man-fight late into the game."
+			"item_bracer"		"An early bracer increases your survivability in the lane especially versus a heavy harassing team."
+			"item_aghanims_shard"		"Applies debuff before Slithereen Crush damage.
+
+With Aghs Shard and max Slithereen Crush, you can farm incredibly quickly and during team-fights, this saves time rather than individually casting Corrosive Haze on enemies."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities).
+
+Alternatively, if you cant get in close to enemies using Blink Dagger, Silver Edge can be an alternative."
+			"item_mask_of_madness"		"Utilize Mask of Madness to farm quickly. Generally, MoM is used to fight only when you know you wont be targeted against ranged physical-hitters or you are ganking as a team versus one hero.
+
+The Mask of Madness evidently guarantees you get your Bash of the Deep occurring more often."
+			"item_hand_of_midas"		"Because Slardar can farm Ancients very early, you can get Hand of Midas very fast, helping you reach your larger items quickly."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm or regenerate mana. When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption. Before you cast a spell to farm more quickly, switch your Boots to Intelligence to reduce your total mana spend."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and its great versus evasive heroes either via Butterfly, passive abilities that cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_harpoon"		"Rely on Harpoon as either your initiating ability to get enemies close or to keep them in-range should they find a way to escape. Heads-up that it pulls both you and the target and you must select the target so no skills required to Harpoon enemies."
+			"item_orchid"		"Orchid works well in combination with your Slithereen Crush and Bash of the Deep where you can Orchid an opponent, close the gap with your Guardian Sprint and Corrossive Haze to then Crush and then Bash for massive amounts of damage before the Orchid duration runs out.
+
+Slardar early on needs a lot of mana to be able to sustain his low cooldown abilities.
+
+Focus on farming this item if youre getting it first"
+			"item_phase_boots"		"Phase Boots gives you the survivability to live in the lane while also increasing your damage to help last hits. To add, it helps with closing the gap when you dont have Blink yet to initiate."
+			"item_sange_and_yasha"		"Sange and Yasha as an alternative to Manta Style comes online earlier and provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it dispels your target. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls and Glimmer to have them nullified against you.
+
+Hero passive abilities like Windrangers Windrun and Monkey Kings Jingu Mastery are also nullified by Nullifier."
+			"item_octarine_core"		"Slardar relies on all his abilities regularly to contribute to fights. Octarine Core enables you to keep spamming your spells and lower the cooldown on your active items."
+			"item_wind_waker"		"Wind Waker effectively allows you to reset your positioning or save an ally from being caught within an enemys targeting such as Faceless Voids Chronosphere.
+
+"
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"slardar_slithereen_crush"
+			"2"		"slardar_bash"
+			"3"		"slardar_bash"
+			"4"		"slardar_sprint"
+			"5"		"slardar_bash"
+			"6"		"slardar_amplify_damage"
+			"7"		"slardar_bash"
+			"8"		"slardar_sprint"
+			"9"		"slardar_sprint"
+			"10"		"slardar_sprint"
+			"11"		"special_bonus_unique_slardar_7"
+			"12"		"slardar_amplify_damage"
+			"13"		"slardar_slithereen_crush"
+			"14"		"slardar_slithereen_crush"
+			"15"		"special_bonus_hp_325"
+			"16"		"slardar_slithereen_crush"
+			"18"		"slardar_amplify_damage"
+			"20"		"special_bonus_unique_slardar"
+			"25"		"special_bonus_unique_slardar_3"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_attack_speed_25"		"Both talent perks can be optimal depending on your situation. If you need to survive longer in fights, the extra health will help - otherwise, your chance to bash through higher attack speed can also be worthwhile."
+			"special_bonus_hp_200"		"Both talent perks can be optimal depending on your situation. If you need to survive longer in fights, the extra health will help - otherwise, your chance to bash through higher attack speed can also be worthwhile."
+			"slardar_sprint"		"Guardian Sprint is your initiation before Blink Dagger and provides additional movement to close that gap on foes.
+
+Use Guardian Sprint and the River to regularly maneuver around the map to gank."
+			"slardar_slithereen_crush"		"The AOE stun on this ability is incredible. Use it sparingly given its mana cost. Unit is slowed after, allowing you to continue Bashing them:
+
+1. Activate Guardian Sprint to position yourself for a gank
+2. Blink and use Slithereen Crush to keep them in place
+3. Use Corrosive Haze and follow-up with attacks to kill
+
+You can use Corrosive Haze first before Blinking and stunning them if you know they cant use an escape ability."
+			"slardar_amplify_damage"		"With such a low cooldown, you should use this ability often given its duration. Great for farming Ancients with Bash of the Deep.
+
+This ultimate ability gives true sight so feel free to use it on stealth heroes such as Templar Assassin, Riki and Nyx Assassin.
+
+Works on Roshan for early kills. Use this ability to farm ancients."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"slardar_bash"		"If youre going to gank, build up your next bash attack by attacking random creeps so when you gank, youre guaranteed to stun.
+
+Great for farming Ancients with Corrosive Haze due to double damage bonus on creeps.
+
+During laning, use Bash of the Deep to either hit enemies who are trying to last-hit against you or as a follow-up after Slithereen Crush"
+		}
+	}
+}
+ 

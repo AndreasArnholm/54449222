@@ -1,0 +1,150 @@
+"guidedata"
+{
+	"Hero"		"dazzle"
+	"Title"		"Standard Build Position 5"
+	"Role"		"#DOTA_HeroGuide_Role_Support"
+	"GameplayVersion"		"7.35d"
+	"Overview"		""
+	"GuideRevision"		"385"
+	"AssociatedWorkshopItemID"		"0x0000000007AC456B"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FCDC4"
+	"TimePublished"		"0x00000000663FCDC4"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_blood_grenade"
+				"item"		"item_ward_sentry"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_magic_wand"
+				"item"		"item_aghanims_shard"
+				"item"		"item_glimmer_cape"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_blink"
+				"item"		"item_aether_lens"
+				"item"		"item_solar_crest"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_force_staff"
+				"item"		"item_lotus_orb"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_octarine_core"
+				"item"		"item_sheepstick"
+				"item"		"item_guardian_greaves"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_pipe"		"Split the need for Mekansm and Pipe of Insight with other support heroes. Pipe of Insight is great throughout the game, but maybe unnecessary if Mekansm can do the trick."
+			"item_force_staff"		"The value of Force Staff is multiple. You can use it as a pseudo-blink if youre a support hero to get into position after initiation or to avoid an enemys initiation and jump in at the right time. 
+
+It can be used to pull an ally away after being engaged or initiated on. This can force enemies to have to commit harder to a kill than they want to or bringing an ally closer to the safety of your teammates."
+			"item_solar_crest"		"A Solar Crest not only gives you a larger mana-pool in the early-game to help alleviate harassment with your spells but it also provides strong armor, attack speed, movement speed and a barrier to protect your ally who can then initiate or gank someone with all that value.
+
+You can also apply Solar Crest on yourself for additional protection to make enemies you gank harder to fight back with you without losing or taking significant damage."
+			"item_guardian_greaves"		"Guardian Greaves is the next logical step for anyone with Arcane Boots and Mekansm; save on space and improve your two items into a better boots that can amplify your team fighting capabilities.
+
+It removes debuffs and improves regeneration at no mana cost, making it a great item overall."
+			"item_glimmer_cape"		"Glimmer Cape can be used both for you or for an ally to ensure they survive against targeted big spell abilities. The goal of Glimmer is to reduce the damage your ally is taking and to disconnect the enemy’s from targeting your ally for future attacks such as follow-ups after a stun."
+			"item_aether_lens"		"As you are a frail hero that needs to stay on the outer edge of fights, Aether Lens keeps you at a safe distance to help allies and avoid enemies."
+			"item_hand_of_midas"		"Hand of Midas with Bad Juju means you can use this item a lot more than traditional heroes. That said, it is a greedy item and should seldom be considered in circumstances where the game will go long and you need a lot of items."
+			"item_ghost"		"For heroes that rely on physical damage like Juggernaut (and Omnislash), Clinkz and Riki, Ghost Scepter can be a cheap option to delay their ganks and make them waste their abilities that do no damage."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_sheepstick"		"Scythe of Vyse has its cooldown reduced thanks to Bad Juju, so not only are you able to continously refill your mana but it also has an incredibly low cooldown for Dazzle."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_holy_locket"		"Holy Locket provides a lot of great healing and mana for Dazzle to further keep the team alive, especially due to the low cooldown of his Shadow Wave and the increase heal effects of Bad Juju."
+			"item_aghanims_shard"		"Aghs Shard is an incredible hex against enemies that can really disrupt fights. Because Poison Touch is lowered in cooldown due to his ultimate: Bad Juju, you can be hexing enemies continously as the fight goes on.
+
+Especially strong against illusion-based heroes as illusions die instantly when hexed."
+			"item_tranquil_boots"		"After you disassemble your Arcane Boots, you need to build new boots to help with your positioning so you can move in on fights when youre most needed and stay out of fights when big initiations will occur."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing.
+
+For Dark Willow as a universal attribute hero, he gets damage based on stats she grabs, making Iron Branch double value."
+			"item_arcane_boots"		"Arcane Boots is most importantly used to give you the necessary mana to heavy use your spells and abilities. You should think about picking up Ring of Basi or Boots of Speed first depending on if you need movement in the early-game to harass or engage or your team relies on the mana regen from Ring of Basi to do more spells throughout."
+			"item_octarine_core"		"For heroes with a large spell cooldown on their ultimate, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game.
+
+Combined with Bad Juju, you can permanently keep yourself under Shallow Grave which increases your heal and thus damage output."
+			"item_blood_grenade"		"Rely on Blood Grenade as your initiating or sequential slow on foes when going for a kill in-lane or throughout the ganking phase"
+			"item_pavise"		"Pavise is a good intermediary item to provide additional protection for yourself or allies while also giving you incredible magic regeneration so you wont need to pick up regen or go back to base."
+			"item_blink"		"Go for Blink Dagger especially if you feel you are getting regularly jumped and cannot save your ally with Shallow Grave
+
+With Blink Dagger, youcan wait for the enemy initiation before revealing yourself to save your ally just in the nick of the time."
+			"item_ultimate_scepter"		"Aghs Scepter provides you more damage output at low risk given it is reliant on your spells that have a decent spell.
+
+Aghs Scepter can accelerate your farming into the late-game significantly, while also used as a form to refresh the Poison Touch on any affected enemies nearby when in fights."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"dazzle_poison_touch"
+			"2"		"dazzle_shadow_wave"
+			"3"		"dazzle_poison_touch"
+			"4"		"dazzle_shallow_grave"
+			"5"		"dazzle_poison_touch"
+			"6"		"dazzle_bad_juju"
+			"7"		"dazzle_poison_touch"
+			"8"		"dazzle_shadow_wave"
+			"9"		"dazzle_shadow_wave"
+			"10"		"dazzle_shadow_wave"
+			"11"		"special_bonus_unique_dazzle_poison_touch_attack_range_bonus"
+			"12"		"dazzle_bad_juju"
+			"13"		"dazzle_shallow_grave"
+			"14"		"dazzle_shallow_grave"
+			"15"		"special_bonus_unique_dazzle_2"
+			"16"		"dazzle_shallow_grave"
+			"18"		"dazzle_bad_juju"
+			"20"		"special_bonus_unique_dazzle_5"
+			"25"		"special_bonus_unique_dazzle_4"
+		}
+		"AbilityTooltips"
+		{
+			"dazzle_poison_touch"		"Poison Touch is a great initiation for your team. Use it early-on to harass enemies in-lane and follow-up with your attack - ensuring they cannot hit you back and take as much Poison damage as they can.
+
+This is considered physical-based damage so it will plays well with your Bad Juju to reduce the enemy armor that will then take more damage-per-second damage from Poison Touch."
+			"dazzle_shallow_grave"		"You can use Shallow Grave on yourself and activate TP scroll to escape if all stuns have been used..
+
+When casting on an ally, use it near death and not JUST before death to give them some breathing room to fight. It also amplifies heals so follow-up with Shadow Wave for massive heals."
+			"dazzle_shadow_wave"		"Shadow Wave is a great heal that goes through Black King Bar both on allies and enemies; spam it plenty to keep your team alive and hurt enemies around without fear.
+
+This is considered physical-based damage so it will plays well with your Bad Juju to reduce the enemy armor that will then take more damage-from Shadow Wave
+
+Use this ability to farm lanes and stand in front of the ranged creep for Shadow Wave to hit it, guaranteeing the hit."
+			"dazzle_weave"		"Make sure to cast this during the start of each major team-fight. Either on your allies or the enemies. It isn&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t important that you grab them all in your radius, but the most you can reach. It lasts 24 seconds, so don&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;t hesitate to use it at any sense of a fight (40-second cooldown)"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"dazzle_bad_juju"		"Rely on Bad Juju to cast back-to-base Poison Touch when its effects ends and to heal yourself up post-Bad Juju usage.
+
+Utilize Bad Juju to spam your spells, stack additional armor reduction and be mindful of the health cost to be able to cast it."
+		}
+	}
+}
+ 

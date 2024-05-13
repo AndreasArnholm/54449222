@@ -1,0 +1,202 @@
+"guidedata"
+{
+	"Hero"		"sniper"
+	"Title"		"Standard Build Position 2 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"443"
+	"AssociatedWorkshopItemID"		"0x0000000013053880"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FD0EF"
+	"TimePublished"		"0x00000000663FD0EF"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_wraith_band"
+				"item"		"item_power_treads"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_dragon_lance"
+				"item"		"item_maelstrom"
+				"item"		"item_aghanims_shard"
+				"item"		"item_mjollnir"
+				"item"		"item_hurricane_pike"
+				"item"		"item_black_king_bar"
+			}
+			"Core (Alternative, in order)"
+			{
+				"item"		"item_dragon_lance"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_phylactery"
+				"item"		"item_aghanims_shard"
+				"item"		"item_angels_demise"
+				"item"		"item_hurricane_pike"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_mask_of_madness"
+				"item"		"item_blink"
+				"item"		"item_desolator"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_monkey_king_bar"
+				"item"		"item_satanic"
+				"item"		"item_greater_crit"
+				"item"		"item_silver_edge"
+				"item"		"item_disperser"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_moon_shard"
+				"item"		"item_skadi"
+				"item"		"item_rapier"
+				"item"		"item_swift_blink"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_black_king_bar"		"With your entire arsenal of passive abilities that can activate, Black King Bar ensures you are continually attacking and hitting hard.
+
+You may be skipping it if they are not entirely focusing you, or simply you come into fights late; to avoid any initiation. Black King Bar is generally suggested."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for heroes who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks.
+
+The Pierce effect also means a mix-up in damage, especially strong against enemies who have high armor (Dragon Knight, AGI carries) that can outlast your physical damage output."
+			"item_butterfly"		"Butterfly not only adds to your armour via your specialized attribute (AGI), but it also allows you to dodge attacks."
+			"item_greater_crit"		"With the attack speed that youll have for Sniper, to tear down enemies this fast with Daedalus is a cherry-on-top."
+			"item_dragon_lance"		"Dragon Lance can put you at a safer distance to help last-hit and survive some early game damage. Later on, you can disassemble it or keep it entirely if need-be.
+
+Dragon Lance allows you to out-range towers; stay hidden in trees while team-fighting or last-hit at a range near your own towers."
+			"item_mjollnir"		"Maelstrom and Mjollnir lets you never needing further attack speed again and offers further forms of farming. 
+
+Works in combination with Headshot, so youll be Chain-Lightning and dealing Headshot additional effects constantly."
+			"item_skadi"		"Eye of Skadi is great at the end-game to take down high health targets, strong rivaling physical carries by slowing their attack speed and also prevent enemies from fleeing with your movement slow debuff. It provides stats across the board providing everything a carry needs to cap the game to a win."
+			"item_maelstrom"		"Since you are building with attack speed in mind: Maelstroms Chain Lightning will occur more often; letting you farm faster, better and efficiently dish damage to all enemies in team-fights."
+			"item_mask_of_madness"		"Mask of Madness is your bread and butter to farm and to fight. Use Take Aim before activiating Mask of Madness in fights and  farming to maximize your damage output with increased attack speed."
+			"item_tango"		"Plant a tree with iron branch to consume with tangos to increase your regeneration - especially useful in the mid-lane where you want to save starting items to afford early game items like bottle or boots of speed."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_hand_of_midas"		"Hand of Midas combines well with your need for attack speed and your level 10 talent of reduced cooldown."
+			"item_hurricane_pike"		"As Sniper, you are guaranteed to be targeted. Hurricane Pike is a safety net to get you space between you and your attacker."
+			"item_sange_and_yasha"		"Sange and Yasha provides a lot more survivability for the hero.
+
+The status resistance from Sange means stuns and disables duration are reduced while the Yasha portion gives you the movement and attack speed to close the gaps on foes and start dealing damage much faster and efficiently."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_blink"		"Use Blink Dagger to come into fights very late. Typically, if you know youre going to get jumped in by being near a fight, you can opt to stay even further away from fights and once you see the initiators or a blinked enemy reveal itself, you can then use Blink to fight!"
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_desolator"		"Early Armor Reduction and strong damage thanks to Snipers Headshot leads to incredible initial burst damage to kill enemies faster than they can even begin to target you.
+
+More importantly, you gain more damage as you kill with Desolator, giving you a snowball effect of massive damage output."
+			"item_silver_edge"		"Shadow Blade and Silver Edge work with your ultimate but you have to be quick with the combination.
+
+If you press Take Aim into Shadow Blade or Silver Edge into Assassinate, you will essentially maximum damage to guarantee a kill with your long-range Assassinate."
+			"item_aghanims_shard"		"Pick up Aghs Shard to further distance yourself from foes who close the gap on you like Storm Spirit, Spirit Breaker or Spectre. Even with other abilities and items to separate you, the Aghs Shard can enable even further positioning power for a hero that lacks maneuvrability."
+			"item_apex"		"Celebrating 10 years of Guides!
+
+Since Feb. 2013, 525 million subs have trusted me for over 3.3 billion games - 1.8 million daily
+
+Annually, I apply over 7,200 updates to try to provide good builds that are used by pros, OpenAI, streamers and players
+
+To say Dota has saved my childhood, future and identity is an understatement. Youve made this ordinary person achieve something extraordinary
+
+Thank you ♥
+Michael Yossef Cohen-Palacios
+
+Twitter @TorteDeLini
+Twitch.tv/TorteDeLini
+Insta @TorteDeLini"
+			"item_invis_sword"		"Shadow Blade and Silver Edge work with your ultimate but you have to be quick with the combination.
+
+If you press Take Aim into Shadow Blade or Silver Edge into Assassinate, you will essentially deal maximum damage to guarantee a kill with your long-range Assassinate."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"sniper_headshot"
+			"2"		"sniper_take_aim"
+			"3"		"sniper_headshot"
+			"4"		"sniper_shrapnel"
+			"5"		"sniper_shrapnel"
+			"6"		"sniper_shrapnel"
+			"7"		"sniper_shrapnel"
+			"8"		"sniper_assassinate"
+			"9"		"sniper_headshot"
+			"10"		"sniper_headshot"
+			"11"		"special_bonus_unique_sniper_headshot_damage"
+			"12"		"sniper_assassinate"
+			"13"		"sniper_take_aim"
+			"14"		"sniper_take_aim"
+			"15"		"special_bonus_attack_speed_30"
+			"16"		"sniper_take_aim"
+			"18"		"sniper_assassinate"
+			"20"		"special_bonus_unique_sniper_3"
+			"25"		"special_bonus_attack_range_100"
+		}
+		"AbilityTooltips"
+		{
+			"special_bonus_mp_regen_4"		"The following perks work best when gotten together:
+
++ Mana Regen
++ Shrapnel DPS
++ Cooldown Reduction
++ Improved Shrapnel Charges
+
+Should allow you to maintain range, crowd-control and positioning via your itemization."
+			"sniper_shrapnel"		"Shrapnel should be used to slow foes caught in fights, illuminate uphill areas that arent warded and check Roshan. Push the lane with this ability before farming the jungle with Take Aim and Headshot.
+
+With the charges you get, you can slow enemies in a wide-area and cover their escapes to make battles both at your advantage and to end fleeing foes."
+			"sniper_headshot"		"Headshots damage is great in the late-game due to its constant chance percentage and high damage. Combined with Snipers attack speed, Headshot could be the most annoying passive ability against your opponent.
+
+You lifesteal off the additional damage.
+Cannot interrupt channeling spells."
+			"sniper_take_aim"		"At level 2, you can out-range towers, making pushing relatively safe. We stop leveling this when we get Dragon Lance.
+
+YOU CAN ACTIVATE THIS ABILITY to increase your damage and guarnatee hit, however you lack movement, so ensure that fights stay within your reach without putting yourself in immediate damage.
+
+Good for helping with last-hits and farming at a low manacost."
+			"sniper_assassinate"		"Use this ability to ensure a kill once theyve outranged you.  Be sure Shrapnel is used to slow their escape before ending with Assassinate:
+
+1. Place Shrapnel around a target
+2. Finish with Assassinate as they try to flee"
+			"special_bonus_cooldown_reduction_25"		"The following perks work best when gotten together:
+
++ Mana Regen
++ Shrapnel DPS
++ Cooldown Reduction
++ Improved Shrapnel Charges
+
+Should allow you to maintain range, crowd-control and positioning via your itemization."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_15"		"Affects both abilities and active-item cooldowns"
+			"sniper_concussive_grenade"		"Concussive Grenade is a fantastic ability with a very short range. Be wary about when to use it as the range may put you at risk. Otherwise, it is a great ability to disarm carries, interrupt initatiors like Faceless Void and push back enemies that get too close for comfort."
+		}
+	}
+}
+ 

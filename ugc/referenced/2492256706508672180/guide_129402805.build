@@ -1,0 +1,148 @@
+"guidedata"
+{
+	"Hero"		"naga_siren"
+	"Title"		"Standard Build Position 1 | Team BetBoom"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		"[quote][img]https://i.imgur.com/agTZP93.png [/img ]
+[url=https://boom-bb.com/ru/promo/cyberdota/] Sponsored by: Team BetBoom & BetBoom! [/url ][/quote]"
+	"GuideRevision"		"338"
+	"AssociatedWorkshopItemID"		"0x0000000007B687B5"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FD01D"
+	"TimePublished"		"0x00000000663FD01D"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_quelling_blade"
+				"item"		"item_slippers"
+				"item"		"item_circlet"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_wraith_band"
+				"item"		"item_power_treads"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_manta"
+				"item"		"item_orchid"
+				"item"		"item_eternal_shroud"
+				"item"		"item_bloodthorn"
+				"item"		"item_disperser"
+				"item"		"item_aghanims_shard"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_ring_of_basilius"
+				"item"		"item_sphere"
+				"item"		"item_silver_edge"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_black_king_bar"
+				"item"		"item_sheepstick"
+				"item"		"item_butterfly"
+				"item"		"item_abyssal_blade"
+				"item"		"item_swift_blink"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_nullifier"
+				"item"		"item_heart"
+				"item"		"item_skadi"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_travel_boots"		"Late in the game, you start becoming difficult to stop as you can start pushing down two lanes at a time with illusions and your ability to teleport in any lane with Boots of Travel."
+			"item_heart"		"Heart of Tarrasque makes your illusions incredibly difficult to kill rapidly and lets you push harder or harass foes with Diffusal Blades mana burn."
+			"item_radiance"		"Get an early Radiance NOT TO FIGHT, but rather to hasten your farm for other large items to improve your survivability.
+
+Radiance mixed with your Mirror Images will split-push lanes, farm as many camps as possible and ultimately disrupt enemies&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; with your illusions&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; radiance burn."
+			"item_butterfly"		"Butterfly gives more damage to your illusions and allows you even more maneuverability. With the difficult to target you thanks to your illusions and even your Heart of Tarrasque tanking most damage, Butterfly will further your damage as well as up the miss chance (evasion)."
+			"item_manta"		"The illusions made from Manta Style also earn Rip Tide passive ability.
+
+Rely on Manta Style to counter-push lanes, split-farm camps and dispel disables preventing you from casting your abilities or slowing you down."
+			"item_diffusal_blade"		"You do not need to be active with Diffusal Blade. This item is for team-fights whereas you want to mana burn your foes to with your illusions, making them practically worthless in team-fights."
+			"item_octarine_core"		"With Octarine Core, you can summon more illusions to summon at a faster pace in addition to keeping them alive thanks to Rip Tide. Octarine Core synergizes well in hastening Naga Siren&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Farm, making her more tanky than before and ultimately improving your presence overall."
+			"item_ancient_janggo"		"Extra Speed, extra tankiness for your illusions; more attack speed. Very decent pick-up for Naga Siren as she farms with her illusions and towards more items to aid her pushing ability."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_black_king_bar"		"BKB is necessary for a hero that relies on not getting stunned or silenced to dish out the necessary damage."
+			"item_skadi"		"Eye of Skadi is great at the end-game to take down high health targets, strong rivaling physical carries by slowing their attack speed and also prevent enemies from fleeing with your movement slow debuff. It provides stats across the board providing everything a carry needs to cap the game to a win."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do causes additional damage to be amplified. This allows you tear foes down relatively quickly before the duration of Bloodthorn ends!"
+			"item_aghanims_shard"		"If the game goes truly late, having your Song of the Siren heal your team can be especially important as health levels are up but so is the damage output from both sides."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by on your tangos for additional healing."
+			"item_silver_edge"		"Silver Edge is dependent on the enemys line-up. If they have passive abilities that you want to cut off, then Silver Edge will help with that to make them easier to kill (e.g: Bristlebacks passive abilities).
+
+Alternatively, if you cant get in close to enemies using Blink Dagger, Silver Edge can be an alternative."
+			"item_wraith_band"		"Early Agility will help you last-hit and give you some survivability against physical harassment with its armor gain (from AGI)."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_ring_of_basilius"		"An early Ring of Basilius relives mana management on your side but can also provide additional mana for your teammates if you have an especially aggressive lane with great early-game abilities."
+			"item_orchid"		"Orchid allows you to kill better, locks down enemies from escaping you and provides a better mana offer than alternatives."
+			"item_ultimate_scepter"		"The appeal of Aghs Scepter is the increased range of Ensnare the ability to target enemies who are spell-immune like BKB."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"naga_siren_mirror_image"
+			"2"		"naga_siren_rip_tide"
+			"3"		"naga_siren_ensnare"
+			"4"		"naga_siren_mirror_image"
+			"5"		"naga_siren_mirror_image"
+			"6"		"naga_siren_rip_tide"
+			"7"		"naga_siren_mirror_image"
+			"8"		"naga_siren_rip_tide"
+			"9"		"naga_siren_rip_tide"
+			"10"		"special_bonus_unique_naga_siren_2"
+			"11"		"naga_siren_song_of_the_siren"
+			"12"		"naga_siren_song_of_the_siren"
+			"13"		"naga_siren_ensnare"
+			"14"		"naga_siren_ensnare"
+			"15"		"special_bonus_unique_naga_siren_4"
+			"16"		"naga_siren_ensnare"
+			"18"		"naga_siren_song_of_the_siren"
+			"20"		"special_bonus_unique_naga_siren"
+			"25"		"special_bonus_unique_naga_siren_6"
+		}
+		"AbilityTooltips"
+		{
+			"naga_siren_mirror_image"		"Use your mirror images to send down lanes you want to push, you can use your Mirror Images to trap foes and dish out the massive damage. Your mirror images also proc Rip Tide, so take advantage to hurt foes even when you are safely far away. 
+
+Use early levels to farm jungle, while also farming mid."
+			"naga_siren_ensnare"		"Ensares incredible range can be used to initiate ganks or prevent ranged stunners from reaching you.
+
+Can target enemies even during your ultimate effects."
+			"naga_siren_song_of_the_siren"		"Use this to escape or to set up ganks, either way, be sure to communicate if youre cutting your song short. 
+
+Song of the Siren can be used to steal Aegis from an enemy or to stunned enemies to be able to deny your own tower."
+			"naga_siren_song_of_the_siren_cancel"		"Would you just shut the fuck up?"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"naga_siren_rip_tide"		"Throughout the game, send your illusions down the lane to then farm creeps and camps with your Rip Tide.
+
+Targeting heroes, even if you cant kill them, is also valuable as it lowers their armor per Rip Tide and makes it a nuissance for them to get rid of your illusions head-on."
+			"naga_siren_reel_in"		"I dont know why it says all units when you can only target one enemy with Ensare.
+
+This ability is great for BKB users as a way to entrap them to run out their Black King Bar duration."
+		}
+	}
+}
+ 

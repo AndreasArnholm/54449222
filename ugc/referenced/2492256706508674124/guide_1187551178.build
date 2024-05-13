@@ -1,0 +1,170 @@
+"guidedata"
+{
+	"Hero"		"pangolier"
+	"Title"		"Standard Build Position 2"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.35d"
+	"Overview"		""
+	"GuideRevision"		"469"
+	"AssociatedWorkshopItemID"		"0x0000000046C897CA"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000663FD17D"
+	"TimePublished"		"0x00000000663FD17D"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_ward_observer"
+			}
+			"Early (Regen at Lotus Pool)"
+			{
+				"item"		"item_bottle"
+				"item"		"item_magic_wand"
+				"item"		"item_boots"
+				"item"		"item_ring_of_basilius"
+			}
+			"Core (Required, in order)"
+			{
+				"item"		"item_arcane_boots"
+				"item"		"item_diffusal_blade"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_blink"
+				"item"		"item_aghanims_shard"
+				"item"		"item_basher"
+			}
+			"Situation (only if needed)"
+			{
+				"item"		"item_heavens_halberd"
+				"item"		"item_lotus_orb"
+				"item"		"item_manta"
+			}
+			"Extension (choice, Any order)"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_octarine_core"
+				"item"		"item_shivas_guard"
+				"item"		"item_disperser"
+				"item"		"item_abyssal_blade"
+				"item"		"item_overwhelming_blink"
+			}
+			"Luxury (Late-Game optional)"
+			{
+				"item"		"item_travel_boots_2"
+				"item"		"item_sphere"
+				"item"		"item_refresher"
+				"item"		"item_sheepstick"
+				"item"		"item_skadi"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_javelin"		"With each attack, there is a chance of bonus damage. Combined with Pangolier&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Swashbuckle, you are guaranteed to strike numerous times before the enemy can react: providing chances for your Javelin bonus damage and Heartpiercer Aura."
+			"item_blink"		"Use Blink with your ultimate to securely double stun enemies or to initiate properly:
+
+1. Activate Rolling Thunder near an enemy you want to gank
+2. Roll through enemies to stun them
+3. Blink behind the enemy to again stun them once your original stun runs out
+4. Dont forget to use Shield Crash for further damage
+5. End with Swashbuckle to finish them off."
+			"item_pipe"		"Pipe of Insight provides your team with better sustainability against tough magic casters and carries that can wipe your team up incredibly fast if they&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;re frail to magic types."
+			"item_heavens_halberd"		"Disarm physical carries from attacking with Heavens Halberd. Use it before they can use Black King Bar as the effect cannot be dispelled with Black King Bar is used BEFORE BKB is activated."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for users who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks. Monkey King Bar not only provides strong attack speed but also heightens your ability to your enemies with your attacks."
+			"item_diffusal_blade"		"Diffusal Blade burns an enemys mana-pool down almost instantly with Swashbuckle and it also serves as a great slow when you near an enemy during your Rolling Thunder."
+			"item_abyssal_blade"		"Abyssal Blade and subsequently Skull Basher works with Swashbuckle to give a chance to stun enemies and for bonus damage.
+
+Once you are done rolling on an enemy, use Swashbuckle to get near, deal damage and then Abyssal Blade to attack them while theyre stunned."
+			"item_cyclone"		"As you roll onto an enemy, activate Euls Scepter: you will stay in place but continue to stun the enemy caught in your roll."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_bottle"		"Your goal early-on is to snag last hits to get Bottle before the two-minute rune comes up. You rely on Bottle to spam abilities that either harasses your opponent, secures the ranged creep with an ability or to eventually gank when you can activate the rune whenever you want to start roaming to other lanes."
+			"item_maelstrom"		"Maelstrom works well with Swashbuckle to wipe creeps, illusions and swaths of enemies from pushing or fighting."
+			"item_arcane_boots"		"Without Arcane Boots, you cannot farm and kill as nearly as often with Shield Crash and Swashbuckle"
+			"item_basher"		"Swashbuckle increases your changes to stun enemies and deal bonus damage."
+			"item_ultimate_scepter"		"Aghanims Scepter puts all your attack-proc effects to work by allowing you to initiate massive damage while utilizing your ultimate and spamming Shield Crash."
+			"item_vladmir"		"Vladmir&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Offering provides some mana regen for an otherwise starved Pangolier. It also sustains the teams in fight and also allows you to gain a ton of life back per Swashbuckle hit."
+			"item_guardian_greaves"		"Pangolier is in fights and susceptible to targeting if caughtout. Guardian Greaves dispels spells from disabling you and can greatly strengthen your team-fighting."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_orb_of_corrosion"		"Orb of Corrosion provides a bit more health and combines an early-game slow with minor armor debuff allowing you to force yourself against enemies who have no real escape.
+
+For Pangolier, the Orb of Corrosion applies its effects and enhances the damage they take from the reduced armor of Blight Stone."
+			"item_magic_wand"		"Opt for Magic Stick early if the enemy spam a lot of spells or you’ll be in the lane significantly. Magic Wand can be bought as early as before Boots of Speed or as late as after your core Boots upgrade depending on how the enemy and their spell usage. Magic Wand can also be bought to make room for other items due to limited space."
+			"item_aghanims_shard"		"Aghs Shard lets you further maneuver onto enemies, disjoint stuns and certain disables even outside of your ultimate for further engagement.
+
+It can be a great escape if your Swashbuckle is down."
+			"item_lotus_orb"		"The value of Lotus Orb is both its stats in mana and armor but also the ability to dispel slows and silences that would be keeping you down.
+
+Furthermore, the ability to cast back big nuking abilities to your enemies has tremendous value, especially against stuns or ultimate damaging abilities."
+			"item_aeon_disk"		"Aeon Disk helps you get out of a jam where you are constantly being chain-stunned or destroyed by abilities like Faceless Voids ultimate or PAs massive critical strikes."
+			"item_shivas_guard"		"Shiva&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Guard is a great defensive item to increase your armor while also staving off strong physical carries wtih your nuke aura.
+
+Against tanky enemies, this item is also recommended to reduce their sustainability through regeneration or lifesteal."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_gungir"		"Gleipnir is a great item if you have the all-around damage but lack the ability to keep people in places and need to disable them long enough to hold your attacks.
+
+For Pangolier, while using Rolling Thunder, you can hold enemies from afar and guarantee you land your Shield Crash and Rolling Thunders stun on them."
+			"item_refresher"		"For a hero like Pangolier, Refresher means twice the Rolling Thunder duration and even more nuking damage through Swashbuckle."
+			"item_octarine_core"		"For heroes who are dependent on their abilities to engage fights, Octarine Core is a great assistance, especially if you naturally build into it by having its components created earlier in the game."
+			"item_disperser"		"Disperser can be played both offensively but it is also appealing to use it on yourself or allies to rid disables and give you extra movement speed for positioning, chasing or otherwise."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"pangolier_shield_crash"
+			"2"		"pangolier_swashbuckle"
+			"3"		"pangolier_shield_crash"
+			"4"		"pangolier_swashbuckle"
+			"5"		"pangolier_swashbuckle"
+			"6"		"pangolier_gyroshell"
+			"7"		"pangolier_swashbuckle"
+			"8"		"pangolier_shield_crash"
+			"9"		"pangolier_shield_crash"
+			"10"		"special_bonus_unique_pangolier"
+			"11"		"pangolier_lucky_shot"
+			"12"		"pangolier_gyroshell"
+			"13"		"pangolier_lucky_shot"
+			"14"		"pangolier_lucky_shot"
+			"15"		"special_bonus_unique_pangolier_6"
+			"16"		"pangolier_lucky_shot"
+			"18"		"pangolier_gyroshell"
+			"20"		"special_bonus_unique_pangolier_3"
+			"25"		"special_bonus_unique_pangolier_5"
+		}
+		"AbilityTooltips"
+		{
+			"pangolier_swashbuckle"		"Swashbuckle is your main source of damage, farming and escape (works through cliffs and obstacles).
+
+Use Swashbuckle to proc. your effects like stuns, additional damage, mana burn and Lucky Shot.
+
+Swashbuckle can never miss its attack and ignores disarm effects.
+
+*enable Quick-Cast to make casting Swashbuckle easier: (Options - Hotkeys - Abilities - Pango - Enable Quickcast)"
+			"pangolier_shield_crash"		"Shield Crash is your defensive and nuking damage. Use Shield Crash to jump over cliffs, initiate onto enemies with Rolling Thunder or as a escape to reduce ganking enemys damage.
+
+Shield Crash also slows meaning you can close in on enemies with Swashbuckle and then Shield Crash to keep them pinned near you.
+
+Illusions dont increase your damage reduction."
+			"pangolier_heartpiercer"		"Combined with Swashbuckle, Heartpiercer slows and removes armor reduction (negative armor is set to 0 too)."
+			"pangolier_gyroshell"		"Rolling Thunder makes you invulnerable to stuns, slows or silences. Initiate with this ability:
+
+1. Activate Rolling Thunder when wanting to gank
+2. Use Blink or Shield Crash to land onto your foes for the stun/damage
+3. Finish them off with Swashbuckle as your Rolling Thunder effect starts to end"
+			"pangolier_lucky_shot"		"Initiate with Swashbuckle and Lucky Shot to ensure you apply a disarm"
+			"pangolier_rollup"		"Roll Up is great even outside of your ultimate to disjoint targeted spells coming at you, provide further stun on a particular location or enemy youve blinked onto.
+
+Also a great way to dispel slows as well."
+		}
+	}
+}
+ 
