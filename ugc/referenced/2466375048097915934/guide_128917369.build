@@ -1,0 +1,161 @@
+"guidedata"
+{
+	"Hero"		"lycan"
+	"Title"		"Standard Position 3, Facet 1 | "
+	"Role"		"#DOTA_HeroGuide_Role_OffLane"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"[quote][img]https://i.imgur.com/VEIbndI.jpeg [/img ]
+[url=https://go.thunder.partners/visit/?bta=36634&nci=5506] Sponsored by: Thunderpick [/url ][/quote]"
+	"GuideRevision"		"473"
+	"AssociatedWorkshopItemID"		"0x0000000007AF1F79"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x00000000670937D9"
+	"TimePublished"		"0x00000000670937D9"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_branches"
+				"item"		"item_circlet"
+				"item"		"item_circlet"
+				"item"		"item_ward_observer"
+			}
+			"Early game"
+			{
+				"item"		"item_helm_of_iron_will"
+				"item"		"item_helm_of_the_dominator"
+				"item"		"item_ring_of_basilius"
+				"item"		"item_helm_of_the_overlord"
+			}
+			"Core items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_vladmir"
+				"item"		"item_assault"
+			}
+			"Situational items"
+			{
+				"item"		"item_power_treads"
+				"item"		"item_heavens_halberd"
+				"item"		"item_manta"
+				"item"		"item_harpoon"
+				"item"		"item_silver_edge"
+			}
+			"Extension items"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_blink"
+				"item"		"item_black_king_bar"
+				"item"		"item_nullifier"
+				"item"		"item_bloodthorn"
+			}
+			"Luxury items"
+			{
+				"item"		"item_travel_boots"
+				"item"		"item_ultimate_scepter"
+				"item"		"item_sphere"
+				"item"		"item_sheepstick"
+				"item"		"item_overwhelming_blink"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_assault"		"Assault Cuirass continues to lower the armour of your enemies and amplify the attack speed and armour of your allies; This works great for Lycan who has no trouble with damage, but thrives on attack speed to follow-through on his damage and likelihood of critical strikes. "
+			"item_black_king_bar"		"Since slows cannot stop you when you are using your ultimate, Black King Bar is to prevent everything else from defeating you! 
+
+For Lycan, generally you need to go in at angles and timings where key stuns that can stop you, have already been initiated or used. Otherwise, Black King Bar may be essential."
+			"item_silver_edge"		"Get Silver Edge to more safely escape when pushing towers, to gank enemies or to re-position when fighting.
+
+With it, you can target enemies with strong passive abilities that make their attacks or resistance too durable to directly fight them."
+			"item_desolator"		"The extra armor reduction and damage works great with your Wolves damage. Desolator is a great item that is low in cost for large damage that work on towers; making split-pushing with Lycan even more worthwhile."
+			"item_abyssal_blade"		"Abyssal Blade is key to a Lycan that solokills. With it, you can initiate on unsuspecting enemies and follow-through on your damage with your wolves while preventing them from fleeing with your dedicated stun and likelihood of bash."
+			"item_heavens_halberd"		"Get Heaven&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Halberd if there is an enemy carry you need to disable. The dodge is even especially more desired for Lycan as his survivability can be a bit iffy."
+			"item_sphere"		"Linkens Sphere is great when you are getting initiated with hard disables that prevent you from breaking out or reacting with BKB.
+
+More importantly, it can be necessary versus great initiating or finishing ultimate abilities like Necrophos Reapers Scythe or Legion Commander duel."
+			"item_bloodthorn"		"The value in Bloodthorn is both its increase in massive attack speed but also in disabling your opponent, making them unable to cast their abilities. Any physical attacks you and your allies do will be count as critical, allowing you tear them down relatively quickly before the duration of Bloodthorn ends!
+
+Bloodthorn also has True Strike meaning all your attacks will land during its Active component."
+			"item_helm_of_the_dominator"		"Use Helm of the Dominator to control creeps that can improve your pushing power like the Dire Wolf for more Damage or the Dark Troll to create skeletons to push harder."
+			"item_pipe"		"Pipe of Insight provides your entire creep army and yourself with magic resistance. This is to serve as a substitute for Black King Bar when there are no hard-stuns to stop you but rather just wave-clearing AOE attacks that wipe your pushing force."
+			"item_ultimate_scepter"		"If theres another physical carry on the team, Aghanims Scepter can heighten their sustainability and maneuvrability in fights."
+			"item_nullifier"		"Nullifier is a key item for you late-game: it slows your target and dispels them. Especially useful against enemies that rely on key passive abilities or items like Ghost Scepter, Euls, Glimmer, Satanic or Aeon Disk to have them disabled and nullified against you."
+			"item_sobi_mask"		"Additionally, it gives you mana regen to summon Wolves more often."
+			"item_power_treads"		"Why not boots? Lycan typically relies on his ultimate to maneuver into fights. Spending gold to buy boots or upgrade them will delay your other key items that benefit you and your wolves better."
+			"item_soul_ring"		"Soul Ring allows you to continously cast Howl and Wolves without fear of mana. In addition, the stats help you survive the lane from general harassment and gives stats to your damage."
+			"item_hand_of_midas"		"Hand of Midas gives you further attack speed but more importantly, hastens your farm on top of your wolves to make you even more incredibly quick to get larger items."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_helm_of_iron_will"		"Helm of the Iron Will is great for early-game survivability in the lane but more importantly, it helps buld into Helm of the Overlord."
+			"item_ancient_janggo"		"Instead of Boots of Speed, why not opt for Drum of Endurance to give stats to you and your units.
+
+Youll only need movement speed when fighting, in which you should only with your ultimate, which gives max speed."
+			"item_aghanims_shard"		"Aghs Shard means wolves routinely pushing and farming the lanes for you. You make this gold back relatively fast justifying the purchase."
+			"item_boots"		"If you feel uncomfortable moving so slowly, go buy Boots of Speed. No one will blame you for not doing it."
+			"item_echo_sabre"		"With Lycan, the extra mana from Echo Sabre comes with additional perks like incredible attack speed to maybe land more critical hits with your ultimate."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them."
+			"item_helm_of_the_overlord"		"Helm of the Overlord allows you to control Ancients like the Black Dragon that can hasten your farm even faster but more importantly, becomes incredibly difficult to kill for enemies the earlier you get this item and control an Ancient.
+
+When using your ultimate, just throw your wolves and Ancient at the enemy supports without risking yourself."
+			"item_blink"		"Opting for Blink Dagger means you can maximize your ultimates duration chasing and killing enemies instead of closing the gap to reach them where you could get stunned or disabled in some way."
+			"item_boots_of_bearing"		"Boots of Bearing makes initiating easier for you. Boots of Bearing should be used liberally to give your team incredible movement speed to engage the enemy after initiation or, if necessary, as an escape if you find you or your teammates are in trouble. Your Boots will recharge, so don’t worry about running out."
+			"item_sheepstick"		"Late in the game, Scythe of Vyse solves all your mana issues but more importantly guarantees to lock enemies down before they can even pop BKB. Its a great initiating tool when you know the enemy relies on BKB to safely output their damage."
+			"item_harpoon"		"Harpoon gives Lycan the ability to stay on top of enemies who persistently escape from his clutches. Lycan relies on enemies to get close to maximize his ultimates duration, making Harpoon incredibly desirable."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"lycan_summon_wolves"
+			"2"		"lycan_feral_impulse"
+			"3"		"lycan_summon_wolves"
+			"4"		"lycan_howl"
+			"5"		"lycan_summon_wolves"
+			"6"		"lycan_shapeshift"
+			"7"		"lycan_summon_wolves"
+			"8"		"lycan_feral_impulse"
+			"9"		"lycan_feral_impulse"
+			"10"		"lycan_feral_impulse"
+			"11"		"special_bonus_unique_lycan_howl_armor"
+			"12"		"lycan_shapeshift"
+			"13"		"lycan_howl"
+			"14"		"lycan_howl"
+			"15"		"special_bonus_unique_lycan_8"
+			"16"		"lycan_howl"
+			"18"		"lycan_shapeshift"
+			"20"		"special_bonus_unique_lycan_1"
+			"25"		"special_bonus_unique_lycan_5"
+		}
+		"AbilityTooltips"
+		{
+			"lycan_summon_wolves"		"Use Summon Wolves to harass your foes, jungle when your lane is pushed and tank some damage when doing Roshan.
+
+When using your wolves to tank Jungle damage, be sure to rotate them to avoid them dying, be sure to rotate them to maximize your output damage."
+			"lycan_feral_impulse"		"Also affects illusions and Lycan-owned creeps/units (Wolves, controlled units).
+
+Howl combined with Feral Pulse make Lycan a very strong pusher.
+
+Feral Impulse works globally, allowing your units to farm lanes from afar and with great damage."
+			"lycan_shapeshift"		"Your ultimate gives you maximum speed and prevents you from being slowed. Use it to chase down weak foes or gank during your initial advantage in levels (after doing Roshan). Resume farming when it is on cooldown.
+
+There is a cast time, so use this ability pre-emptively as you dont want to be interrupted when casting it."
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"special_bonus_cooldown_reduction_12"		"Reduces both ability and active-item cooldowns."
+			"lycan_wolf_bite"		"Use Wolf Bite on your other physical carry heroes who have a lot of attack speed or damage that can take advantage of your life-stealing bonuses, movement freedom and critical chance."
+			"lycan_howl"		"Consistently use Howl due to its low cooldown and high-range so you can push lanes with your Wolves or farm multiple areas very quickly with it.
+
+Evidently, works well in fights and globally at night so spam it regularly."
+		}
+	}
+}
+ 

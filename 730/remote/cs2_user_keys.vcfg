@@ -20,8 +20,9 @@
 		"g"		"drop"
 		"'"		"noclip"
 		"-"		"sv_rethrow_last_grenade"
-		"x"		"slot12"
+		"x"		"+jumpaction;+throwaction;"
 		"p"		"sv_cheats 1; noclip"
 		"MWHEELDOWN"		"<unbound>"
+		"t"		"+jumpaction;+throwaction;"
 	}
 }

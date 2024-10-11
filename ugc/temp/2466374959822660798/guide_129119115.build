@@ -1,0 +1,157 @@
+"guidedata"
+{
+	"Hero"		"huskar"
+	"Title"		"Standard Position 2, Facet 3"
+	"Role"		"#DOTA_HeroGuide_Role_Core"
+	"GameplayVersion"		"7.37d"
+	"Overview"		"[quote][img]https://i.imgur.com/VEIbndI.jpeg [/img ]
+[url=https://go.thunder.partners/visit/?bta=36634&nci=5506] Sponsored by: Thunderpick [/url ][/quote]"
+	"GuideRevision"		"399"
+	"AssociatedWorkshopItemID"		"0x0000000007B2338B"
+	"OriginalCreatorID"		"0x000000000235D6F0"
+	"GuideFormatVersion"		"2"
+	"TimeUpdated"		"0x000000006706900E"
+	"TimePublished"		"0x000000006706900E"
+	"ItemBuild"
+	{
+		"Items"
+		{
+			"starting items"
+			{
+				"item"		"item_tango"
+				"item"		"item_branches"
+				"item"		"item_faerie_fire"
+				"item"		"item_gauntlets"
+				"item"		"item_gauntlets"
+				"item"		"item_ward_observer"
+			}
+			"Early game"
+			{
+				"item"		"item_boots"
+				"item"		"item_wind_lace"
+				"item"		"item_helm_of_iron_will"
+				"item"		"item_armlet"
+			}
+			"Core items"
+			{
+				"item"		"item_sange"
+				"item"		"item_black_king_bar"
+				"item"		"item_heavens_halberd"
+				"item"		"item_ultimate_scepter"
+			}
+			"Situational items"
+			{
+				"item"		"item_magic_wand"
+				"item"		"item_phase_boots"
+				"item"		"item_blade_mail"
+				"item"		"item_sange_and_yasha"
+				"item"		"item_sphere"
+			}
+			"Extension items"
+			{
+				"item"		"item_aghanims_shard"
+				"item"		"item_travel_boots"
+				"item"		"item_nullifier"
+				"item"		"item_satanic"
+				"item"		"item_assault"
+				"item"		"item_overwhelming_blink"
+			}
+		}
+		"ItemTooltips"
+		{
+			"item_assault"		"Assault Cuirass diminishes the amount of physical damage you take and adds onto your attack speed to make you ungodly, pretty damn good. The initial attack speed from Assault Cuirass will help send out Burning Spears first and make your HP at an optimal level."
+			"item_black_king_bar"		"As you are losing and regenerating health, you want to be able to consistently deal out damage. Black King Bar prevents anyone from disrupting you.
+
+Activate Black King Bar before you Life Break to prevent any health loss from your ultimate from actually happening."
+			"item_blade_mail"		"This item works wonders to restrict the damage you take, mitigate the amount of physical damage you take and further increase your survivability. Towards later parts of the game, where one hit can take out chunks of your life; Blade Mail should be considered."
+			"item_armlet"		"Activate Armlet after your ultimate: Life Break to recuperate some of your lost health and mitigate the cost of your ultimate. It goes without saying that this item can keep your life above a certain minimum, but also low enough to allow you to dish out damage."
+			"item_satanic"		"With Satanic, you have sufficient damage output but need to remain in fights. Satanic gives you more survivability and works great to capitalize on the damage youre dealing to extend fights long enough for you to win them.
+
+The key value is the dispel which helps you avoid being slowed or diminished when you need it most in a fight."
+			"item_heavens_halberd"		"Heavens Halberd is the final piece to making you unstoppable. With your passive reducing any magic damage you would take and Heavens Halberd interrupting foes from right-clicking you to death; Huskar can safely auto-attack entire teams without fear of damage."
+			"item_solar_crest"		"Solar Crest provides defensive capabilities for yourself but more importantly, adds fragility to enemies by reducing their armor - allowing your carry and you to kill the more quickly. Use this also to farm jungle creeps more quickly as there is no mana cost.
+"
+			"item_sphere"		"Consider Linken&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Sphere if specific ultimate, target abilities like stuns and silences are keeping you down. This should be seen different as Black King Bar because it will waste ultimate abilities on you like Doom&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Doom or Necrophos&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos; Reaper Scythe from completely killing/disabling you."
+			"item_hurricane_pike"		"When enemies get too close and in your face, use Hurricane Pike to push them away and provide insane range for your attacks.
+
+Also useful if you have the jump on them to push them immediately apart from your attacks and kite them hard."
+			"item_monkey_king_bar"		"Monkey King Bar is ideal for users who need additional attack speed and versus evasive heroes either via Butterfly, inherent passive abilities or cause you to miss attacks. Monkey King Bar not only provides strong attack speed but also heightens your ability to your enemies with your attacks."
+			"item_tango"		"Plant a tree with iron branch to consume with tangos to increase your regeneration - especially useful in the mid-lane where you want to save starting items to afford early game items like bottle or boots of speed."
+			"item_ultimate_scepter"		"The interesting thing about Aghanims Scepter is that it turns the foes onto you. Targeting nuking heroes or supports means you can almost guarantee to kill and allows you to keep your BKB on for follow-up engagements."
+			"item_lifesteal"		"An early Morbid Mask can be justified if you need the extra lifesteal early on."
+			"item_boots"		"The movement speed between Boots of Speed and Power Treads are the same, so we leave it unupgraded so you can get your more important items earlier."
+			"item_power_treads"		"Change the attributes of your Power Threads depending if you need to farm (AGI, more attack speed), fight (STR, more health, to survive longer) or regenerate mana (INT, mana regen.). When using Salve or Clarity, keep your boots on AGI to have a smaller pool of health or mana so more is replenished upon consumption."
+			"item_phase_boots"		"Phase Boots to help close the gap as Huskar and increase your damage if you are being conservative in itemization and talents.
+
+The extra armor helps a lot versus a physical line-up."
+			"item_eternal_shroud"		"Eternal Shroud reduces your life lost from your ultimate while also giving you additional survivability versus magic-nukers.
+
+Activate Eternal Shroud before you cast your ultimate to negate lost health."
+			"item_sange"		"You get Sange first because it plays into Huskars preferred stats and helps remove stuns and status effects (disables)."
+			"item_nullifier"		"The one way to stop Huskar from killing his enemies is through Ghost Scepter or Glimmer Cape. Nullifier removes that so the enemy can continue to take your attacks head-on."
+			"item_aghanims_shard"		"Aghs Shard can bounce you right back into a fight after you Life Break initiate. Be sure to pop this especially after being disabled or when you are low enough to be potentially killed by enemies."
+			"item_helm_of_iron_will"		"An early Helm will help with survivability but also means an early Armlet to fight with when ganking."
+			"item_branches"		"Iron Branch can be placed on the ground to then be consumed by your tangos for additional healing."
+			"item_bracer"		"An early bracer increases your survivability in the lane especially versus a heavy harassing team."
+			"item_sange_and_yasha"		"Sange and Yasha relieves pressure on some of the awkward parts of Huskar. Sange reduces disable durations, making your reliance on BKB less and Yasha gives you a bit more attack speed and movement speed allowing, adding onto Berserkers Blood and to provide more positioning with the movement."
+			"item_wind_lace"		"If you dont need early-game items and have the inventory slots available, you can opt for a Wind Lace for great movement at a relatively low cost."
+			"item_magic_wand"		"Against key magic users, Magic Wand can help replenish your health. Since you dont have any mana, Magic Wand is not as valuable as other items you could be getting."
+		}
+	}
+	"AbilityBuild"
+	{
+		"AbilityOrder"
+		{
+			"1"		"huskar_burning_spear"
+			"2"		"huskar_berserkers_blood"
+			"3"		"huskar_berserkers_blood"
+			"4"		"huskar_burning_spear"
+			"5"		"huskar_berserkers_blood"
+			"6"		"huskar_life_break"
+			"7"		"huskar_berserkers_blood"
+			"8"		"huskar_inner_fire"
+			"9"		"huskar_burning_spear"
+			"10"		"huskar_burning_spear"
+			"11"		"huskar_inner_fire"
+			"12"		"huskar_life_break"
+			"13"		"huskar_inner_fire"
+			"14"		"huskar_inner_fire"
+			"15"		"special_bonus_unique_huskar_3"
+			"16"		"special_bonus_lifesteal_15"
+			"18"		"huskar_life_break"
+			"20"		"special_bonus_unique_huskar_6"
+			"25"		"special_bonus_unique_huskar_5"
+		}
+		"AbilityTooltips"
+		{
+			"huskar_inner_vitality"		"Use this during fights or before initiating, there is a small casting animation, so use it where you know you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll have time to cast it. With your item: Armlet and this, you&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;ll find yourself staying just above alive and tearing down teams."
+			"huskar_burning_spear"		"During the laning phase, use this to harass your foe. Later on, this will be how you tear down foes as the flames do stack and deal additional damage.
+
+Cannot self-deny with this ability."
+			"huskar_life_break"		"Life Break is your initiation. It lowers your health giving you a jump in attack speed thanks to your passive:
+
+1. Life Break onto a foe (activate BKB before if you have it)
+2. Activate Armlet of Mordiggan immediately (if you bought it) during or after
+3. End with Inner-Fire to prevent your target(s) from fighting back
+4. Stack Burning Spear Damage"
+			"attribute_bonus"		"This hero build and many others are supported by the following Patrons and contributors:
+
++ 
+
+Support us and have your name directly credited in a hero build of your choice. Visit Patreon.com/Torte"
+			"huskar_berserkers_blood"		"Berserkers Blood is your sustain to while fighting. The regeneration also provides incredible health regen to keep your flowing in fights and stacking Burning Spear damage.
+
+Keep your health at about 40 to 60% to maximize your output when farming or even fighting.
+
+After a certain point, with lifesteal, you can take on Roshan solo."
+			"huskar_inner_fire"		"1. Initiate with Life Break
+2. Cast Inner Fire in the direction you want to push them (towards your teammates, towers, away from their base) or simply to disable them
+3. Auto-cast Burning Spear
+
+If you bought Heavens Halberd, extend that disarm duration with it. You can grab an earlier point in Inner Fire, before level 6, if ganking enemies with key escape abilities."
+			"special_bonus_attack_damage_12"		"The extra damage will help you farm creeps as using your Burning Spear to wear them down is relatively slow compared to direct damage on attack."
+			"special_bonus_hp_175"		"The extra health means faster attack speed as more health missing means more attack speed (from Berseker&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;apos;s Blood)."
+		}
+	}
+}
+ 

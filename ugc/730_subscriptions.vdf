@@ -1,5 +1,11 @@
 "subscribedfiles"
 {
 	"appid"		"730"
-	"time_last_updated"		"1692810288"
+	"time_last_updated"		"1719247580"
+	"0"
+	{
+		"publishedfileid"		"3240880604"
+		"time_subscribed"		"1719305551"
+		"disabled_locally"		"0"
+	}
 }
